@@ -1,0 +1,205 @@
+{
+ "batch": 15,
+ "unit": 7,
+ "unit_title": "Pressure & Fluids at Rest",
+ "unit_slug": "pressure-fluids-at-rest",
+ "n_lessons": 9,
+ "lessons": [
+  {
+   "slug": "altitude-air-pressure",
+   "title": "Altitude and Air Pressure: From the Coast to the Highlands",
+   "focus": "Ears pop on the escarpment; sealed bottles swell when travelling down; boiling point drops in the highlands (cooking time!).",
+   "cbe": [
+    "G10-PHY-1.2",
+    "G10-PHY-1.4"
+   ],
+   "materials": [
+    "sealed plastic bottle",
+    "local altitude map"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Nairobi ≈ 1660 m, ~84 kPa: why does ugali cooking take longer there? Link pressure to boiling point.",
+   "n": 167,
+   "unit_slug": "pressure-fluids-at-rest",
+   "unit_title": "Pressure & Fluids at Rest",
+   "unit": 7,
+   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-167-altitude-air-pressure.md"
+  },
+  {
+   "slug": "barometers",
+   "title": "Build: A Bottle Barometer for Weather Watching",
+   "focus": "Inverted bottle neck in water jar; falling water = rising pressure; keep a two-week weather log against observations.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "bottle",
+    "jar",
+    "water",
+    "scale card",
+    "log book"
+   ],
+   "hands_on": true,
+   "project": "barometer",
+   "advanced": "Explain why temperature changes can fool a bottle barometer; propose a correction routine.",
+   "n": 168,
+   "unit_slug": "pressure-fluids-at-rest",
+   "unit_title": "Pressure & Fluids at Rest",
+   "unit": 7,
+   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-168-barometers.md"
+  },
+  {
+   "slug": "transmission-pressure",
+   "title": "Pascal's Principle: Pressure Travels Through Fluids",
+   "focus": "Squeeze a sealed bottle, water jets from all holes equally; pressure applied to enclosed fluid transmits undiminished.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "bottle with holes + cap",
+    "water"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "State Pascal's principle and use it to derive the hydraulic force multiplication F2=F1·A2/A1.",
+   "n": 169,
+   "unit_slug": "pressure-fluids-at-rest",
+   "unit_title": "Pressure & Fluids at Rest",
+   "unit": 7,
+   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-169-transmission-pressure.md"
+  },
+  {
+   "slug": "hydraulic-machines-1",
+   "title": "Hydraulic Machines I: The Syringe Lift",
+   "focus": "Two syringes + tube of water: small plunger lifts heavy load on big plunger; measure the multiplication.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "two syringes (different sizes)",
+    "IV/aquarium tube",
+    "water",
+    "weights"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Plungers 1 cm² and 10 cm²: ideal MA, and the distance trade when small plunger moves 10 cm.",
+   "n": 170,
+   "unit_slug": "pressure-fluids-at-rest",
+   "unit_title": "Pressure & Fluids at Rest",
+   "unit": 7,
+   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-170-hydraulic-machines-1.md"
+  },
+  {
+   "slug": "hydraulic-machines-2",
+   "title": "Hydraulic Machines II: Brakes, Presses and Excavators",
+   "focus": "Car brake circuits, jua kali press, excavator arms; why fluid not air (incompressibility); bleeding brakes story.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "photos/cards",
+    "syringe rig"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Explain why an air bubble in a brake line makes the pedal 'spongy' and dangerous.",
+   "n": 171,
+   "unit_slug": "pressure-fluids-at-rest",
+   "unit_title": "Pressure & Fluids at Rest",
+   "unit": 7,
+   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-171-hydraulic-machines-2.md"
+  },
+  {
+   "slug": "hydraulic-lift-build",
+   "title": "Build: The Hydraulic Lift Challenge I",
+   "focus": "Team build: syringe-and-tube lift raising a stone platform; document design choices.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "syringes",
+    "tube",
+    "wood platform",
+    "wire",
+    "stones"
+   ],
+   "hands_on": true,
+   "project": "hydraulic-lift",
+   "advanced": "Predict the maximum load from plunger areas and your measured push force.",
+   "n": 172,
+   "unit_slug": "pressure-fluids-at-rest",
+   "unit_title": "Pressure & Fluids at Rest",
+   "unit": 7,
+   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-172-hydraulic-lift-build.md"
+  },
+  {
+   "slug": "hydraulic-lift-test",
+   "title": "Build: The Hydraulic Lift Challenge II — Test and Measure",
+   "focus": "Competition: heaviest load lifted 2 cm; compute MA and efficiency; leak post-mortems.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "rigs",
+    "stone set",
+    "spring balance",
+    "tape"
+   ],
+   "hands_on": true,
+   "project": "hydraulic-lift",
+   "advanced": "Your lift achieved MA 6 vs ideal 10: name two loss mechanisms and one fix each.",
+   "n": 173,
+   "unit_slug": "pressure-fluids-at-rest",
+   "unit_title": "Pressure & Fluids at Rest",
+   "unit": 7,
+   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-173-hydraulic-lift-test.md"
+  },
+  {
+   "slug": "gas-pressure",
+   "title": "Pressure in Gases: Particles on the Attack",
+   "focus": "Pump a ball/tyre and feel it firm up; particles bombarding walls; pressure rises when volume shrinks (qualitative).",
+   "cbe": [
+    "G10-PHY-1.2",
+    "JS-FE"
+   ],
+   "materials": [
+    "ball",
+    "bicycle pump",
+    "balloon"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Use particle collisions to explain why a sealed balloon shrinks in cold water.",
+   "n": 174,
+   "unit_slug": "pressure-fluids-at-rest",
+   "unit_title": "Pressure & Fluids at Rest",
+   "unit": 7,
+   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-174-gas-pressure.md"
+  },
+  {
+   "slug": "boyles-law-teaser",
+   "title": "Squeezing Air: A Qualitative Boyle's Law",
+   "focus": "Seal a syringe and push: volume halves, push-back roughly doubles; graphs for the older students.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "syringes with caps",
+    "weights"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Take volume vs pressure readings with stacked weights; test P·V ≈ constant from your data.",
+   "n": 175,
+   "unit_slug": "pressure-fluids-at-rest",
+   "unit_title": "Pressure & Fluids at Rest",
+   "unit": 7,
+   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-175-boyles-law-teaser.md"
+  }
+ ]
+}

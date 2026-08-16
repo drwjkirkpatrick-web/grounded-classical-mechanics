@@ -1,0 +1,279 @@
+{
+ "batch": 10,
+ "unit": 5,
+ "unit_title": "Work, Energy & Power",
+ "unit_slug": "work-energy-power",
+ "n_lessons": 13,
+ "lessons": [
+  {
+   "slug": "food-as-fuel",
+   "title": "Food as Fuel: Kilojoules on the Plate",
+   "focus": "Food labels in kJ; energy cost of walking, farming, studying; match meals to a day's work.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "UP-FE"
+   ],
+   "materials": [
+    "food packets with labels",
+    "activity cards"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Ugali portion 1500 kJ: how many 3 m stair climbs (60 kg person) does it theoretically power?",
+   "n": 112,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-112-food-as-fuel.md"
+  },
+  {
+   "slug": "kenya-energy-story",
+   "title": "Kenya's Energy Story: Firewood to Geothermal",
+   "focus": "Firewood/charcoal, hydro (Seven Forks), geothermal (Olkaria), wind (Lake Turkana), solar home systems; mapping sources to uses.",
+   "cbe": [
+    "G10-PHY-4.1",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "map of Kenya",
+    "source cards"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Rank sources by renewability and reliability for a rural school; defend the ranking.",
+   "n": 113,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-113-kenya-energy-story.md"
+  },
+  {
+   "slug": "efficiency",
+   "title": "Efficiency: Useful Out Over Total In",
+   "focus": "η = useful/total; traditional 3-stone fire vs improved jiko; why no machine beats 100%.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "jiko images",
+    "data cards"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Improved jiko delivers 12 MJ from 40 MJ of charcoal; compute η and wood saved per week at 3 kg/day baseline.",
+   "n": 114,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-114-efficiency.md"
+  },
+  {
+   "slug": "home-energy-audit-1",
+   "title": "Project: Home Energy Audit I — Collect the Data",
+   "focus": "Survey home energy uses (cooking, lighting, phone charging, transport); estimate weekly energy by source.",
+   "cbe": [
+    "G10-PHY-4.1",
+    "UP-FE"
+   ],
+   "materials": [
+    "audit worksheet",
+    "pencil"
+   ],
+   "hands_on": true,
+   "project": "energy-audit",
+   "advanced": "Design the survey so answers are in kWh or MJ estimable units; justify your assumptions.",
+   "n": 115,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-115-home-energy-audit-1.md"
+  },
+  {
+   "slug": "home-energy-audit-2",
+   "title": "Project: Home Energy Audit II — Present the Savings Plan",
+   "focus": "Tabulate class results; biggest savings opportunities; present a family energy-saving plan.",
+   "cbe": [
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "chart paper",
+    "audit data"
+   ],
+   "hands_on": true,
+   "project": "energy-audit",
+   "advanced": "Convert charcoal kg/week to MJ and trees/year (≈25 MJ/kg charcoal, 6 kg wood per kg charcoal): make the case.",
+   "n": 116,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-116-home-energy-audit-2.md"
+  },
+  {
+   "slug": "peanut-power-demo",
+   "title": "Teacher Demo: Burning a Groundnut to Heat Water",
+   "focus": "Teacher-led: burn groundnut under a tin of water; estimate food energy from temperature rise; strict fire safety.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.4"
+   ],
+   "materials": [
+    "groundnut",
+    "needle/cork holder",
+    "tin",
+    "thermometer or hand-feel",
+    "water",
+    "sand bucket"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Water 50 g rises 20°C (4200 J/kg·°C → 4200 J): groundnut mass 0.5 g — compute J/g and compare with label ~24 kJ/g; why low?",
+   "n": 117,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-117-peanut-power-demo.md"
+  },
+  {
+   "slug": "work-energy-link",
+   "title": "The Work–Energy Link",
+   "focus": "Work done on something becomes its energy: lift = mgh; drag = KE change; calculations tying Units 5.1-5.7 together.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "jerrican",
+    "tape",
+    "ball"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A 1000 N force pushes a cart 15 m from rest; friction eats 5000 J: find final KE and speed for 200 kg cart.",
+   "n": 118,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-118-work-energy-link.md"
+  },
+  {
+   "slug": "engine-power-ratings",
+   "title": "Power Ratings: Reading Machines",
+   "focus": "What '125 cc', '5 kW', '0.5 hp pump' mean; matching machine power to the job (pump head, load).",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "machine label photos/cards"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A 1 kW pump lifts water 8 m: compute maximum litres per minute at 60% efficiency.",
+   "n": 119,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-119-engine-power-ratings.md"
+  },
+  {
+   "slug": "energy-chain-design",
+   "title": "Project: Rube Goldberg Energy Chain I — Design",
+   "focus": "Design a 5-step energy chain reaction from junk (marble run → lever → pendulum → balloon pop...); draw energy-flow diagram.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "junk box: bottles, sticks, string, marbles, balloons, dominoes"
+   ],
+   "hands_on": true,
+   "project": "energy-chain",
+   "advanced": "Annotate the design with an energy store-and-transfer label at every step.",
+   "n": 120,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-120-energy-chain-design.md"
+  },
+  {
+   "slug": "energy-chain-build",
+   "title": "Project: Rube Goldberg Energy Chain II — Build and Run",
+   "focus": "Build, test, debug; reliability counts; class run-through and judging.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "junk box",
+    "tape",
+    "tools"
+   ],
+   "hands_on": true,
+   "project": "energy-chain",
+   "advanced": "Identify the weakest link energetically (where input barely exceeds threshold) and strengthen it.",
+   "n": 121,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-121-energy-chain-build.md"
+  },
+  {
+   "slug": "renewable-debate",
+   "title": "Renewable vs Non-Renewable: The Charcoal Debate",
+   "focus": "Structured debate: charcoal economy vs forests vs jobs; numbers on both sides; what sustainability means.",
+   "cbe": [
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "fact cards"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Kenya uses ~2.5 M tonnes charcoal/year: at 6 kg wood per kg, compute wood demand and discuss solutions numerically.",
+   "n": 122,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-122-renewable-debate.md"
+  },
+  {
+   "slug": "units-mastery-day",
+   "title": "Units Mastery Day: Joules, Watts, Newtons",
+   "focus": "Games and drills converting between N, J, W, m, kg, s; common confusions (W for work vs watt).",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "unit cards",
+    "quiz sheets"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Derive the joule in base units (kg·m²/s²) and use it to check the units of KE = ½mv².",
+   "n": 123,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-123-units-mastery-day.md"
+  },
+  {
+   "slug": "energy-expo-review",
+   "title": "Unit Review: Energy Expo",
+   "focus": "Teams run demo stations (power stairs, chains, jiko efficiency posters); unit quiz.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "all unit 5 kit"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Write the expo 'energy balance sheet' for one station showing inputs, useful outputs and losses.",
+   "n": 124,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-124-energy-expo-review.md"
+  }
+ ]
+}

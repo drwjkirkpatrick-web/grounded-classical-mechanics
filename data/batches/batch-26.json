@@ -1,0 +1,178 @@
+{
+ "batch": 26,
+ "unit": 12,
+ "unit_title": "Momentum & Collisions",
+ "unit_slug": "momentum-collisions",
+ "n_lessons": 8,
+ "lessons": [
+  {
+   "slug": "recoil",
+   "title": "Recoil: Stepping Off the Dugout",
+   "focus": "Step off a low-friction plank on rollers and it slides back; canoe push-offs; firefighter hose kickback stories.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "plank",
+    "round-stick rollers",
+    "open floor"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "60 kg student steps off at 2 m/s from a 20 kg plank: plank recoil speed?",
+   "n": 269,
+   "unit_slug": "momentum-collisions",
+   "unit_title": "Momentum & Collisions",
+   "unit": 12,
+   "filename": "lessons/unit-12-momentum-collisions/lesson-269-recoil.md"
+  },
+  {
+   "slug": "rockets-momentum",
+   "title": "Rockets Are Momentum Machines",
+   "focus": "Revisit the Unit 4 water rocket: mass out the back, rocket forward; why staged pumps beat single blasts.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "water rocket (from unit 4)",
+    "launcher"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Estimate thrust: 0.5 L expelled in 0.15 s at 20 m/s — average force and peak acceleration of a 0.3 kg rocket.",
+   "n": 270,
+   "unit_slug": "momentum-collisions",
+   "unit_title": "Momentum & Collisions",
+   "unit": 12,
+   "filename": "lessons/unit-12-momentum-collisions/lesson-270-rockets-momentum.md"
+  },
+  {
+   "slug": "crumple-cushion",
+   "title": "Crumple Zones and Cushions",
+   "focus": "Egg on foam vs floor revisited with numbers; crumple zones extend collision time; helmet foam anatomy.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "eggs/clay",
+    "foam/grass",
+    "hard floor",
+    "helmet (if available)"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Design spec: keep head force under 300 N for a 3 m fall onto a helmet liner — estimate needed crush distance.",
+   "n": 271,
+   "unit_slug": "momentum-collisions",
+   "unit_title": "Momentum & Collisions",
+   "unit": 12,
+   "filename": "lessons/unit-12-momentum-collisions/lesson-271-crumple-cushion.md"
+  },
+  {
+   "slug": "boda-safety-campaign",
+   "title": "Project: Boda Safety Physics Campaign",
+   "focus": "Turn impulse, braking and momentum data into posters for the local boda stage; peer-test the messages.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "poster paper",
+    "markers",
+    "collected class data"
+   ],
+   "hands_on": true,
+   "project": "safety-poster",
+   "advanced": "Include one quantitative panel: compute a braking distance at 40 vs 60 km/h with realistic deceleration.",
+   "n": 272,
+   "unit_slug": "momentum-collisions",
+   "unit_title": "Momentum & Collisions",
+   "unit": 12,
+   "filename": "lessons/unit-12-momentum-collisions/lesson-272-boda-safety-campaign.md"
+  },
+  {
+   "slug": "carrom-marbles",
+   "title": "Momentum Games: Carrom and Marbles Tourney",
+   "focus": "Angles and speed transfer in carrom breaks and marbles; predict rebounds; run a scored mini-tournament.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "carrom board or chalk court",
+    "marbles/tops"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Analyze a glancing collision: momentum as vectors; why does the striker deflect rather than stop?",
+   "n": 273,
+   "unit_slug": "momentum-collisions",
+   "unit_title": "Momentum & Collisions",
+   "unit": 12,
+   "filename": "lessons/unit-12-momentum-collisions/lesson-273-carrom-marbles.md"
+  },
+  {
+   "slug": "newtons-cradle-build",
+   "title": "Build: A Bottle-Top Newton's Cradle",
+   "focus": "Five nuts/tops on V-strings in a frame; tune contact for clean transfers; one swings in, one swings out.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "nuts/tops",
+    "string",
+    "wooden frame",
+    "glue/knots"
+   ],
+   "hands_on": true,
+   "project": "newtons-cradle",
+   "advanced": "Explain why two-in produces two-out using both conservation laws, not momentum alone.",
+   "n": 274,
+   "unit_slug": "momentum-collisions",
+   "unit_title": "Momentum & Collisions",
+   "unit": 12,
+   "filename": "lessons/unit-12-momentum-collisions/lesson-274-newtons-cradle-build.md"
+  },
+  {
+   "slug": "momentum-in-water",
+   "title": "Momentum in Water and Air",
+   "focus": "Hose jet pushes back; river bends erode the outside bank; fanning air moves paper; fluid momentum in daily life.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "hose",
+    "paper",
+    "basin"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Hose delivers 0.5 kg/s at 4 m/s: compute the reaction force on the holder's hands.",
+   "n": 275,
+   "unit_slug": "momentum-collisions",
+   "unit_title": "Momentum & Collisions",
+   "unit": 12,
+   "filename": "lessons/unit-12-momentum-collisions/lesson-275-momentum-in-water.md"
+  },
+  {
+   "slug": "collision-lab-review",
+   "title": "Unit Review: Collision Lab Day",
+   "focus": "Stations: marble swaps, clay sticks, cradle demo, impulse egg test; unit quiz.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "all unit 12 kit"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Open-ended: design an experiment to verify conservation of momentum with only a ruler, stopwatch and two carts.",
+   "n": 276,
+   "unit_slug": "momentum-collisions",
+   "unit_title": "Momentum & Collisions",
+   "unit": 12,
+   "filename": "lessons/unit-12-momentum-collisions/lesson-276-collision-lab-review.md"
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "batch": 24,
+ "unit": 11,
+ "unit_title": "Oscillations & Pendulums",
+ "unit_slug": "oscillations-pendulums",
+ "n_lessons": 9,
+ "lessons": [
+  {
+   "slug": "pendulum-clock-2",
+   "title": "Build: The One-Second Pendulum Clock II — Calibrate",
+   "focus": "Adjust length against a clock over 5 minutes; temperature and wind effects; log drift; name your clock.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "clock build",
+    "stopwatch",
+    "log sheet"
+   ],
+   "hands_on": true,
+   "project": "pendulum-clock",
+   "advanced": "Clock gains 2 s per 10 min: compute the length correction needed, with direction.",
+   "n": 252,
+   "unit_slug": "oscillations-pendulums",
+   "unit_title": "Oscillations & Pendulums",
+   "unit": 11,
+   "filename": "lessons/unit-11-oscillations-pendulums/lesson-252-pendulum-clock-2.md"
+  },
+  {
+   "slug": "swing-pumping",
+   "title": "How to Pump a Swing Higher",
+   "focus": "Standing-squatting timing pumps energy in; parametric pumping felt on a playground swing; timing is everything.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "playground swing"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Explain pumping as changing effective length twice per cycle; where does the added energy come from?",
+   "n": 253,
+   "unit_slug": "oscillations-pendulums",
+   "unit_title": "Oscillations & Pendulums",
+   "unit": 11,
+   "filename": "lessons/unit-11-oscillations-pendulums/lesson-253-swing-pumping.md"
+  },
+  {
+   "slug": "resonance",
+   "title": "Resonance: Small Pushes, Big Swings",
+   "focus": "Push at the natural frequency; shaky bridge stories, wine-glass legend, boda bouncing on corrugations; damping as the cure.",
+   "cbe": [
+    "G10-PHY-2.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "two pendulums on a shared string",
+    "spring"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Two coupled pendulums: explain energy transfer when lengths match, and detuning when they don't.",
+   "n": 254,
+   "unit_slug": "oscillations-pendulums",
+   "unit_title": "Oscillations & Pendulums",
+   "unit": 11,
+   "filename": "lessons/unit-11-oscillations-pendulums/lesson-254-resonance.md"
+  },
+  {
+   "slug": "damping",
+   "title": "Damping: The Shock Absorber's Job",
+   "focus": "Swings stop by air + friction; test a mass on rubber with and without a card damper; boda shocks bounce-test.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "rubber strip",
+    "mass",
+    "card damper",
+    "bicycle/boda observation"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "A bounce-test corner settles in 1.5 vs 4 cycles after shock service: explain what changed energetically.",
+   "n": 255,
+   "unit_slug": "oscillations-pendulums",
+   "unit_title": "Oscillations & Pendulums",
+   "unit": 11,
+   "filename": "lessons/unit-11-oscillations-pendulums/lesson-255-damping.md"
+  },
+  {
+   "slug": "spring-oscillations",
+   "title": "Springs Oscillate Too: Mass on a Rubber Strip",
+   "focus": "Period vs hanging mass measured; heavier = slower here (unlike pendulum); T∝√m pattern.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "G10-PHY-2.1"
+   ],
+   "materials": [
+    "rubber strip/spring",
+    "masses",
+    "stopwatch"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Plot T² vs m; use the gradient with T=2π√(m/k) to extract your strip's spring constant k.",
+   "n": 256,
+   "unit_slug": "oscillations-pendulums",
+   "unit_title": "Oscillations & Pendulums",
+   "unit": 11,
+   "filename": "lessons/unit-11-oscillations-pendulums/lesson-256-spring-oscillations.md"
+  },
+  {
+   "slug": "metronome-build",
+   "title": "Build: A Stick Metronome",
+   "focus": "Inverted pendulum with sliding weight: slide up for slow, down for fast; calibrate beats per minute for music.",
+   "cbe": [
+    "G10-PHY-2.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "ruler/stick",
+    "pivot",
+    "sliding clay weight",
+    "protractor card"
+   ],
+   "hands_on": true,
+   "project": "metronome",
+   "advanced": "Explain with the physical-pendulum idea why moving mass up slows the beat.",
+   "n": 257,
+   "unit_slug": "oscillations-pendulums",
+   "unit_title": "Oscillations & Pendulums",
+   "unit": 11,
+   "filename": "lessons/unit-11-oscillations-pendulums/lesson-257-metronome-build.md"
+  },
+  {
+   "slug": "water-oscillations",
+   "title": "Sloshing Water: Basins, Tanks and Bores",
+   "focus": "Slosh a basin; natural slosh period vs basin size; why tankers have baffles; seiche on a lake teaser.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-2.1"
+   ],
+   "materials": [
+    "basin",
+    "water",
+    "divider cards"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Explain why baffles raise damping and shift frequency; design a baffle layout for a pickup water tank.",
+   "n": 258,
+   "unit_slug": "oscillations-pendulums",
+   "unit_title": "Oscillations & Pendulums",
+   "unit": 11,
+   "filename": "lessons/unit-11-oscillations-pendulums/lesson-258-water-oscillations.md"
+  },
+  {
+   "slug": "building-oscillations",
+   "title": "Buildings That Sway",
+   "focus": "Flexible vs stiff; Rift Valley earthquake awareness; water tanks on towers act like pendulums; model with sticks and clay.",
+   "cbe": [
+    "G10-PHY-2.1",
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "sticks",
+    "clay",
+    "shake table (board on rollers)"
+   ],
+   "hands_on": true,
+   "project": "shake-table",
+   "advanced": "Tall flexible vs short stiff model on the shake table: relate survival to natural frequency mismatch.",
+   "n": 259,
+   "unit_slug": "oscillations-pendulums",
+   "unit_title": "Oscillations & Pendulums",
+   "unit": 11,
+   "filename": "lessons/unit-11-oscillations-pendulums/lesson-259-building-oscillations.md"
+  },
+  {
+   "slug": "pendulum-olympics",
+   "title": "Unit Review: Pendulum Olympics",
+   "focus": "Stations: predict the period, tune to a target, coupled-pendulum demo, damping race; unit quiz.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-2.1"
+   ],
+   "materials": [
+    "all unit 11 kit"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Championship: specify a pendulum to keep Nairobi time within 30 s/day; show the design math.",
+   "n": 260,
+   "unit_slug": "oscillations-pendulums",
+   "unit_title": "Oscillations & Pendulums",
+   "unit": 11,
+   "filename": "lessons/unit-11-oscillations-pendulums/lesson-260-pendulum-olympics.md"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "batch": 35,
+ "unit": 16,
+ "unit_title": "Capstone, Review & Community Science",
+ "unit_slug": "capstone-review",
+ "n_lessons": 9,
+ "lessons": [
+  {
+   "slug": "practical-skills-review",
+   "title": "Practical Skills Review: Plan a Fair Test in 20 Minutes",
+   "focus": "Given a mystery question ('does blade angle matter?'), plan: variables, method, table, safety, expected graph.",
+   "cbe": [
+    "G10-PHY-1.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "planning templates"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Add the analysis plan: graph choice, gradient meaning, uncertainty statement.",
+   "n": 357,
+   "unit_slug": "capstone-review",
+   "unit_title": "Capstone, Review & Community Science",
+   "unit": 16,
+   "filename": "lessons/unit-16-capstone-review/lesson-357-practical-skills-review.md"
+  },
+  {
+   "slug": "capstone-brief",
+   "title": "Capstone I: Choose the Challenge",
+   "focus": "Teams pick: windmill upgrade, pump/siphon system, bridge-plus, instrument ensemble, or an approved new idea; write the brief and roles.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "brief templates",
+    "project menu"
+   ],
+   "hands_on": true,
+   "project": "capstone",
+   "advanced": "Include measurable success criteria and a test plan in the brief.",
+   "n": 358,
+   "unit_slug": "capstone-review",
+   "unit_title": "Capstone, Review & Community Science",
+   "unit": 16,
+   "filename": "lessons/unit-16-capstone-review/lesson-358-capstone-brief.md"
+  },
+  {
+   "slug": "capstone-build-1",
+   "title": "Capstone II: Prototype",
+   "focus": "Gather materials, prototype the risky part first; teacher check-ins against the brief.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "per team"
+   ],
+   "hands_on": true,
+   "project": "capstone",
+   "advanced": "Log the riskiest assumption and the prototype result that retired it.",
+   "n": 359,
+   "unit_slug": "capstone-review",
+   "unit_title": "Capstone, Review & Community Science",
+   "unit": 16,
+   "filename": "lessons/unit-16-capstone-review/lesson-359-capstone-build-1.md"
+  },
+  {
+   "slug": "capstone-build-2",
+   "title": "Capstone III: Build and Test",
+   "focus": "Full build; data collection plan executed; first failures documented honestly.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "per team"
+   ],
+   "hands_on": true,
+   "project": "capstone",
+   "advanced": "Mid-build report: what the data says vs the brief; the pivot you made and why.",
+   "n": 360,
+   "unit_slug": "capstone-review",
+   "unit_title": "Capstone, Review & Community Science",
+   "unit": 16,
+   "filename": "lessons/unit-16-capstone-review/lesson-360-capstone-build-2.md"
+  },
+  {
+   "slug": "capstone-build-3",
+   "title": "Capstone IV: Iterate and Document",
+   "focus": "One measured improvement cycle; finish documentation with diagrams and data tables.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "per team",
+    "cameras/notebooks"
+   ],
+   "hands_on": true,
+   "project": "capstone",
+   "advanced": "Final numbers: performance, efficiency, cost, and a realistic maintenance plan.",
+   "n": 361,
+   "unit_slug": "capstone-review",
+   "unit_title": "Capstone, Review & Community Science",
+   "unit": 16,
+   "filename": "lessons/unit-16-capstone-review/lesson-361-capstone-build-3.md"
+  },
+  {
+   "slug": "capstone-polish",
+   "title": "Capstone V: Poster and Rehearsal",
+   "focus": "Poster with problem, physics, data, result; rehearse the 3-minute demo; peer feedback round.",
+   "cbe": [
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "poster paper",
+    "markers"
+   ],
+   "hands_on": true,
+   "project": "capstone",
+   "advanced": "Prepare the two hardest audience questions for your project and the answers.",
+   "n": 362,
+   "unit_slug": "capstone-review",
+   "unit_title": "Capstone, Review & Community Science",
+   "unit": 16,
+   "filename": "lessons/unit-16-capstone-review/lesson-362-capstone-polish.md"
+  },
+  {
+   "slug": "community-science-day",
+   "title": "Community Science Day",
+   "focus": "Parents, fundis and leaders invited; teams run stations of the year's builds; capstones premiered; guest feedback cards.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "all year builds",
+    "feedback cards"
+   ],
+   "hands_on": true,
+   "project": "science-day",
+   "advanced": "Collect and summarize guest feedback quantitatively (ratings tally) for the class report.",
+   "n": 363,
+   "unit_slug": "capstone-review",
+   "unit_title": "Capstone, Review & Community Science",
+   "unit": 16,
+   "filename": "lessons/unit-16-capstone-review/lesson-363-community-science-day.md"
+  },
+  {
+   "slug": "reflection-portfolio",
+   "title": "Reflection and Portfolio",
+   "focus": "Each learner compiles best pre/post tests, graphs and build photos; writes 'what I can now do' against CBE outcomes.",
+   "cbe": [
+    "G10-PHY-1.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "portfolios",
+    "year files"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Self-assess against ten key outcomes with evidence citations from your portfolio.",
+   "n": 364,
+   "unit_slug": "capstone-review",
+   "unit_title": "Capstone, Review & Community Science",
+   "unit": 16,
+   "filename": "lessons/unit-16-capstone-review/lesson-364-reflection-portfolio.md"
+  },
+  {
+   "slug": "celebration-next-year",
+   "title": "Celebration and Next Year's Teaser",
+   "focus": "Certificates; dynamo and solar teasers for Electricity & Magnetism next year; the class physics pledge.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-3.1"
+   ],
+   "materials": [
+    "dynamo demo",
+    "certificates"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Preview problem: the windmill spins a dynamo — sketch the full energy chain to a lit bulb with efficiencies.",
+   "n": 365,
+   "unit_slug": "capstone-review",
+   "unit_title": "Capstone, Review & Community Science",
+   "unit": 16,
+   "filename": "lessons/unit-16-capstone-review/lesson-365-celebration-next-year.md"
+  }
+ ]
+}

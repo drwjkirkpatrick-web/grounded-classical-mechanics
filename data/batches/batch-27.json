@@ -1,0 +1,275 @@
+{
+ "batch": 27,
+ "unit": 13,
+ "unit_title": "Elasticity, Materials & Structures",
+ "unit_slug": "elasticity-materials-structures",
+ "n_lessons": 12,
+ "lessons": [
+  {
+   "slug": "materials-around-us",
+   "title": "The Materials Around Us",
+   "focus": "Survey: wood, steel, wire, sisal, mabati, clay, bamboo, PET bottles; match properties to uses in the school compound.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "UP-FE"
+   ],
+   "materials": [
+    "material samples box"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Build a properties matrix (strength, stiffness, weight, cost, rot) for five materials and one chosen use each.",
+   "n": 277,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-277-materials-around-us.md"
+  },
+  {
+   "slug": "stretch-it",
+   "title": "Stretch It: Elastic vs Plastic",
+   "focus": "Rubber returns, plasticine stays, wire does both in sequence; define elastic/plastic deformation with bends.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "JS-FE"
+   ],
+   "materials": [
+    "rubber strip",
+    "plasticine",
+    "soft wire"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Sketch the force-extension curve for wire: label elastic region, yield point, plastic region, break.",
+   "n": 278,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-278-stretch-it.md"
+  },
+  {
+   "slug": "hookes-law",
+   "title": "Hooke's Law: F = kx",
+   "focus": "Hang water-bottle weights on a rubber strip/spring; extension grows proportionally while in the elastic region; find k.",
+   "cbe": [
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "rubber strip/spring",
+    "bottles",
+    "water",
+    "ruler"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "From your graph gradient, compute k in N/m; predict the extension for a 2.5 kg load and test it.",
+   "n": 279,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-279-hookes-law.md"
+  },
+  {
+   "slug": "spring-constant-lab",
+   "title": "Spring Constant Lab: Calibrating Rubber",
+   "focus": "Measure k for three rubber strips; rubber stiffens at high stretch (non-Hookean tail); report honest ranges.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "rubber strips",
+    "masses",
+    "rulers",
+    "graph paper"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Quote k as a range with the valid force window; explain the tail using polymer chain alignment.",
+   "n": 280,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-280-spring-constant-lab.md"
+  },
+  {
+   "slug": "beyond-the-limit",
+   "title": "Beyond the Elastic Limit",
+   "focus": "Stretch to permanent set, then to breaking; record breaking forces; safety glasses and low drops.",
+   "cbe": [
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "strips/springs",
+    "weights",
+    "safety glasses"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Define breaking stress; compute it for a strip of known cross-section from your measured breaking force.",
+   "n": 281,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-281-beyond-the-limit.md"
+  },
+  {
+   "slug": "spring-scale-build",
+   "title": "Build: A Calibrated Spring Scale I",
+   "focus": "Refine the Unit 2 force meter: better pointer, card scale, zero adjustment; calibrate 0–10 N with water.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "rubber/spring",
+    "card",
+    "pointer wire",
+    "bottles"
+   ],
+   "hands_on": true,
+   "project": "spring-scale",
+   "advanced": "Explain how adding a second identical strip in parallel changes k; verify with a measurement.",
+   "n": 282,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-282-spring-scale-build.md"
+  },
+  {
+   "slug": "spring-scale-certify",
+   "title": "Build: A Calibrated Spring Scale II — Certification",
+   "focus": "Blind-test five mystery masses against a reference scale; error table; issue 'inspection certificates'.",
+   "cbe": [
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "scale builds",
+    "mystery masses",
+    "reference scale"
+   ],
+   "hands_on": true,
+   "project": "spring-scale",
+   "advanced": "Scale reads 4% low at 8 N but true at 2 N: model the fault (nonlinear strip?) and propose a correction table.",
+   "n": 283,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-283-spring-scale-certify.md"
+  },
+  {
+   "slug": "mechanical-properties",
+   "title": "Mechanical Properties of Materials (CBE 1.3)",
+   "focus": "Ductility (drawn wire), malleability (hammered bottle top), brittleness (chalk snap), hardness (scratch order), stiffness, strength — demonstrated in sequence.",
+   "cbe": [
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "wire",
+    "bottle top",
+    "hammer",
+    "chalk",
+    "nails",
+    "glass slide (care)"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Match each property to a product requirement: panga blade, bucket, window, spring, hammer face — justify.",
+   "n": 284,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-284-mechanical-properties.md"
+  },
+  {
+   "slug": "tensile-test-day",
+   "title": "Tensile Test Day: Sisal vs Cotton vs Wire",
+   "focus": "Pull strands to breaking with a bucket of sand as load; record breaking masses; strand-count scaling.",
+   "cbe": [
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "sisal",
+    "cotton",
+    "wire strands",
+    "bucket",
+    "sand",
+    "clamp stand"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Double the strands: predict and test the breaking load; explain any shortfall from ideal doubling.",
+   "n": 285,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-285-tensile-test-day.md"
+  },
+  {
+   "slug": "stress-and-strain",
+   "title": "Stress and Strain: Making Tests Comparable",
+   "focus": "Normalize by cross-section and original length; why a thick rope isn't 'stronger material', just more of it.",
+   "cbe": [
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "strands of known sizes",
+    "rulers",
+    "data sheets"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Compute stress at break for sisal from Unit data; compare with a tabulated value for steel wire.",
+   "n": 286,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-286-stress-and-strain.md"
+  },
+  {
+   "slug": "strong-shapes-folds",
+   "title": "Strong Shapes I: Folds and Corrugation",
+   "focus": "Flat paper flops, folded paper bridges books; mabati's corrugations give stiffness without weight; card I-beams.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "JS-FE"
+   ],
+   "materials": [
+    "paper",
+    "books",
+    "mabati offcut",
+    "cardboard"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Explain second moment of area qualitatively: why material far from the middle does the work.",
+   "n": 287,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-287-strong-shapes-folds.md"
+  },
+  {
+   "slug": "strong-shapes-arches",
+   "title": "Strong Shapes II: The Arch",
+   "focus": "Arches push outward and downward; build a card arch between books; eggshell dome strength demo (teacher); doorways and culverts.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "JS-FE"
+   ],
+   "materials": [
+    "card strips",
+    "books",
+    "eggs (teacher)"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Trace the compression path through a stone arch; why did traditional builders need no cement?",
+   "n": 288,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-288-strong-shapes-arches.md"
+  }
+ ]
+}

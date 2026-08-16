@@ -1,0 +1,270 @@
+{
+ "batch": 28,
+ "unit": 13,
+ "unit_title": "Elasticity, Materials & Structures",
+ "unit_slug": "elasticity-materials-structures",
+ "n_lessons": 12,
+ "lessons": [
+  {
+   "slug": "strong-shapes-triangles",
+   "title": "Strong Shapes III: Triangles Don't Collapse",
+   "focus": "Push a square frame vs a triangle frame; roof trusses, tank stands, bicycle frames; add diagonals to fix wobbles.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "JS-FE"
+   ],
+   "materials": [
+    "sticks/straws",
+    "string/pins"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Count members needed to triangulate a square and a pentagon frame; state the rule (triangulation).",
+   "n": 289,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-289-strong-shapes-triangles.md"
+  },
+  {
+   "slug": "beams-cantilevers",
+   "title": "Beams and Cantilevers",
+   "focus": "Ruler overhang records; top stretches, bottom compresses; I-beam and bamboo-split demos; shelf brackets.",
+   "cbe": [
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "rulers",
+    "books",
+    "sponge beam (marked)",
+    "weights"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Doubling beam depth quarters the sag (rule of thumb): explain with the stretched-top/compressed-bottom model.",
+   "n": 290,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-290-beams-cantilevers.md"
+  },
+  {
+   "slug": "tension-compression",
+   "title": "Tension vs Compression: Reading a Structure",
+   "focus": "Rope vs pillar; label every member of a tank stand and a truss as T or C; sponge-beam clues.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "photos",
+    "frame models",
+    "colored cards"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "In a simple truss under central load, which members are in tension? Prove by 'removing' each mentally.",
+   "n": 291,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-291-tension-compression.md"
+  },
+  {
+   "slug": "cg-stability",
+   "title": "Centre of Gravity and Stability",
+   "focus": "Wide base + low CG = stable; topple bottles vs sufurias; line-of-action falling outside the base.",
+   "cbe": [
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "bottles (empty/full)",
+    "sufuria",
+    "plank"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Tilt angle to topple: compute for a box 40 cm wide, CG 50 cm high; compare with a wide jerrican.",
+   "n": 292,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-292-cg-stability.md"
+  },
+  {
+   "slug": "balance-acts",
+   "title": "Balance Acts: Loads on Heads, Bodas and Carts",
+   "focus": "Revisit head carrying with CG reasoning; mkokoteni load over the axle; high loads on boda carriers; safe loading rules.",
+   "cbe": [
+    "G10-PHY-1.5",
+    "JS-FE"
+   ],
+   "materials": [
+    "cart model",
+    "weights",
+    "ramp tilt test"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Design the loading plan for a mkokoteni carrying 100 kg of mixed goods; justify by CG and axle moments.",
+   "n": 293,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-293-balance-acts.md"
+  },
+  {
+   "slug": "bridge-challenge-1",
+   "title": "Bridge Challenge I: Design Brief",
+   "focus": "Span 50 cm between desks, hold 1 kg at midspan, sticks/straws/string/glue only; sketch, triangulate, predict failure point.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "sticks/straws",
+    "string",
+    "glue/tape",
+    "design sheets"
+   ],
+   "hands_on": true,
+   "project": "bridge",
+   "advanced": "Predict the failing member and its T/C nature; estimate your bridge's strength-to-weight ratio.",
+   "n": 294,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-294-bridge-challenge-1.md"
+  },
+  {
+   "slug": "bridge-challenge-2",
+   "title": "Bridge Challenge II: Build",
+   "focus": "Construct to the drawing; log changes and reasons; weigh materials used (efficiency counts).",
+   "cbe": [
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "build kit",
+    "balance"
+   ],
+   "hands_on": true,
+   "project": "bridge",
+   "advanced": "Keep a build log entry for every design deviation with a physics justification.",
+   "n": 295,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-295-bridge-challenge-2.md"
+  },
+  {
+   "slug": "bridge-challenge-3",
+   "title": "Bridge Challenge III: Test and Autopsy",
+   "focus": "Load to destruction with sand bucket; record max load and failure mode; crown strength-to-weight champion.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "bridges",
+    "sand bucket",
+    "scale",
+    "camera/notebook"
+   ],
+   "hands_on": true,
+   "project": "bridge",
+   "advanced": "Compute each bridge's strength-to-weight ratio; analyze the champion's geometry and write the design rule.",
+   "n": 296,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-296-bridge-challenge-3.md"
+  },
+  {
+   "slug": "tower-challenge",
+   "title": "Tower Challenge: Tallest Stable Structure",
+   "focus": "Paper/straw tower must stand 10 s in a fan breeze; base width vs height; guy ropes allowed or not?",
+   "cbe": [
+    "G10-PHY-1.5",
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "paper",
+    "straws",
+    "tape",
+    "fan"
+   ],
+   "hands_on": true,
+   "project": "tower",
+   "advanced": "Estimate the overturning moment from wind at 5 m/s on your tower face; size the base by moments.",
+   "n": 297,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-297-tower-challenge.md"
+  },
+  {
+   "slug": "foundations-soil",
+   "title": "Foundations and Soil: The Ground Is a Material Too",
+   "focus": "Compact vs loose soil bearing; why buildings crack unevenly; mud vs stone footings; simple bearing test with a weighted shoe box.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "trays of soil/sand",
+    "shoe box",
+    "weights"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Compute safe footing width: house wall 20 000 N per metre on soil bearing 100 kPa.",
+   "n": 298,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-298-foundations-soil.md"
+  },
+  {
+   "slug": "materials-climate",
+   "title": "Materials and Climate: Thatch vs Mabati and Maintenance",
+   "focus": "Thatch insulates, mabati lasts; rust, rot, termites; maintenance schedules as applied physics.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "thatch sample",
+    "mabati offcut",
+    "rusted vs painted steel"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Lifecycle analysis: thatch every 5 years vs mabati once — compare 30-year cost and comfort with numbers.",
+   "n": 299,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-299-materials-climate.md"
+  },
+  {
+   "slug": "structure-expo-review",
+   "title": "Unit Review: Structure Expo",
+   "focus": "Bridges and towers on display with failure stories; materials quiz stations; unit quiz.",
+   "cbe": [
+    "G10-PHY-1.3",
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "all unit 13 builds"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Write the expo caption for your build: forces carried, failure mode found, one improvement.",
+   "n": 300,
+   "unit_slug": "elasticity-materials-structures",
+   "unit_title": "Elasticity, Materials & Structures",
+   "unit": 13,
+   "filename": "lessons/unit-13-elasticity-materials-structures/lesson-300-structure-expo-review.md"
+  }
+ ]
+}

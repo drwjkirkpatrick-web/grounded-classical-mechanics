@@ -1,0 +1,221 @@
+{
+ "batch": 33,
+ "unit": 15,
+ "unit_title": "Sound & Mechanical Waves",
+ "unit_slug": "sound-mechanical-waves",
+ "n_lessons": 10,
+ "lessons": [
+  {
+   "slug": "resonance-tubes",
+   "title": "Singing Tubes and Bottles: Air Columns Resonate",
+   "focus": "Blow across bottles; straw oboe with cut reed; resonance when tube length fits the wave.",
+   "cbe": [
+    "G10-PHY-2.1"
+   ],
+   "materials": [
+    "bottles",
+    "straws",
+    "scissors"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "For a tube closed at one end, λ≈4L: predict the note of a 25 cm tube and test it.",
+   "n": 339,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-339-resonance-tubes.md"
+  },
+  {
+   "slug": "pan-pipes-build",
+   "title": "Build: Pan Pipes from Straws",
+   "focus": "Cut straws to calculated lengths, plug one end, bind the raft; play a scale; compare with predictions.",
+   "cbe": [
+    "G10-PHY-2.1"
+   ],
+   "materials": [
+    "straws or bamboo",
+    "clay plugs",
+    "tape",
+    "ruler"
+   ],
+   "hands_on": true,
+   "project": "pan-pipes",
+   "advanced": "Compute lengths for an 8-note scale from f∝1/L with your lowest note at 20 cm; list all eight.",
+   "n": 340,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-340-pan-pipes-build.md"
+  },
+  {
+   "slug": "string-telephone",
+   "title": "Build: The Debe Telephone",
+   "focus": "Two tins joined by taut string; sound rides the string; test taut vs slack, long vs short, string vs wire.",
+   "cbe": [
+    "G10-PHY-2.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "two tins/debes",
+    "string 10 m",
+    "wire (optional)"
+   ],
+   "hands_on": true,
+   "project": "string-phone",
+   "advanced": "Explain energy transmission along the string; why does a loose string kill the call?",
+   "n": 341,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-341-string-telephone.md"
+  },
+  {
+   "slug": "loudness-decibels",
+   "title": "Loudness: Amplitude and the Decibel Idea",
+   "focus": "Big vibration = loud; logarithmic teaser (10× energy = +10 dB); posho mill and ear safety; quiet and loud spots mapped.",
+   "cbe": [
+    "G10-PHY-2.1",
+    "UP-FE"
+   ],
+   "materials": [
+    "drum",
+    "sound-level app (optional)",
+    "map sheet"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Posho mill 100 dB vs conversation 60 dB: how many times more sound energy? Show the log reasoning.",
+   "n": 342,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-342-loudness-decibels.md"
+  },
+  {
+   "slug": "echoes-sonar",
+   "title": "Echoes and Sonar: Sound as a Ruler",
+   "focus": "Echo ranging revisited; bats and fishermen's fish-finders; compute distances from echo times.",
+   "cbe": [
+    "G10-PHY-2.1"
+   ],
+   "materials": [
+    "open wall",
+    "stopwatch",
+    "tape"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Echo returns in 0.30 s: distance? Then: design an echo depth-sounder for a dugout canoe.",
+   "n": 343,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-343-echoes-sonar.md"
+  },
+  {
+   "slug": "sound-absorption",
+   "title": "Soaking Up Sound: Thatch, Soft Things and Quiet Rooms",
+   "focus": "Clap in a bare hall vs grass-thatched space; soft surfaces absorb, hard reflect; classroom acoustics fixes.",
+   "cbe": [
+    "G10-PHY-2.1",
+    "UP-FE"
+   ],
+   "materials": [
+    "clap test",
+    "blankets",
+    "bare wall"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Propose three low-cost acoustic fixes for a noisy classroom and the physics behind each.",
+   "n": 344,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-344-sound-absorption.md"
+  },
+  {
+   "slug": "noise-pollution",
+   "title": "Noise Pollution in Our Town",
+   "focus": "Map loud/quiet zones around school and market; health effects; propose a community noise plan.",
+   "cbe": [
+    "G10-PHY-2.1",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "map",
+    "sound app (optional)",
+    "clipboards"
+   ],
+   "hands_on": true,
+   "project": "noise-map",
+   "advanced": "Estimate distance doubling drop (≈ −6 dB in open air): how far must a 100 dB speaker be to reach 70 dB?",
+   "n": 345,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-345-noise-pollution.md"
+  },
+  {
+   "slug": "kenyan-music-physics",
+   "title": "The Physics of Kenyan Instruments",
+   "focus": "Survey: ngoma, kayamba shaker, orutu, litungu, flutes; classify by vibrating part (string/membrane/air); invite a local player.",
+   "cbe": [
+    "G10-PHY-2.1",
+    "UP-FE"
+   ],
+   "materials": [
+    "instrument cards or guests",
+    "notebooks"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Write the physics profile of one instrument: vibrator, resonator, pitch control, amplification.",
+   "n": 346,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-346-kenyan-music-physics.md"
+  },
+  {
+   "slug": "class-orchestra",
+   "title": "Project: The Class Orchestra",
+   "focus": "Assemble bottle xylophones, one-strings, pan pipes, drums; compose and perform a piece; program notes include the physics.",
+   "cbe": [
+    "G10-PHY-2.1",
+    "UP-FE"
+   ],
+   "materials": [
+    "all unit 15 builds"
+   ],
+   "hands_on": true,
+   "project": "orchestra",
+   "advanced": "Write program notes explaining the pitch physics of your instrument section.",
+   "n": 347,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-347-class-orchestra.md"
+  },
+  {
+   "slug": "sound-fair-review",
+   "title": "Unit Review: Sound Fair",
+   "focus": "Instrument petting zoo, echo game, telephone race; unit quiz.",
+   "cbe": [
+    "G10-PHY-2.1"
+   ],
+   "materials": [
+    "all unit 15 kit"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Quiz-writer task: one question linking f=1/L to a real instrument, with mark scheme.",
+   "n": 348,
+   "unit_slug": "sound-mechanical-waves",
+   "unit_title": "Sound & Mechanical Waves",
+   "unit": 15,
+   "filename": "lessons/unit-15-sound-mechanical-waves/lesson-348-sound-fair-review.md"
+  }
+ ]
+}

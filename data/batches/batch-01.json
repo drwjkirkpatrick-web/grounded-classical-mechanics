@@ -1,0 +1,298 @@
+{
+ "batch": 1,
+ "unit": 1,
+ "unit_title": "Measurement & Scientific Skills",
+ "unit_slug": "measurement-science-skills",
+ "n_lessons": 13,
+ "lessons": [
+  {
+   "slug": "what-is-physics",
+   "title": "What Is Physics? Motion, Forces and Energy Around Us",
+   "focus": "Define physics as study of matter, motion, forces, energy; tour school compound identifying physics at work (gate hinge, water tank, boda).",
+   "cbe": [
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "exercise book",
+    "pen"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "List three physics careers in Kenya (jua kali fabrication, civil engineering, radiography) and the physics each uses daily.",
+   "n": 1,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-001-what-is-physics.md"
+  },
+  {
+   "slug": "science-safety",
+   "title": "Science Safety and Workshop Rules",
+   "focus": "Safe handling of sharps (panga, nails), heat (jiko), water, glass; agreeing class safety charter; why rules exist before experiments.",
+   "cbe": [
+    "G10-PHY-1.1",
+    "UP-FE"
+   ],
+   "materials": [
+    "chart paper",
+    "marker pens"
+   ],
+   "hands_on": true,
+   "project": "safety-charter",
+   "advanced": "Write a risk assessment (hazard, risk, control) for three planned course builds.",
+   "n": 2,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-002-science-safety.md"
+  },
+  {
+   "slug": "scientific-investigation",
+   "title": "The Scientific Investigation: Ask, Predict, Test, Record",
+   "focus": "Steps of investigation using a swinging stone on a string; hypothesis writing; honest recording even when wrong.",
+   "cbe": [
+    "G10-PHY-1.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "stone",
+    "sisal string"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Distinguish hypothesis from prediction; write both for the swing experiment.",
+   "n": 3,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-003-scientific-investigation.md"
+  },
+  {
+   "slug": "fair-tests-variables",
+   "title": "Fair Tests and Variables",
+   "focus": "Independent, dependent, controlled variables via dropping different balls (stone, rubber, crumpled paper ball) from same height.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "stone",
+    "rubber ball",
+    "paper",
+    "tape measure"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Identify the confounding variable when two balls differ in BOTH mass and size.",
+   "n": 4,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-004-fair-tests-variables.md"
+  },
+  {
+   "slug": "si-units-standards",
+   "title": "SI Units and Why Standards Matter",
+   "focus": "Metre, kilogram, second, litre; history of body-based measures (cubit, stride) and disputes at market without standards.",
+   "cbe": [
+    "G10-PHY-1.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "metre stick",
+    "debe tin",
+    "jerrican"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A trader sells a 'debe' of maize whose tin is dented inward. Quantify the buyer's loss if dent removes 8% of volume.",
+   "n": 5,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-005-si-units-standards.md"
+  },
+  {
+   "slug": "measuring-length-1",
+   "title": "Measuring Length I: Rulers and Tape Measures",
+   "focus": "mm/cm/m; correct ruler use (zero end, eye level); measure desk, book, classroom, footstride.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "30cm rulers",
+    "tailor's tape",
+    "exercise books"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Classroom is 7.4 m long; convert to mm and explain when mm precision is pointless.",
+   "n": 6,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-006-measuring-length-1.md"
+  },
+  {
+   "slug": "measuring-length-2",
+   "title": "Measuring Length II: Vernier Callipers and Micrometers",
+   "focus": "Jua kali precision tools; measuring wire diameter, nail thickness; reading a vernier scale.",
+   "cbe": [
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "vernier calliper (or diagram)",
+    "micrometer (or diagram)",
+    "binding wire",
+    "nails"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Read a vernier to 0.1 mm; explain why the extra scale beats estimation.",
+   "n": 7,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-007-measuring-length-2.md"
+  },
+  {
+   "slug": "estimation-skills",
+   "title": "Estimation Skills: Guess, Then Measure",
+   "focus": "Estimating lengths/masses before measuring; calibration of the human estimator; flagpole height by shadows preview.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "sticks of various lengths",
+    "stones",
+    "metre stick"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Flagpole shadow 6.0 m when your 1.5 m shadow is yours at height 1.6 m — compute pole height by similar triangles.",
+   "n": 8,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-008-estimation-skills.md"
+  },
+  {
+   "slug": "measuring-mass",
+   "title": "Measuring Mass: Build a Beam Balance",
+   "focus": "Mass vs amount-of-matter; build ruler-on-pivot balance with debe/bottle-cap pans; compare masses of stones.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "ruler or flat stick",
+    "pivot (pencil/stone)",
+    "string",
+    "two bottle-cap or tin pans",
+    "tape"
+   ],
+   "hands_on": true,
+   "project": "beam-balance-mk0",
+   "advanced": "Why must the pans hang at equal distances from the pivot? Link to moments.",
+   "n": 9,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-009-measuring-mass.md"
+  },
+  {
+   "slug": "weight-vs-mass-intro",
+   "title": "Weight vs Mass: A First Look",
+   "focus": "Mass in kg is amount of matter; weight in N is gravity's pull; rubber-band spring balance shows weight changing, mass constant.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "rubber band strip",
+    "paperclip hook",
+    "jerrican with water"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Your mass is 45 kg. State your weight on Earth (g=10 N/kg) and on the Moon (g=1.6 N/kg).",
+   "n": 10,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-010-weight-vs-mass-intro.md"
+  },
+  {
+   "slug": "measuring-time",
+   "title": "Measuring Time: Heartbeats, Stopwatches and Sundials",
+   "focus": "Second as base unit; calibrating heartbeats against a clock; build stick-and-shadow sundial; limits of body clocks.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "stopwatch or phone",
+    "straight stick",
+    "chalk",
+    "sunny ground"
+   ],
+   "hands_on": true,
+   "project": "sundial",
+   "advanced": "Why does a Kenyan sundial disagree with clock time across the year? Introduce the equation of time qualitatively.",
+   "n": 11,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-011-measuring-time.md"
+  },
+  {
+   "slug": "measuring-volume-1",
+   "title": "Measuring Volume I: Regular Solids and Containers",
+   "focus": "Volume = l×w×h; reading jerrican and sufuria markings; litre vs cm³ vs m³ conversions.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "jerrican",
+    "sufuria",
+    "ruler",
+    "water"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A '20-litre' jerrican measures 24×18×47 cm internally. Compute its true volume in litres and percentage error of the label.",
+   "n": 12,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-012-measuring-volume-1.md"
+  },
+  {
+   "slug": "measuring-volume-2",
+   "title": "Measuring Volume II: Displacement for Irregular Objects",
+   "focus": "Stone volume by water displacement; overflow can made from a tin with a spout hole; Archimedes teaser.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "tin with spout (or bottle)",
+    "basin",
+    "stone",
+    "string",
+    "measuring container"
+   ],
+   "hands_on": true,
+   "project": "eureka-can",
+   "advanced": "A stone displaces 85 cm³ of water and weighs 2.1 N in air. Compute its density (take g=10 N/kg).",
+   "n": 13,
+   "unit_slug": "measurement-science-skills",
+   "unit_title": "Measurement & Scientific Skills",
+   "unit": 1,
+   "filename": "lessons/unit-01-measurement-science-skills/lesson-013-measuring-volume-2.md"
+  }
+ ]
+}

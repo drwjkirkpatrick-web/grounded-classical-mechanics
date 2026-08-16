@@ -1,0 +1,179 @@
+{
+ "batch": 31,
+ "unit": 14,
+ "unit_title": "Wind & Water Power Projects",
+ "unit_slug": "wind-water-power",
+ "n_lessons": 8,
+ "lessons": [
+  {
+   "slug": "motion-to-electricity",
+   "title": "From Motion to Electricity: The Dynamo Teaser",
+   "focus": "Bicycle dynamo demo: spin → bulb lights; generator is a motor backwards; bridge to CBE 3.2 next year.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "bicycle dynamo + bulb (or demo unit)"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Estimate: your turbine spins a dynamo at 5 V/0.3 A — efficiency chain from stream to light.",
+   "n": 321,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-321-motion-to-electricity.md"
+  },
+  {
+   "slug": "ram-siphon-return",
+   "title": "The Ram and the Siphon Return",
+   "focus": "Review: both move water with no engine; ram needs fall, siphon needs outlet lower than inlet; pick per site.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "site cards",
+    "unit 8 builds"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Site: spring 3 m above field, 100 m away, stream crossing between: siphon, ram or pipe? Defend with head math.",
+   "n": 322,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-322-ram-siphon-return.md"
+  },
+  {
+   "slug": "rainwater-harvesting",
+   "title": "Rainwater Harvesting Physics",
+   "focus": "Roof catchment = rainfall × area; gutters and first-flush; tank sizing for the dry term; Kenyan rainfall patterns.",
+   "cbe": [
+    "G10-PHY-4.1",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "roof plan",
+    "rainfall data card",
+    "calculator"
+   ],
+   "hands_on": true,
+   "project": "tank-sizing",
+   "advanced": "Roof 60 m², rain 800 mm/year, dry spell 90 days at 200 L/day: size the tank in m³ with reasoning.",
+   "n": 323,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-323-rainwater-harvesting.md"
+  },
+  {
+   "slug": "gravity-schemes",
+   "title": "Gravity Water Schemes: From Spring to Village",
+   "focus": "Survey head with the Unit 7 water level; pipe sizing to limit friction; break-pressure tanks on long drops.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "water level",
+    "tape",
+    "map sketch"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "A 3 km pipe drops 120 m: why insert break-pressure tanks? Compute static pressure at the bottom without them.",
+   "n": 324,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-324-gravity-schemes.md"
+  },
+  {
+   "slug": "energy-storage",
+   "title": "Storing Energy: Two Tanks and a Pump",
+   "focus": "Pumped storage idea: pump up when sunny/windy, flow down when needed; compare with batteries and flywheels.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "two jerricans",
+    "pump",
+    "tube"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "1000 L raised 5 m stores how many kJ? What bulb wattage for how long at 50% round-trip efficiency?",
+   "n": 325,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-325-energy-storage.md"
+  },
+  {
+   "slug": "community-survey",
+   "title": "Community Wind & Water Survey",
+   "focus": "Walk the area: note streams, slopes, windy ridges, existing pumps; interview a fundi; map resources.",
+   "cbe": [
+    "G10-PHY-4.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "maps",
+    "notebooks",
+    "anemometer"
+   ],
+   "hands_on": true,
+   "project": "resource-survey",
+   "advanced": "Score three sites with a weighted matrix (head, flow, distance, demand); defend the weights.",
+   "n": 326,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-326-community-survey.md"
+  },
+  {
+   "slug": "design-brief-school",
+   "title": "Design Brief: Power for Our School",
+   "focus": "Teams design one wind or water solution for a real school need (garden watering, handwash station); drawings and budget.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "design sheets",
+    "survey data"
+   ],
+   "hands_on": true,
+   "project": "school-power",
+   "advanced": "Include energy budget: demand L/day, source power curve, storage, and the worst-month shortfall plan.",
+   "n": 327,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-327-design-brief-school.md"
+  },
+  {
+   "slug": "energy-showcase-review",
+   "title": "Unit Review: Energy Projects Showcase",
+   "focus": "Windmill, turbines and surveys on show; visitors try the anemometer; unit quiz.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "all unit 14 builds"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Panel question: 'Is small wind worth it here?' — argue from your measured data, both sides.",
+   "n": 328,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-328-energy-showcase-review.md"
+  }
+ ]
+}

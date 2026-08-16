@@ -1,0 +1,257 @@
+{
+ "batch": 11,
+ "unit": 6,
+ "unit_title": "Simple Machines",
+ "unit_slug": "simple-machines",
+ "n_lessons": 11,
+ "lessons": [
+  {
+   "slug": "what-machines-do",
+   "title": "What Machines Do for Us",
+   "focus": "Machines change force size, direction or speed; input/output; open the unit by lifting a heavy stone three ways.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "heavy stone",
+    "plank",
+    "rope"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A machine can't multiply work: explain the force-distance trade as conservation of energy.",
+   "n": 125,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-125-what-machines-do.md"
+  },
+  {
+   "slug": "ma-and-vr",
+   "title": "Mechanical Advantage and Velocity Ratio",
+   "focus": "MA = load/effort; VR = effort distance/load distance; efficiency = MA/VR; measure both on a simple lever.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "plank lever",
+    "stone fulcrum",
+    "spring balance",
+    "tape"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Lever gives VR 4 but measured MA 3.2: compute efficiency and name the loss.",
+   "n": 126,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-126-ma-and-vr.md"
+  },
+  {
+   "slug": "levers-class-1",
+   "title": "Levers Class 1: Seesaws, Crowbars and Pliers",
+   "focus": "Fulcrum between effort and load; seesaw balancing different weights by distance; crowbar pulling nails.",
+   "cbe": [
+    "G10-PHY-1.5",
+    "JS-FE"
+   ],
+   "materials": [
+    "seesaw or plank+log",
+    "crowbar",
+    "pliers",
+    "nail in wood"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "40 kg child balances 70 kg adult on a 3 m seesaw: find each distance from the fulcrum.",
+   "n": 127,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-127-levers-class-1.md"
+  },
+  {
+   "slug": "levers-class-2",
+   "title": "Levers Class 2: Wheelbarrows and Bottle Openers",
+   "focus": "Load between fulcrum and effort; wheelbarrow physics; bottle opener and nutcracker anatomy.",
+   "cbe": [
+    "G10-PHY-1.5",
+    "JS-FE"
+   ],
+   "materials": [
+    "wheelbarrow",
+    "bottle opener",
+    "stones (load)"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Wheelbarrow: load 400 N at 0.4 m from wheel, handles at 1.2 m: find the lifting effort.",
+   "n": 128,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-128-levers-class-2.md"
+  },
+  {
+   "slug": "levers-class-3",
+   "title": "Levers Class 3: The Mwiko and the Human Arm",
+   "focus": "Effort between fulcrum and load; mwiko stirring, fishing rod, tweezers; trading force for speed and reach.",
+   "cbe": [
+    "G10-PHY-1.5",
+    "JS-FE"
+   ],
+   "materials": [
+    "mwiko",
+    "fishing rod or long stick",
+    "tweezers"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Why did evolution pick class-3 arms? Discuss speed/force trade with biceps-at-4 cm numbers.",
+   "n": 129,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-129-levers-class-3.md"
+  },
+  {
+   "slug": "moments",
+   "title": "Moments: The Turning Force",
+   "focus": "Moment = F × d from pivot; balance a ruler with unequal bottle-top piles by sliding positions.",
+   "cbe": [
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "ruler",
+    "pencil pivot",
+    "bottle tops"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "5 tops at 20 cm balance 8 tops at what distance? Then generalize: write the balance rule.",
+   "n": 130,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-130-moments.md"
+  },
+  {
+   "slug": "law-of-moments-lab",
+   "title": "Law of Moments Lab: Weighing Without a Scale",
+   "focus": "Balance an unknown stone against known water volumes on a ruler; compute the stone's mass.",
+   "cbe": [
+    "G10-PHY-1.5",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "ruler",
+    "pivot",
+    "bottle-cap pans",
+    "water",
+    "stone"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Known 300 g at 18 cm balances unknown at 12 cm: compute unknown mass; list error sources.",
+   "n": 131,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-131-law-of-moments-lab.md"
+  },
+  {
+   "slug": "centre-of-gravity-intro",
+   "title": "Centre of Gravity: The Balance Point",
+   "focus": "Balance a jembe and a broom on a finger; CG of regular vs irregular shapes; plumb line method with string+nut.",
+   "cbe": [
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "jembe",
+    "broom",
+    "cardboard shapes",
+    "string",
+    "nut"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Use the plumb-line intersection method on a cut-out of Kenya: describe where the CG lands and why.",
+   "n": 132,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-132-centre-of-gravity-intro.md"
+  },
+  {
+   "slug": "body-levers",
+   "title": "Levers in the Human Body",
+   "focus": "Neck (class 1), calf raise (class 2), biceps (class 3); posture and load; why lifting with bent back hurts.",
+   "cbe": [
+    "G10-PHY-1.5",
+    "JS-FE"
+   ],
+   "materials": [
+    "diagram cards",
+    "backpack"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Head mass 5 kg tilted 30° shifts its line of action: explain the extra neck moment and 'text neck' fatigue.",
+   "n": 133,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-133-body-levers.md"
+  },
+  {
+   "slug": "head-portering",
+   "title": "Carrying Loads: The Physics of Head Portering",
+   "focus": "Head carrying aligns load over spine; tump lines on foreheads; kiondo straps; energy studies show head loads are efficient.",
+   "cbe": [
+    "G10-PHY-1.5",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "kiondo or bag",
+    "strap",
+    "water load"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Compare carrying 20 kg on head vs one shoulder: draw force lines and predict muscle effort differences.",
+   "n": 134,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-134-head-portering.md"
+  },
+  {
+   "slug": "build-weighing-beam",
+   "title": "Build: A Graduated Weighing Beam I",
+   "focus": "Make a steelyard-style beam: fixed pan, sliding stone weight, notches calibrated with water (100 g = 100 mL).",
+   "cbe": [
+    "G10-PHY-1.5",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "straight stick",
+    "string",
+    "pan",
+    "sliding stone",
+    "jerrican",
+    "marker"
+   ],
+   "hands_on": true,
+   "project": "beam-balance",
+   "advanced": "Explain the sliding-weight principle with moments; why are the notches evenly spaced?",
+   "n": 135,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-135-build-weighing-beam.md"
+  }
+ ]
+}

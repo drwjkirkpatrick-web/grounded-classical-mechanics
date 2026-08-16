@@ -1,0 +1,232 @@
+{
+ "batch": 29,
+ "unit": 14,
+ "unit_title": "Wind & Water Power Projects",
+ "unit_slug": "wind-water-power",
+ "n_lessons": 10,
+ "lessons": [
+  {
+   "slug": "wind-is-moving-air",
+   "title": "Wind Is Moving Air: Where It Comes From",
+   "focus": "Sun heats land unevenly → convection → wind; Kenyan winds: Lake Turkana jet, Ngong hills, coastal monsoons.",
+   "cbe": [
+    "G10-PHY-4.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "map",
+    "candle+box convection demo (teacher)"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Explain the sea-breeze cycle at the coast with land/water heating rates; when does it reverse?",
+   "n": 301,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-301-wind-is-moving-air.md"
+  },
+  {
+   "slug": "wind-sock",
+   "title": "Build: A Wind Sock and the Beaufort Scale",
+   "focus": "Sew/tape a sock from a plastic bag on a pole; read direction and estimate strength with a picture scale.",
+   "cbe": [
+    "G10-PHY-4.1",
+    "JS-FE"
+   ],
+   "materials": [
+    "plastic bag",
+    "wire ring",
+    "pole",
+    "tape"
+   ],
+   "hands_on": true,
+   "project": "wind-sock",
+   "advanced": "Keep a week log of direction/strength; compute the prevailing direction and justify with a simple vector tally.",
+   "n": 302,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-302-wind-sock.md"
+  },
+  {
+   "slug": "anemometer-build",
+   "title": "Build: A Cup Anemometer",
+   "focus": "Bottle-top cups on crossed sticks around a pencil axle; count turns in 30 s against a reference chart (or phone slow-motion).",
+   "cbe": [
+    "G10-PHY-4.1",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "bottle tops",
+    "sticks",
+    "pencil",
+    "pin axle",
+    "stopwatch"
+   ],
+   "hands_on": true,
+   "project": "anemometer",
+   "advanced": "Calibrate: passenger counts turns at known vehicle speeds (safe, from inside!); produce a turns→km/h card.",
+   "n": 303,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-303-anemometer-build.md"
+  },
+  {
+   "slug": "wind-force-surfaces",
+   "title": "Wind Force on Surfaces",
+   "focus": "Feel push on card at angles; sail and blade angle intro; force grows with area and with speed squared.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "cards",
+    "fan or windy day",
+    "spring balance"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Use F≈½ρAv² to estimate force on a 1 m² signboard at 15 m/s; why do billboards fail in storms?",
+   "n": 304,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-304-wind-force-surfaces.md"
+  },
+  {
+   "slug": "windmills-east-africa",
+   "title": "Windmills of East Africa: Kijito and Kamkwamba",
+   "focus": "Kijito wind pumps of Kenya and William Kamkwamba's Malawi windmill; mechanical water pumping heritage; what makes a good site.",
+   "cbe": [
+    "G10-PHY-4.1",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "story cards",
+    "photos"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Compare a wind pump vs solar pump for a borehole: energy source pattern vs water demand pattern.",
+   "n": 305,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-305-windmills-east-africa.md"
+  },
+  {
+   "slug": "how-wind-pumps-work",
+   "title": "How a Wind Pump Works: Rotor to Piston",
+   "focus": "Blades catch wind → crank/cam turns rotation into up-down → pump rod lifts water; trace the energy chain.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "crank model (wire bent)",
+    "diagrams"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Crank radius 5 cm, pump bore 3 cm: relate rotor torque to lift force per stroke.",
+   "n": 306,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-306-how-wind-pumps-work.md"
+  },
+  {
+   "slug": "blade-physics",
+   "title": "Blade Physics: Angle, Lift and Drag",
+   "focus": "Test flat vs curved vs angled blades in fan wind; measure spin speed; the modern curved blade wins.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "card blades (various)",
+    "test rotor",
+    "fan/wind",
+    "stopwatch"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Explain lift on a curved blade with Bernoulli-style reasoning; why does too-steep pitch stall?",
+   "n": 307,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-307-blade-physics.md"
+  },
+  {
+   "slug": "paper-pinwheel",
+   "title": "Build: The Paper Pinwheel",
+   "focus": "First rotor: pin and pencil pinwheel; test blade counts 2/4/6; free spin vs loaded (lifting a thread).",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "paper",
+    "pins",
+    "pencils",
+    "thread",
+    "beads"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Why does a 3-blade rotor often beat 6 for speed but lose on starting torque? Test and discuss.",
+   "n": 308,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-308-paper-pinwheel.md"
+  },
+  {
+   "slug": "windmill-mk1",
+   "title": "Windmill Project I: Rotor and Hub",
+   "focus": "Build the working rotor: blades from mabati offcuts or stiff plastic on a bicycle hub/nail bearing; balance it.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "blade material",
+    "hub (old bicycle front hub ideal)",
+    "nails/wire",
+    "tools"
+   ],
+   "hands_on": true,
+   "project": "windmill",
+   "advanced": "Balance the rotor dynamically: explain wobble sources and fix via counterweights.",
+   "n": 309,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-309-windmill-mk1.md"
+  },
+  {
+   "slug": "windmill-tower",
+   "title": "Windmill Project II: Tower and Yaw",
+   "focus": "Triangulated tower (Unit 13!), tail vane keeps rotor facing wind; safe height for school (2–3 m).",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "poles",
+    "wire",
+    "tail sheet",
+    "pegs"
+   ],
+   "hands_on": true,
+   "project": "windmill",
+   "advanced": "Compute the overturning moment at full wind on the rotor disc; specify pegging to resist it.",
+   "n": 310,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-310-windmill-tower.md"
+  }
+ ]
+}

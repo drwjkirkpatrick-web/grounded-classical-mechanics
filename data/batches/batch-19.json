@@ -1,0 +1,209 @@
+{
+ "batch": 19,
+ "unit": 9,
+ "unit_title": "Buoyancy & Floating",
+ "unit_slug": "buoyancy-floating",
+ "n_lessons": 9,
+ "lessons": [
+  {
+   "slug": "sink-or-float-game",
+   "title": "Sink or Float? The Prediction Game",
+   "focus": "Predict then test twenty local objects (nail, coin, maize cob, charcoal, bottle top, mango seed, stone, leaf, wax, wire); tabulate surprises.",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "basin",
+    "object set",
+    "prediction sheets"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "From the class table, state the rule that beats 'heavy things sink' with three counter-examples.",
+   "n": 207,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-207-sink-or-float-game.md"
+  },
+  {
+   "slug": "density-rules-floating",
+   "title": "Density Decides: Wood, Stone and Steel",
+   "focus": "Average density vs water (1000 kg/m³) predicts floating; the steel nail sinks but the steel sufuria floats — shape matters.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "JS-FE"
+   ],
+   "materials": [
+    "nail",
+    "sufuria",
+    "wood",
+    "stone",
+    "basin"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "A hollow steel ball's average density is 600 kg/m³: what fraction of its volume is air?",
+   "n": 208,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-208-density-rules-floating.md"
+  },
+  {
+   "slug": "upthrust",
+   "title": "Upthrust: Water Pushes Back",
+   "focus": "Weigh a stone in air, then in water: apparent weight drops; upthrust measured with a spring balance.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "spring balance",
+    "stone",
+    "string",
+    "basin"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Stone: 2.5 N in air, 1.5 N in water: upthrust, displaced water weight, and the stone's volume.",
+   "n": 209,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-209-upthrust.md"
+  },
+  {
+   "slug": "archimedes-principle",
+   "title": "Archimedes' Principle",
+   "focus": "Upthrust equals weight of displaced fluid; verify by collecting overflow from the eureka can and weighing it.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "eureka can (unit 1 build)",
+    "balance",
+    "stone",
+    "water"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Show a floating object's displaced weight equals its own weight — derive the floating condition.",
+   "n": 210,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-210-archimedes-principle.md"
+  },
+  {
+   "slug": "eureka-can-lab",
+   "title": "The Eureka Can Lab: Volume by Overflow",
+   "focus": "Measure irregular volumes precisely by overflow; link displacement to Unit 1 density measurements.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "eureka can",
+    "measuring jar",
+    "objects"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "An object displaces 120 mL and weighs 3.0 N in air: density, and will it float?",
+   "n": 211,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-211-eureka-can-lab.md"
+  },
+  {
+   "slug": "why-ships-float",
+   "title": "Why Ships Float: Shape Beats Material",
+   "focus": "Same clay ball sinks, same clay as a bowl floats; average density includes the hollow; dhow and ferry examples.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "JS-FE"
+   ],
+   "materials": [
+    "clay",
+    "basin",
+    "photos of dhows/ferries"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Compute the minimum hollow fraction for a steel hull (ρ=7800) to float; why do ships sink when swamped?",
+   "n": 212,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-212-why-ships-float.md"
+  },
+  {
+   "slug": "clay-boat-1",
+   "title": "Clay Boat Challenge I: Design for Cargo",
+   "focus": "Design a clay hull to carry bottle-top cargo; predict capacity from displaced volume.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "JS-FE"
+   ],
+   "materials": [
+    "clay",
+    "basin",
+    "bottle tops"
+   ],
+   "hands_on": true,
+   "project": "clay-boat",
+   "advanced": "Boat clay mass 200 g; hull displaces 800 cm³ at gunwale: maximum safe cargo in grams?",
+   "n": 213,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-213-clay-boat-1.md"
+  },
+  {
+   "slug": "clay-boat-2",
+   "title": "Clay Boat Challenge II: Load Test and Stability",
+   "focus": "Load to sinking; record capacity; stability: wide beams vs tall cargo; freeboard concept.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "boats",
+    "cargo tops",
+    "basin"
+   ],
+   "hands_on": true,
+   "project": "clay-boat",
+   "advanced": "Explain via centre of gravity vs centre of buoyancy why top-heavy boats capsize.",
+   "n": 214,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-214-clay-boat-2.md"
+  },
+  {
+   "slug": "hydrometer",
+   "title": "The Hydrometer: A Floater That Measures",
+   "focus": "Floating depth reveals density; milk purity testing at the dairy; battery acid testers; salinity for fish farmers.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "pencil",
+    "clay",
+    "salt",
+    "water",
+    "tall jar"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Why does the hydrometer sink deeper in less-dense liquid? Derive the depth-density relation for a uniform stick.",
+   "n": 215,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-215-hydrometer.md"
+  }
+ ]
+}

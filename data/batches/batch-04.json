@@ -1,0 +1,275 @@
+{
+ "batch": 4,
+ "unit": 2,
+ "unit_title": "Forces in Everyday Life",
+ "unit_slug": "forces-in-everyday-life",
+ "n_lessons": 12,
+ "lessons": [
+  {
+   "slug": "tension",
+   "title": "Tension: Forces in Ropes and Strings",
+   "focus": "Sisal rope tension; tug-of-war revisited with force meter in the middle; knots and why they slip; clothesline sag.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "sisal rope",
+    "force meter",
+    "clothesline"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A 50 N pull on each end of a rope — is the tension 50 N or 100 N? Resolve the classic misconception.",
+   "n": 40,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-040-tension.md"
+  },
+  {
+   "slug": "compression-support",
+   "title": "Compression and Support Forces",
+   "focus": "Standing on soil vs mattress; pillars and poles; chalk under compression snaps differently; stool legs.",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "chalk",
+    "foam or mattress",
+    "stool"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Why does chalk fail in tension before compression? Link to crack opening at the bent side.",
+   "n": 41,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-041-compression-support.md"
+  },
+  {
+   "slug": "normal-reaction",
+   "title": "The Normal Force: Surfaces Push Back",
+   "focus": "Table pushes up on books; bathroom scale reads the push; leaning on a wall; normal means perpendicular.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "bathroom scale",
+    "wall",
+    "stack of books"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "On a 30° ramp, which is bigger: weight or normal force? Resolve vectors qualitatively.",
+   "n": 42,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-042-normal-reaction.md"
+  },
+  {
+   "slug": "elastic-forces",
+   "title": "Elastic Forces: Things That Spring Back",
+   "focus": "Rubber, springs, bows: restoring force grows with stretch; preview Hooke's law; slingshot (manati) energy teaser.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "rubber strips",
+    "old spring",
+    "green stick bow"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Sketch force vs stretch for rubber: why does it curve up at large extension? (Polymer chains uncoiling.)",
+   "n": 43,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-043-elastic-forces.md"
+  },
+  {
+   "slug": "forces-in-pairs",
+   "title": "Forces Come in Pairs: A First Look at Reaction",
+   "focus": "Push the wall, the wall pushes you; step off a floating log and it moves back; pair forces act on different bodies.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "wall",
+    "log or round stones",
+    "plank"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "If pair forces are equal and opposite, why does anything accelerate? (They act on different objects.)",
+   "n": 44,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-044-forces-in-pairs.md"
+  },
+  {
+   "slug": "newton-first-law",
+   "title": "Newton's First Law: Inertia",
+   "focus": "Coin on card flick; passengers lurch when matatu brakes; inertia depends on mass; seatbelt teaser.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "coin",
+    "card",
+    "bottle"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Use inertia to explain why a fully loaded lorry needs a longer braking distance than an empty one at the same speed.",
+   "n": 45,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-045-newton-first-law.md"
+  },
+  {
+   "slug": "newton-second-law",
+   "title": "Newton's Second Law: F = ma",
+   "focus": "Push empty then full debe with same effort; acceleration depends on force and mass; quantify with toy car and falling mass.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "debe (empty/full)",
+    "toy car",
+    "string",
+    "stones",
+    "pulley (wire hanger)"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "A 2 kg trolley accelerates at 1.5 m/s² under a hanging mass: compute the net force and discuss friction's role.",
+   "n": 46,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-046-newton-second-law.md"
+  },
+  {
+   "slug": "newton-third-law",
+   "title": "Newton's Third Law: Action and Reaction",
+   "focus": "Balloon rocket on a string line; walking as pushing Earth back; rowing a canoe; identify pairs in five scenarios.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "balloons",
+    "string line",
+    "straw"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "A 500 N boda accelerates forward: identify the action-reaction pair at the tyre-road contact.",
+   "n": 47,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-047-newton-third-law.md"
+  },
+  {
+   "slug": "net-force-lab",
+   "title": "Net Force and Acceleration Lab",
+   "focus": "Falling-mass trolley on a smooth board; vary hanging mass; acceleration vs force graph through origin.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "toy trolley",
+    "string",
+    "hanger pulley",
+    "stones",
+    "stopwatch",
+    "tape"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "From a vs F graph gradient, extract the system mass; explain the intercept if friction was not fully compensated.",
+   "n": 48,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-048-net-force-lab.md"
+  },
+  {
+   "slug": "combining-forces-angles",
+   "title": "Combining Forces at Angles",
+   "focus": "Two students pull one jerrican with ropes at an angle; resultant feels less than the sum; parallelogram idea by drawing.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "jerrican",
+    "two ropes",
+    "two spring balances"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Two 40 N pulls at 60° to each other: find the resultant by scale drawing; compare with 80 N straight pull.",
+   "n": 49,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-049-combining-forces-angles.md"
+  },
+  {
+   "slug": "force-mysteries-clinic",
+   "title": "Everyday Force Mysteries Clinic",
+   "focus": "Why door handles sit far from hinges; opening paint tins with a panga edge; loosening tight bottle caps with cloth.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "door",
+    "paint tin",
+    "bottle with tight cap",
+    "cloth"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Explain the paint-tin lever with moments: tin-lid rim is fulcrum; compute MA for a 15 cm panga vs 2 cm lid lip.",
+   "n": 50,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-050-force-mysteries-clinic.md"
+  },
+  {
+   "slug": "force-detective-day",
+   "title": "Unit Review: Force Detective Day",
+   "focus": "Stations around school: identify, measure and draw forces (gate, flagpole, water tank, seesaw); unit quiz.",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "clipboards",
+    "force meters",
+    "ropes"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Design one station yourself with a measurable force question and a marking scheme.",
+   "n": 52,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-052-force-detective-day.md"
+  }
+ ]
+}

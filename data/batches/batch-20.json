@@ -1,0 +1,204 @@
+{
+ "batch": 20,
+ "unit": 9,
+ "unit_title": "Buoyancy & Floating",
+ "unit_slug": "buoyancy-floating",
+ "n_lessons": 9,
+ "lessons": [
+  {
+   "slug": "build-hydrometer",
+   "title": "Build: A Pencil Hydrometer",
+   "focus": "Weight a pencil with clay, float it, mark fresh-water line, calibrate with salt solutions; test unknowns.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "pencil",
+    "clay",
+    "jars",
+    "salt",
+    "marker"
+   ],
+   "hands_on": true,
+   "project": "hydrometer",
+   "advanced": "Calibrate marks at 1.00, 1.05, 1.10 g/cm³: describe how you verified each.",
+   "n": 216,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-216-build-hydrometer.md"
+  },
+  {
+   "slug": "floating-layers",
+   "title": "Layers of Liquid: The Egg in Salt Water",
+   "focus": "Egg sinks in fresh, floats in strong salt solution; density columns (salty below fresh, carefully poured).",
+   "cbe": [
+    "G10-PHY-1.2",
+    "JS-FE"
+   ],
+   "materials": [
+    "eggs",
+    "salt",
+    "jars",
+    "stirrer"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Compute the salt concentration needed for neutral buoyancy of an egg (ρ≈1.05 g/cm³) — method and caveats.",
+   "n": 217,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-217-floating-layers.md"
+  },
+  {
+   "slug": "submarines-fish",
+   "title": "Submarines and Swim Bladders",
+   "focus": "Fish adjust a gas bladder; submarines flood and blow ballast tanks; Cartesian diver (Unit 7) as the working model.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "JS-FE"
+   ],
+   "materials": [
+    "cartesian diver",
+    "balloon",
+    "bottle"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "A submarine at constant depth takes on water: what must happen to its ballast and why?",
+   "n": 218,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-218-submarines-fish.md"
+  },
+  {
+   "slug": "rafts-ferries",
+   "title": "Rafts, Canoes and Ferries of Kenya",
+   "focus": "Banana-stem and ambatch rafts, dugout canoes on Lake Victoria, ferries at Likoni; buoyancy calculations for safe loading.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "UP-FE"
+   ],
+   "materials": [
+    "photos/cards",
+    "raft model sticks"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Raft of 10 logs, each 40 L displacement, total mass 150 kg: safe passenger load in kg?",
+   "n": 219,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-219-rafts-ferries.md"
+  },
+  {
+   "slug": "life-jackets-safety",
+   "title": "Life Jackets and Water Safety",
+   "focus": "How a life jacket adds buoyancy without adding weight; cold water and panic; community water-safety campaign design.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "UP-FE"
+   ],
+   "materials": [
+    "life jacket or foam",
+    "basin"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A 70 kg person (body density ≈ 1.02) needs how much extra displaced volume to float face-up? Show working.",
+   "n": 220,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-220-life-jackets-safety.md"
+  },
+  {
+   "slug": "plimsoll-lines",
+   "title": "Plimsoll Lines: Loading Marks on Ships",
+   "focus": "Load lines for fresh vs salt water; mark your clay boat's Plimsoll line; overloading tragedies discussion.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "clay boat",
+    "marker",
+    "salt",
+    "basin"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "A ship moves from sea (1.025) to fresh water (1.000): by what percentage does displaced volume change?",
+   "n": 221,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-221-plimsoll-lines.md"
+  },
+  {
+   "slug": "hot-air-teaser",
+   "title": "Hot Air Rises: Buoyancy in Gases",
+   "focus": "Smoke rises; teacher demo tissue hot-air balloon; air has density too; bridge to thermal physics (Unit on temperature in CBE 1.4).",
+   "cbe": [
+    "G10-PHY-1.2",
+    "G10-PHY-1.4"
+   ],
+   "materials": [
+    "tissue balloon (teacher)",
+    "candle (teacher)",
+    "smoke source"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Hot air at 0.9 kg/m³ in a 1 m³ balloon, outside 1.2: net lift force in newtons; payload in grams.",
+   "n": 222,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-222-hot-air-teaser.md"
+  },
+  {
+   "slug": "floating-garden-design",
+   "title": "Design Project: A Floating Garden or Fish Cage",
+   "focus": "Design a buoyant platform for vegetables (jerricans under bamboo); compute buoyancy budget; present.",
+   "cbe": [
+    "G10-PHY-1.2",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "design sheets",
+    "jerricans",
+    "bamboo/sticks"
+   ],
+   "hands_on": true,
+   "project": "float-design",
+   "advanced": "Full buoyancy budget: platform + soil + water + crop vs total displacement, with 30% safety margin.",
+   "n": 223,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-223-floating-garden-design.md"
+  },
+  {
+   "slug": "regatta-review",
+   "title": "Unit Review: Regatta Day",
+   "focus": "Clay-boat races, hydrometer readings, buoyancy puzzle stations; unit quiz.",
+   "cbe": [
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "all unit 9 kit"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Championship problem: design a boat to carry 500 g in salt water with minimal clay — show the displacement math.",
+   "n": 224,
+   "unit_slug": "buoyancy-floating",
+   "unit_title": "Buoyancy & Floating",
+   "unit": 9,
+   "filename": "lessons/unit-09-buoyancy-floating/lesson-224-regatta-review.md"
+  }
+ ]
+}

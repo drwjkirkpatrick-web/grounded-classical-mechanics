@@ -1,0 +1,288 @@
+{
+ "batch": 9,
+ "unit": 5,
+ "unit_title": "Work, Energy & Power",
+ "unit_slug": "work-energy-power",
+ "n_lessons": 13,
+ "lessons": [
+  {
+   "slug": "what-is-work",
+   "title": "What 'Work' Means in Physics",
+   "focus": "W = F × d in the force direction; carrying debe across yard (work) vs holding it still (no work).",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "debe",
+    "spring balance",
+    "tape"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "You hold a 200 N load for 5 minutes: how much physics work is done, and why do your muscles tire anyway?",
+   "n": 99,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-099-what-is-work.md"
+  },
+  {
+   "slug": "calculating-work",
+   "title": "Calculating Work: Fetching Water and Lifting Loads",
+   "focus": "Joules; compute work fetching a jerrican 20 m and lifting it 1.5 m onto a stand.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "jerrican",
+    "tape",
+    "spring balance"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "200 N jerrican, 20 m level carry then 1.5 m lift: total work, and why the level carry counts only against friction.",
+   "n": 100,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-100-calculating-work.md"
+  },
+  {
+   "slug": "no-work-cases",
+   "title": "When There Is No Work Done",
+   "focus": "Pushing a wall, carrying at constant height (perpendicular force), orbiting: force without displacement does no work.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "wall",
+    "books"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A satellite circles Earth under gravity: explain why gravity does zero work on a circular orbit.",
+   "n": 101,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-101-no-work-cases.md"
+  },
+  {
+   "slug": "energy-forms",
+   "title": "Energy: The Ability to Do Work",
+   "focus": "Survey of forms: chemical (food, firewood), kinetic, potential, elastic, heat, light, sound, electrical; energy hunt around school.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "notebook",
+    "torch",
+    "rubber band"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Classify ten school-compound energy stores and trace each back to the Sun where possible.",
+   "n": 102,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-102-energy-forms.md"
+  },
+  {
+   "slug": "kinetic-energy",
+   "title": "Kinetic Energy: Energy of Motion",
+   "focus": "KE depends on mass and (especially) speed; rolling bottle vs rolling stone damage test on clay target.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "bottle",
+    "stone",
+    "clay target"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Compute KE for a 1 kg bottle at 2 m/s vs 4 m/s: why does doubling speed quadruple the dent?",
+   "n": 103,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-103-kinetic-energy.md"
+  },
+  {
+   "slug": "gravitational-pe",
+   "title": "Gravitational Potential Energy: Tanks on Stands",
+   "focus": "PE = mgh; water tank on a stand is an energy store; calculate PE of a 1000 L tank 3 m up.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "jerrican",
+    "stand or table",
+    "tape"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A 1000 L tank (1000 kg) raised 3 m: compute stored PE and the fall energy per litre — why tanks stand high.",
+   "n": 104,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-104-gravitational-pe.md"
+  },
+  {
+   "slug": "elastic-stored-energy",
+   "title": "Elastic and Stored Energy",
+   "focus": "Stretched rubber, drawn bow, bent stick, wound clock spring; store now, release later.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "rubber strips",
+    "green stick",
+    "string"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Estimate bow energy: average 30 N over 0.5 m draw — how fast could it launch a 30 g arrow ideally?",
+   "n": 105,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-105-elastic-stored-energy.md"
+  },
+  {
+   "slug": "energy-transformations-1",
+   "title": "Energy Transformations I: Falling, Swinging, Shining",
+   "focus": "Falling mango PE→KE; swing cycle; torch chemical→electrical→light; chain diagrams drawn for each.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "ball",
+    "swing",
+    "torch"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Draw the full chain for a boda ride from food eaten at breakfast to kinetic energy, naming each store.",
+   "n": 106,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-106-energy-transformations-1.md"
+  },
+  {
+   "slug": "energy-transformations-2",
+   "title": "Energy Transformations II: The Jiko and the Body",
+   "focus": "Charcoal chemical→heat→cooking; body food→motion+heat; efficiency preview (some energy always 'escapes').",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "jiko (unlit, for anatomy)",
+    "charcoal",
+    "food examples"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A jiko uses 2 kg charcoal (≈30 MJ/kg) to deliver 6 MJ of cooking heat: compute efficiency.",
+   "n": 107,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-107-energy-transformations-2.md"
+  },
+  {
+   "slug": "conservation-energy",
+   "title": "Conservation of Energy: Nothing Lost, Everything Moved",
+   "focus": "Pendulum returns to same height (minus a little); energy bookkeeping; where the 'lost' bit goes (heat, sound).",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "pendulum",
+    "chalk marks"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A 2 kg ball falls 5 m into a sand pit: account for all 100 J of energy at the end.",
+   "n": 108,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-108-conservation-energy.md"
+  },
+  {
+   "slug": "where-energy-goes",
+   "title": "Where Does the Energy 'Go'? Friction and Heat",
+   "focus": "Rub palms, feel brake blocks, bent wire heats; friction converts ordered motion to heat; lubrication saves energy.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "wire for bending",
+    "bicycle brake"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A 60 kg student climbs 4 m of stairs (2400 J) but burns ~8000 J of food: explain the gap.",
+   "n": 109,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-109-where-energy-goes.md"
+  },
+  {
+   "slug": "measuring-your-power",
+   "title": "Measuring Your Own Power",
+   "focus": "Timed stair climb with known mass and height: P = mgh/t in watts; compare classmates; compare to a 60 W bulb.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "stairs",
+    "tape",
+    "scale",
+    "stopwatch"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "50 kg student, 3 m stairs, 6 s: compute power; how long could a human power a 100 W TV?",
+   "n": 110,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-110-measuring-your-power.md"
+  },
+  {
+   "slug": "human-vs-machine-power",
+   "title": "Human Power vs Machine Power",
+   "focus": "Person (~75 W sustained) vs boda engine (kW) vs posho mill vs water pump; why machines changed farming.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "data cards"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A 5 kW pump replaces how many workers lifting 20 L to 3 m every 90 s? Show working.",
+   "n": 111,
+   "unit_slug": "work-energy-power",
+   "unit_title": "Work, Energy & Power",
+   "unit": 5,
+   "filename": "lessons/unit-05-work-energy-power/lesson-111-human-vs-machine-power.md"
+  }
+ ]
+}

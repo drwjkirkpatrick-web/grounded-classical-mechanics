@@ -1,0 +1,256 @@
+{
+ "batch": 12,
+ "unit": 6,
+ "unit_title": "Simple Machines",
+ "unit_slug": "simple-machines",
+ "n_lessons": 11,
+ "lessons": [
+  {
+   "slug": "test-weighing-beam",
+   "title": "Build: A Graduated Weighing Beam II — Test and Certify",
+   "focus": "Weigh five known items, plot error, adjust notches; 'certify' the beam with a class stamp.",
+   "cbe": [
+    "G10-PHY-1.5",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "beam",
+    "known masses (sugar packet, water)",
+    "chart"
+   ],
+   "hands_on": true,
+   "project": "beam-balance",
+   "advanced": "Beam reads 5% high at 1 kg but exact at 500 g: diagnose a systematic cause and fix it.",
+   "n": 136,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-136-test-weighing-beam.md"
+  },
+  {
+   "slug": "wheel-and-axle",
+   "title": "The Wheel and Axle",
+   "focus": "Mkokoteni wheel, doorknob, screwdriver, steering: big wheel turns small axle with multiplied force.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "bicycle wheel",
+    "screwdriver",
+    "rope"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Windlass drum 4 cm radius, handle 40 cm: compute VR; how does that map to force on the rope?",
+   "n": 137,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-137-wheel-and-axle.md"
+  },
+  {
+   "slug": "well-windlass",
+   "title": "Build: The Well Windlass",
+   "focus": "Spool + crank + string + small bucket; lift 'water' from a desk-well; measure effort vs direct lift.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "thread spool or pipe",
+    "stick crank",
+    "string",
+    "small container",
+    "bricks"
+   ],
+   "hands_on": true,
+   "project": "windlass",
+   "advanced": "Measure effort with and without the crank; compute MA and discuss friction at the axle.",
+   "n": 138,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-138-well-windlass.md"
+  },
+  {
+   "slug": "inclined-plane-1",
+   "title": "The Inclined Plane I: Ramp vs Lift",
+   "focus": "Roll debe up a plank instead of lifting; same work, less force, more distance; measure with spring balance.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "plank",
+    "debe",
+    "spring balance",
+    "tape"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Ramp 3 m long, 1 m rise, 100 N load: ideal effort vs measured 45 N — efficiency?",
+   "n": 139,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-139-inclined-plane-1.md"
+  },
+  {
+   "slug": "inclined-plane-2",
+   "title": "The Inclined Plane II: Switchbacks and Loading Planks",
+   "focus": "Hill paths zigzag; loading mkokoteni with planks; wheelchair ramps; measure effort vs ramp angle on a model.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "adjustable ramp",
+    "toy cart",
+    "spring balance"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Plot effort vs sin(angle) from your data: confirm the proportionality and extract the load's weight.",
+   "n": 140,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-140-inclined-plane-2.md"
+  },
+  {
+   "slug": "the-wedge",
+   "title": "The Wedge: Pangas, Axes and Jembe Tips",
+   "focus": "Two inclined planes back to back; splitting firewood; why thin sharp wedges need less force; sharpening as physics.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "UP-FE"
+   ],
+   "materials": [
+    "panga (teacher-handled)",
+    "wood for splitting",
+    "wedge samples"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A wedge 10 cm long, 2 cm thick driven by 200 N: ideal splitting force? (VR = length/thickness.)",
+   "n": 141,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-141-the-wedge.md"
+  },
+  {
+   "slug": "the-screw",
+   "title": "The Screw: A Spiral Inclined Plane",
+   "focus": "Unwrap a paper triangle from a bottle thread; car screw jack lifting a vehicle; G-clamp force; wood screws vs nails.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "bottle with threads",
+    "paper triangle",
+    "screw jack (or photo)",
+    "screws"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Jack pitch 3 mm, handle 30 cm: compute VR per turn and ideal load for 200 N effort.",
+   "n": 142,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-142-the-screw.md"
+  },
+  {
+   "slug": "pulleys-fixed",
+   "title": "Pulleys I: The Fixed Pulley",
+   "focus": "Flagpole and well pulley change direction only; build fixed pulley from a spool/wire hanger; MA = 1, comfort = high.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "spool or hanger pulley",
+    "string",
+    "load"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "If a fixed pulley gives no force advantage, why do wells still use them? Three physical reasons.",
+   "n": 143,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-143-pulleys-fixed.md"
+  },
+  {
+   "slug": "pulleys-movable",
+   "title": "Pulleys II: The Movable Pulley Halves the Effort",
+   "focus": "One fixed + one movable; count supporting strands = ideal MA; measure real effort vs prediction.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "two pulleys",
+    "string",
+    "load",
+    "spring balance"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Two-strand system lifts 100 N with measured 60 N: ideal effort, efficiency, and where 10 N went.",
+   "n": 144,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-144-pulleys-movable.md"
+  },
+  {
+   "slug": "block-and-tackle",
+   "title": "Block and Tackle: The Jua Kali Engine Hoist",
+   "focus": "Chain blocks lifting engines; rig a 4-strand system; the long pull for a big lift; safety under suspended loads.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "two double-pulley blocks (or looped spools)",
+    "rope",
+    "heavy load"
+   ],
+   "hands_on": true,
+   "project": "block-tackle",
+   "advanced": "4-strand tackle, load 800 N, efficiency 70%: effort required and rope pulled for a 0.5 m lift.",
+   "n": 145,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-145-block-and-tackle.md"
+  },
+  {
+   "slug": "pulley-lab",
+   "title": "Pulley Lab: Effort vs Strand Count",
+   "focus": "Systematically measure effort for 1,2,3,4 strands; plot effort vs 1/strands; discuss friction's growing share.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "pulley set",
+    "spring balance",
+    "loads",
+    "graph paper"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Fit your data to effort = W/(n·η): estimate η per strand and explain the downward trend.",
+   "n": 146,
+   "unit_slug": "simple-machines",
+   "unit_title": "Simple Machines",
+   "unit": 6,
+   "filename": "lessons/unit-06-simple-machines/lesson-146-pulley-lab.md"
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "batch": 3,
+ "unit": 2,
+ "unit_title": "Forces in Everyday Life",
+ "unit_slug": "forces-in-everyday-life",
+ "n_lessons": 13,
+ "lessons": [
+  {
+   "slug": "force-pushes-pulls",
+   "title": "Force: Pushes and Pulls Everywhere",
+   "focus": "Force defined by what it does; hunt for ten forces in the compound (opening sufuria lid, pulling mkokoteni, wind on mabati).",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "sufuria with lid",
+    "notebook"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Classify each found force as contact or non-contact; justify the classification of gravity.",
+   "n": 27,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-027-force-pushes-pulls.md"
+  },
+  {
+   "slug": "effects-of-force",
+   "title": "What Forces Do: Move, Stop, Turn, Shape",
+   "focus": "Four effects catalogued by kicking a ball, squeezing clay, bending a stick, stretching rubber.",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "ball",
+    "clay or mud",
+    "green stick",
+    "rubber strip"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A force changes shape but the object does not move: where does the work go? Preview elastic energy.",
+   "n": 28,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-028-effects-of-force.md"
+  },
+  {
+   "slug": "measuring-force",
+   "title": "Measuring Force: The Newton and the Rubber-Strip Meter",
+   "focus": "Build and calibrate a force meter from rubber strips using water (1 L ≈ 1 kg ≈ 10 N); the spring balance idea.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "inner-tube rubber strip",
+    "paperclip",
+    "card scale",
+    "jerrican",
+    "water"
+   ],
+   "hands_on": true,
+   "project": "force-meter",
+   "advanced": "Your rubber strip stretches non-linearly. Describe a two-point calibration error and a fix using more calibration points.",
+   "n": 29,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-029-measuring-force.md"
+  },
+  {
+   "slug": "gravity-pulls",
+   "title": "Gravity: Earth's Pull on Everything",
+   "focus": "Gravity as downward pull; falling mango vs thrown stone; weight as gravitational force; g ≈ 10 N/kg introduced.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "mango or stone",
+    "ball"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Why doesn't the Moon fall onto Earth despite gravity? Seed the idea of orbital motion.",
+   "n": 30,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-030-gravity-pulls.md"
+  },
+  {
+   "slug": "weight-vs-mass-proper",
+   "title": "Weight = Mass × g: Getting It Right",
+   "focus": "W = mg; measure masses with beam balance, weights with spring balance; tabulate and verify factor of 10.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "spring balance",
+    "beam balance",
+    "stones of known mass",
+    "water bottles"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A scale calibrated in Nairobi reads your 'weight' 60 kg. Is that reading mass or force, and what error appears at high altitude?",
+   "n": 31,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-031-weight-vs-mass-proper.md"
+  },
+  {
+   "slug": "balanced-unbalanced",
+   "title": "Balanced and Unbalanced Forces",
+   "focus": "Tug-of-war with sisal rope; equal forces → no motion change; net force concept; stationary objects have balanced forces.",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "sisal rope",
+    "chalk line"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "A 400 N pull left meets 350 N right: find net force and direction; describe the motion change.",
+   "n": 32,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-032-balanced-unbalanced.md"
+  },
+  {
+   "slug": "force-diagrams",
+   "title": "Drawing Force Diagrams",
+   "focus": "Arrows show size and direction; draw forces on a book on a desk, a hanging jerrican, a leaning ladder.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.5"
+   ],
+   "materials": [
+    "chalk",
+    "books",
+    "jerrican",
+    "string"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Draw the hanging jerrican diagram with the rope at 20°: which component carries the weight? Qualitative vectors.",
+   "n": 33,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-033-force-diagrams.md"
+  },
+  {
+   "slug": "friction-what-it-is",
+   "title": "Friction I: The Force That Opposes Sliding",
+   "focus": "Rub hands, drag shoe on floor then grass; friction acts opposite motion; surface roughness matters.",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "shoes",
+    "smooth floor",
+    "grass patch"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Friction is caused by microscopic welds between surfaces: explain why polishing reduces it only up to a point.",
+   "n": 34,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-034-friction-what-it-is.md"
+  },
+  {
+   "slug": "friction-helpful",
+   "title": "Friction II: When We Need It",
+   "focus": "Walking, tyre treads on murram, jembe handle grip, writing chalk, boda braking: life without friction skit.",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "chalk",
+    "bicycle tyre tread sample",
+    "rope"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Explain why wet murram roads reduce friction and how tread channels water away.",
+   "n": 35,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-035-friction-helpful.md"
+  },
+  {
+   "slug": "friction-reducing",
+   "title": "Friction III: Reducing It with Oil, Rollers and Bearings",
+   "focus": "Grease on hinges, rollers under debe, ball bearings from boda hubs; sliding vs rolling compared by pull test.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "cooking oil",
+    "round sticks (rollers)",
+    "debe",
+    "old ball bearing"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Pull-force drops from 18 N to 3 N with rollers: compute friction reduction percentage and where the energy was going.",
+   "n": 36,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-036-friction-reducing.md"
+  },
+  {
+   "slug": "friction-lab",
+   "title": "Friction Lab: Pull Tests on Surfaces",
+   "focus": "Spring balance drags a loaded block over wood, sandpaper, grass, oiled wood; force vs load graph.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.3"
+   ],
+   "materials": [
+    "wood block",
+    "spring balance",
+    "sandpaper",
+    "oil",
+    "stones (load)"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Plot friction vs load; find the gradient — introduce coefficient of friction μ for your surfaces.",
+   "n": 37,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-037-friction-lab.md"
+  },
+  {
+   "slug": "air-resistance",
+   "title": "Air Resistance: The Invisible Brake",
+   "focus": "Flat vs crumpled paper drop; plastic-bag parachute; streamlining preview; drag grows with speed.",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "paper sheets",
+    "plastic bag",
+    "string",
+    "small stone"
+   ],
+   "hands_on": true,
+   "project": "parachute-mk0",
+   "advanced": "Why does a falling raindrop not accelerate forever? Introduce terminal velocity conceptually.",
+   "n": 38,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-038-air-resistance.md"
+  },
+  {
+   "slug": "water-resistance",
+   "title": "Water Resistance and Streamlining",
+   "focus": "Sweep hand flat vs edge-on through water; fish and canoe shapes; mould clay hulls and drag-test them.",
+   "cbe": [
+    "UP-FE",
+    "JS-FE"
+   ],
+   "materials": [
+    "basin of water",
+    "clay",
+    "string",
+    "spring balance"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Explain in particle terms why water drag exceeds air drag at the same speed.",
+   "n": 39,
+   "unit_slug": "forces-in-everyday-life",
+   "unit_title": "Forces in Everyday Life",
+   "unit": 2,
+   "filename": "lessons/unit-02-forces-in-everyday-life/lesson-039-water-resistance.md"
+  }
+ ]
+}

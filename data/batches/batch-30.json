@@ -1,0 +1,228 @@
+{
+ "batch": 30,
+ "unit": 14,
+ "unit_title": "Wind & Water Power Projects",
+ "unit_slug": "wind-water-power",
+ "n_lessons": 10,
+ "lessons": [
+  {
+   "slug": "windmill-drivetrain",
+   "title": "Windmill Project III: The Drive Train",
+   "focus": "Crank or cam converts rotation to reciprocation; connecting rod to the pump; friction points oiled.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "crank wire",
+    "rod",
+    "guides",
+    "oil"
+   ],
+   "hands_on": true,
+   "project": "windmill",
+   "advanced": "Measure stroke length vs crank radius; relate strokes/minute to rotor rpm and gear options.",
+   "n": 311,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-311-windmill-drivetrain.md"
+  },
+  {
+   "slug": "windmill-pump-link",
+   "title": "Windmill Project IV: Linking the Pump",
+   "focus": "Connect the Unit 8 diaphragm pump; suction line to a water container; check valve orientation verified.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "diaphragm pump",
+    "tube",
+    "jerrican",
+    "clamps"
+   ],
+   "hands_on": true,
+   "project": "windmill",
+   "advanced": "Predict litres/minute from rotor rpm × stroke volume at your measured efficiency.",
+   "n": 312,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-312-windmill-pump-link.md"
+  },
+  {
+   "slug": "windmill-test-day",
+   "title": "Windmill Project V: Test Day",
+   "focus": "Run in wind: measure water lifted per minute at 1 m head; photograph, log, celebrate; safety perimeter for spinning blades.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "windmill",
+    "measuring jar",
+    "stopwatch"
+   ],
+   "hands_on": true,
+   "project": "windmill",
+   "advanced": "Compute hydraulic power out (ρgQh) vs estimated wind power in (½ρAv³); the honest efficiency.",
+   "n": 313,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-313-windmill-test-day.md"
+  },
+  {
+   "slug": "windmill-improve",
+   "title": "Windmill Project VI: Iteration",
+   "focus": "One improvement each team: blade pitch, tail size, bearing friction, stroke length; A/B test against the log.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "spare blades",
+    "tools",
+    "log sheets"
+   ],
+   "hands_on": true,
+   "project": "windmill",
+   "advanced": "Design the A/B test so wind variation doesn't fool you (interleave trials); report with error bars.",
+   "n": 314,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-314-windmill-improve.md"
+  },
+  {
+   "slug": "windmill-data",
+   "title": "Windmill Project VII: Data and Graphs",
+   "focus": "Compile output vs wind speed; find the cut-in speed; present the performance curve.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "anemometer card",
+    "logs",
+    "graph paper"
+   ],
+   "hands_on": true,
+   "project": "windmill",
+   "advanced": "Fit output ∝ (v − v_cutin) approximately; justify the cubic-energy intuition behind the curve's shape.",
+   "n": 315,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-315-windmill-data.md"
+  },
+  {
+   "slug": "windmill-present",
+   "title": "Windmill Project VIII: Engineering Report",
+   "focus": "Teams present: design, data, failures, fixes, costs; audience of teachers and a jua kali guest if possible.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "posters",
+    "windmill"
+   ],
+   "hands_on": true,
+   "project": "windmill",
+   "advanced": "Include a costing: materials, hours, water per day — compare with a jerrican-carried alternative.",
+   "n": 316,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-316-windmill-present.md"
+  },
+  {
+   "slug": "water-power-intro",
+   "title": "Water Power: Head and Flow",
+   "focus": "Energy = mgh of falling water; micro-hydro reality in Kenya's highlands; head vs flow trade for power.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-4.1"
+   ],
+   "materials": [
+    "map",
+    "jerrican+tape demo"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Stream: 2 L/s falling 5 m: compute available power; what could it run?",
+   "n": 317,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-317-water-power-intro.md"
+  },
+  {
+   "slug": "water-wheels",
+   "title": "Water Wheels: Undershot and Overshot",
+   "focus": "History of mills; undershot uses stream speed, overshot uses weight; efficiency intuition; model both.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "JS-FE"
+   ],
+   "materials": [
+    "two model wheels",
+    "tray + pour",
+    "stream (optional)"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Explain why overshot beats undershot on the same water: which energy form each harvests.",
+   "n": 318,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-318-water-wheels.md"
+  },
+  {
+   "slug": "spoon-turbine-build",
+   "title": "Build: The Spoon Wheel Turbine I",
+   "focus": "Spoons/bottle scoops on a bottle wheel; mount on wire axle; rig a string-and-bobbin to lift weights.",
+   "cbe": [
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "bottle",
+    "spoons/scoops",
+    "wire axle",
+    "string",
+    "small weights"
+   ],
+   "hands_on": true,
+   "project": "water-turbine",
+   "advanced": "Predict lift rate from cup fill volume × rpm; identify the two main losses.",
+   "n": 319,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-319-spoon-turbine-build.md"
+  },
+  {
+   "slug": "spoon-turbine-test",
+   "title": "Build: The Spoon Wheel Turbine II — Test Under the Tap",
+   "focus": "Run under tap/stream; measure rpm vs flow and max weight lifted; graph; compare teams.",
+   "cbe": [
+    "G10-PHY-1.6",
+    "G10-PHY-1.1"
+   ],
+   "materials": [
+    "turbine",
+    "tap/hose",
+    "stopwatch",
+    "weights"
+   ],
+   "hands_on": true,
+   "project": "water-turbine",
+   "advanced": "Compute mechanical power from lift rate; compare with water power in; where's the loss?",
+   "n": 320,
+   "unit_slug": "wind-water-power",
+   "unit_title": "Wind & Water Power Projects",
+   "unit": 14,
+   "filename": "lessons/unit-14-wind-water-power/lesson-320-spoon-turbine-test.md"
+  }
+ ]
+}

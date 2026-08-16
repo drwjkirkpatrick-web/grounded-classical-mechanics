@@ -1,0 +1,227 @@
+{
+ "batch": 8,
+ "unit": 4,
+ "unit_title": "Gravity, Falling Bodies & Projectiles",
+ "unit_slug": "gravity-falling-projectiles",
+ "n_lessons": 10,
+ "lessons": [
+  {
+   "slug": "peak-height-energy",
+   "title": "How High Did It Go? Energy Preview",
+   "focus": "Estimate peak from flight time; KE→PE story; measure throw heights off a marked wall.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.6"
+   ],
+   "materials": [
+    "chalk wall marks",
+    "ball",
+    "stopwatch"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Equate ½mv²=mgh to show h=v²/2g; find launch speed for a 5 m mango-branch clearance.",
+   "n": 89,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-089-peak-height-energy.md"
+  },
+  {
+   "slug": "projectile-motion-1",
+   "title": "Projectile Motion I: Sideways and Down Are Independent",
+   "focus": "Roll ball off table while dropping another: same landing time; horizontal steady + vertical accelerates.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "table",
+    "two balls",
+    "carbon/chalk marks"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Ball leaves 1.25 m table at 3.0 m/s: compute flight time and range.",
+   "n": 90,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-090-projectile-motion-1.md"
+  },
+  {
+   "slug": "projectile-motion-2",
+   "title": "Projectile Motion II: Angle and Range",
+   "focus": "Throw stones at measured angles; 45° wins (no air); 30° and 60° tie; javelin angle reality ~35°.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "stones",
+    "protractor (cardboard)",
+    "tape measure",
+    "open field"
+   ],
+   "hands_on": true,
+   "project": null,
+   "advanced": "Explain with range formula R=v²sin2θ/g why 45° maximizes range; why do javelin throwers use less?",
+   "n": 91,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-091-projectile-motion-2.md"
+  },
+  {
+   "slug": "water-rocket-design",
+   "title": "The Water Rocket Project I: Pressure and Design",
+   "focus": "Bottle + water + air pressure = rocket; action-reaction and momentum preview; fin/nose design drawings.",
+   "cbe": [
+    "JS-FE",
+    "G10-PHY-1.2"
+   ],
+   "materials": [
+    "PET bottles",
+    "cardboard",
+    "tape",
+    "design sheets"
+   ],
+   "hands_on": true,
+   "project": "water-rocket",
+   "advanced": "Sketch forces on the rocket at launch: thrust, weight, drag; when is acceleration greatest?",
+   "n": 92,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-092-water-rocket-design.md"
+  },
+  {
+   "slug": "water-rocket-build",
+   "title": "The Water Rocket Project II: Build Day",
+   "focus": "Construct fins, nose cone, payload bay; check symmetry and straight flight path; launcher safety briefing.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "bottles",
+    "fins material",
+    "tape",
+    "bicycle pump + stopper launcher"
+   ],
+   "hands_on": true,
+   "project": "water-rocket",
+   "advanced": "Compute centre of pressure vs centre of gravity positions; why must CG lead CP for stable flight?",
+   "n": 93,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-093-water-rocket-build.md"
+  },
+  {
+   "slug": "water-rocket-launch",
+   "title": "The Water Rocket Project III: Launch and Measure",
+   "focus": "Vary water fill (1/4, 1/3, 1/2) and launch angle; measure range and flight time; crown the champion with data.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "launcher",
+    "pump",
+    "water",
+    "tape",
+    "stopwatch",
+    "open field"
+   ],
+   "hands_on": true,
+   "project": "water-rocket",
+   "advanced": "From flight time and angle, estimate launch speed; explain the optimum fill fraction using mass vs impulse.",
+   "n": 94,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-094-water-rocket-launch.md"
+  },
+  {
+   "slug": "kenyan-athletics-physics",
+   "title": "Physics of Kenyan Athletics",
+   "focus": "Julius Yego's javelin angles, Eliud Kipchoge's pacing (steady speed = efficiency); analyze race splits from data cards.",
+   "cbe": [
+    "JS-FE",
+    "UP-FE"
+   ],
+   "materials": [
+    "data cards of splits",
+    "javelin or stick"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Kipchoge: 42.195 km in 2:01:09 — compute average speed and per-km pace; compare with your dash.",
+   "n": 95,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-095-kenyan-athletics-physics.md"
+  },
+  {
+   "slug": "orbits-satellites",
+   "title": "Orbits and Satellites: Falling Around the Earth",
+   "focus": "Throw harder and farther until you orbit; Kenya's space milestones (Uhuru-1, Taifa-1) and why satellites don't fall.",
+   "cbe": [
+    "G10-PHY-4.2",
+    "JS-FE"
+   ],
+   "materials": [
+    "ball",
+    "string (swing model)",
+    "globe or ball-Earth"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Explain weightlessness in orbit as continuous free fall, not absence of gravity.",
+   "n": 96,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-096-orbits-satellites.md"
+  },
+  {
+   "slug": "coin-feather-tube",
+   "title": "The Coin and Feather Problem",
+   "focus": "Attempt near-vacuum demo in a bottle with pump; failing that, reason from parachute data: without air, all fall together.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "clear bottle",
+    "coin",
+    "feather",
+    "hand pump (if available)"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Write the argument that closes the case even if the demo is imperfect: what evidence settles it?",
+   "n": 97,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-097-coin-feather-tube.md"
+  },
+  {
+   "slug": "gravity-games-review",
+   "title": "Unit Review: Gravity Games",
+   "focus": "Stations: drop timing, parachute race, projectile range, egg-drop finals; unit quiz.",
+   "cbe": [
+    "JS-FE"
+   ],
+   "materials": [
+    "all unit 4 kit"
+   ],
+   "hands_on": false,
+   "project": null,
+   "advanced": "Combined problem: a stone thrown horizontally at 8 m/s from a 20 m cliff — time, range, impact speed.",
+   "n": 98,
+   "unit_slug": "gravity-falling-projectiles",
+   "unit_title": "Gravity, Falling Bodies & Projectiles",
+   "unit": 4,
+   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-098-gravity-games-review.md"
+  }
+ ]
+}

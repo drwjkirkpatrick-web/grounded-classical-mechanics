@@ -1,5 +1,5 @@
-BATCH 44 — Unit 9: Buoyancy & Floating
-Write 2 lesson files at the exact paths below.
+BATCH 44 — Unit 12: Momentum & Collisions
+Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
 # Lesson {NNN}: {exact title}
@@ -23,5 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-09-buoyancy-floating/lesson-223-floating-garden-design.md | 223 | Design Project: A Floating Garden or Fish Cage | G10-PHY-1.2;G10-PHY-1.6 | yes | float-design | design sheets; jerricans; bamboo/sticks | Design a buoyant platform for vegetables (jerricans under bamboo); compute buoyancy budget; present. | Full buoyancy budget: platform + soil + water + crop vs total displacement, with 30% safety margin.
-lessons/unit-09-buoyancy-floating/lesson-224-regatta-review.md | 224 | Unit Review: Regatta Day | G10-PHY-1.2 | no | - | all unit 9 kit | Clay-boat races, hydrometer readings, buoyancy puzzle stations; unit quiz. | Championship problem: design a boat to carry 500 g in salt water with minimal clay — show the displacement math.
+lessons/unit-12-momentum-collisions/lesson-261-mass-in-motion.md | 261 | Mass in Motion: Introducing Momentum | JS-FE | no | - | football; debe; open ground | p = mv; which is harder to stop: fast football or slow rolling debe? Stopping stories build the idea. | Compare p for a 0.45 kg ball at 25 m/s vs a 15 kg debe at 1 m/s; stopping distance implications.
+lessons/unit-12-momentum-collisions/lesson-262-why-momentum-matters.md | 262 | Why Momentum Matters on the Road | JS-FE;UP-FE | no | - | photos/cards; toy car | Boda braking distance grows with load and speed; overloaded pickups; momentum as 'quantity of motion'. | Doubling speed doubles p but quadruples KE: which governs braking distance and which crash violence? Discuss.
+lessons/unit-12-momentum-collisions/lesson-263-impulse.md | 263 | Impulse: The Egg-Catching Secret | JS-FE | yes | - | eggs (or clay eggs); cloth; hard surface | Δp = F×t; soft hands extend time and reduce force; landing with bent knees; gym mats and sand pits. | 60 g egg at 6 m/s stopped in 0.5 s (cloth) vs 0.02 s (floor): compute both forces and the verdict.
+lessons/unit-12-momentum-collisions/lesson-264-follow-through-sport.md | 264 | Follow-Through: Impulse in Sport | JS-FE;UP-FE | yes | - | ball; javelin/stick; space | Long contact adds impulse: javelin run-up, football kick follow-through, jembe swing; analyze slow-motion descriptions. | Estimate: javelin 0.8 kg accelerated over 1.2 s of contact to 25 m/s: average force?

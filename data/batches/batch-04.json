@@ -1,4 +1,4 @@
-BATCH 04 — Unit 3: Describing Motion
+BATCH 04 — Unit 5: Work, Energy & Power
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-03-describing-motion/lesson-069-braking-distance.md | 69 | Thinking and Braking Distance | JS-FE;UP-FE | no | - | toy car; ramp; rulers | Reaction distance + braking distance = stopping distance; toy-car crash demo; why tailgating kills. | At 20 m/s with 0.7 s reaction and 4 m/s² braking deceleration: compute total stopping distance.
-lessons/unit-03-describing-motion/lesson-070-acceleration-lab.md | 70 | Acceleration Lab: Toy Car on a Ramp | JS-FE | yes | - | ramp board; books; toy car; stopwatch; tape | Time car over measured ramp sections at different slopes; steeper → greater acceleration; graph results. | Using v²=2as with your measured time and distance, estimate acceleration on the steepest slope.
-lessons/unit-03-describing-motion/lesson-071-rolling-ramps.md | 71 | Rolling Down Ramps: Bottles, Balls and Cylinders | JS-FE | yes | - | ramp; ball; two bottles (one filled) | Race solid ball vs bottle of water vs empty bottle; rolling is slower than sliding without friction would suggest — rotation teaser. | Explain using energy sharing between translation and rotation why the filled bottle and ball finish differently.
-lessons/unit-03-describing-motion/lesson-072-deceleration.md | 72 | Deceleration: Slowing Down Is Acceleration Too | JS-FE | no | - | ball; grass; swing | Ball rolling out on grass; swing dying down; sign conventions for ±acceleration. | A ball enters grass at 4 m/s and stops in 2.5 m: find deceleration from v²=u²+2as.
+lessons/unit-05-work-energy-power/lesson-111-human-vs-machine-power.md | 111 | Human Power vs Machine Power | G10-PHY-1.6;G10-PHY-4.1 | no | - | data cards | Person (~75 W sustained) vs boda engine (kW) vs posho mill vs water pump; why machines changed farming. | A 5 kW pump replaces how many workers lifting 20 L to 3 m every 90 s? Show working.
+lessons/unit-05-work-energy-power/lesson-112-food-as-fuel.md | 112 | Food as Fuel: Kilojoules on the Plate | G10-PHY-1.6;UP-FE | no | - | food packets with labels; activity cards | Food labels in kJ; energy cost of walking, farming, studying; match meals to a day's work. | Ugali portion 1500 kJ: how many 3 m stair climbs (60 kg person) does it theoretically power?
+lessons/unit-05-work-energy-power/lesson-113-kenya-energy-story.md | 113 | Kenya's Energy Story: Firewood to Geothermal | G10-PHY-4.1;G10-PHY-1.6 | no | - | map of Kenya; source cards | Firewood/charcoal, hydro (Seven Forks), geothermal (Olkaria), wind (Lake Turkana), solar home systems; mapping sources to uses. | Rank sources by renewability and reliability for a rural school; defend the ranking.
+lessons/unit-05-work-energy-power/lesson-114-efficiency.md | 114 | Efficiency: Useful Out Over Total In | G10-PHY-1.6;G10-PHY-4.1 | no | - | jiko images; data cards | η = useful/total; traditional 3-stone fire vs improved jiko; why no machine beats 100%. | Improved jiko delivers 12 MJ from 40 MJ of charcoal; compute η and wood saved per week at 3 kg/day baseline.

@@ -1,4 +1,4 @@
-BATCH 69 — Unit 14: Wind & Water Power Projects
+BATCH 69 — Unit 16: Capstone, Review & Community Science
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-14-wind-water-power/lesson-317-water-power-intro.md | 317 | Water Power: Head and Flow | G10-PHY-1.6;G10-PHY-4.1 | no | - | map; jerrican+tape demo | Energy = mgh of falling water; micro-hydro reality in Kenya's highlands; head vs flow trade for power. | Stream: 2 L/s falling 5 m: compute available power; what could it run?
-lessons/unit-14-wind-water-power/lesson-318-water-wheels.md | 318 | Water Wheels: Undershot and Overshot | G10-PHY-1.6;JS-FE | yes | - | two model wheels; tray + pour; stream (optional) | History of mills; undershot uses stream speed, overshot uses weight; efficiency intuition; model both. | Explain why overshot beats undershot on the same water: which energy form each harvests.
-lessons/unit-14-wind-water-power/lesson-319-spoon-turbine-build.md | 319 | Build: The Spoon Wheel Turbine I | G10-PHY-1.6 | yes | water-turbine | bottle; spoons/scoops; wire axle; string; small weights | Spoons/bottle scoops on a bottle wheel; mount on wire axle; rig a string-and-bobbin to lift weights. | Predict lift rate from cup fill volume × rpm; identify the two main losses.
-lessons/unit-14-wind-water-power/lesson-320-spoon-turbine-test.md | 320 | Build: The Spoon Wheel Turbine II — Test Under the Tap | G10-PHY-1.6;G10-PHY-1.1 | yes | water-turbine | turbine; tap/hose; stopwatch; weights | Run under tap/stream; measure rpm vs flow and max weight lifted; graph; compare teams. | Compute mechanical power from lift rate; compare with water power in; where's the loss?
+lessons/unit-16-capstone-review/lesson-361-capstone-build-3.md | 361 | Capstone IV: Iterate and Document | G10-PHY-1.6 | yes | capstone | per team; cameras/notebooks | One measured improvement cycle; finish documentation with diagrams and data tables. | Final numbers: performance, efficiency, cost, and a realistic maintenance plan.
+lessons/unit-16-capstone-review/lesson-362-capstone-polish.md | 362 | Capstone V: Poster and Rehearsal | G10-PHY-1.1 | yes | capstone | poster paper; markers | Poster with problem, physics, data, result; rehearse the 3-minute demo; peer feedback round. | Prepare the two hardest audience questions for your project and the answers.
+lessons/unit-16-capstone-review/lesson-363-community-science-day.md | 363 | Community Science Day | G10-PHY-1.6;G10-PHY-4.1 | yes | science-day | all year builds; feedback cards | Parents, fundis and leaders invited; teams run stations of the year's builds; capstones premiered; guest feedback cards. | Collect and summarize guest feedback quantitatively (ratings tally) for the class report.
+lessons/unit-16-capstone-review/lesson-364-reflection-portfolio.md | 364 | Reflection and Portfolio | G10-PHY-1.1;JS-FE | no | - | portfolios; year files | Each learner compiles best pre/post tests, graphs and build photos; writes 'what I can now do' against CBE outcomes. | Self-assess against ten key outcomes with evidence citations from your portfolio.

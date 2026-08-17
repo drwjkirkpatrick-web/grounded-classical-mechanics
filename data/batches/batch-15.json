@@ -1,4 +1,4 @@
-BATCH 15 — Unit 5: Work, Energy & Power
+BATCH 15 — Unit 6: Simple Machines
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-05-work-energy-power/lesson-111-human-vs-machine-power.md | 111 | Human Power vs Machine Power | G10-PHY-1.6;G10-PHY-4.1 | no | - | data cards | Person (~75 W sustained) vs boda engine (kW) vs posho mill vs water pump; why machines changed farming. | A 5 kW pump replaces how many workers lifting 20 L to 3 m every 90 s? Show working.
-lessons/unit-05-work-energy-power/lesson-112-food-as-fuel.md | 112 | Food as Fuel: Kilojoules on the Plate | G10-PHY-1.6;UP-FE | no | - | food packets with labels; activity cards | Food labels in kJ; energy cost of walking, farming, studying; match meals to a day's work. | Ugali portion 1500 kJ: how many 3 m stair climbs (60 kg person) does it theoretically power?
-lessons/unit-05-work-energy-power/lesson-113-kenya-energy-story.md | 113 | Kenya's Energy Story: Firewood to Geothermal | G10-PHY-4.1;G10-PHY-1.6 | no | - | map of Kenya; source cards | Firewood/charcoal, hydro (Seven Forks), geothermal (Olkaria), wind (Lake Turkana), solar home systems; mapping sources to uses. | Rank sources by renewability and reliability for a rural school; defend the ranking.
-lessons/unit-05-work-energy-power/lesson-114-efficiency.md | 114 | Efficiency: Useful Out Over Total In | G10-PHY-1.6;G10-PHY-4.1 | no | - | jiko images; data cards | η = useful/total; traditional 3-stone fire vs improved jiko; why no machine beats 100%. | Improved jiko delivers 12 MJ from 40 MJ of charcoal; compute η and wood saved per week at 3 kg/day baseline.
+lessons/unit-06-simple-machines/lesson-153-compound-machine-build.md | 153 | Design Challenge II: Build and Demonstrate | G10-PHY-1.6 | yes | machine-design | scrap wood; wire; spools; rope; tools | Build the chosen machine from jua kali scrap and school materials; demonstrate lifting/moving a real load. | Measure actual MA with a spring balance; compare with design prediction and explain the gap.
+lessons/unit-06-simple-machines/lesson-154-friction-efficiency-machines.md | 154 | Why Machines Waste Energy | G10-PHY-1.6 | no | - | unit's built machines; oil; spring balance | Friction in axles and ropes; efficiency measured across the unit's builds; lubrication and alignment as cures. | Rank the class builds by efficiency and propose one modification each that raises η by ≥10%.
+lessons/unit-06-simple-machines/lesson-155-machine-maintenance.md | 155 | Maintenance Matters: Oiling, Tightening, Aligning | G10-PHY-1.6;UP-FE | yes | - | bicycle; oil; spanners | Boda service schedule as physics: chain lube, brake pads, bearing play; write a maintenance card for a class build. | Quantify: a dry chain wastes ~5% of pedal energy — how many extra food kJ per 10 km ride?
+lessons/unit-06-simple-machines/lesson-156-machine-fair-review.md | 156 | Unit Review: Machine Fair | G10-PHY-1.6;G10-PHY-1.5 | no | - | all builds; sign cards | Every build on show with student explainers; visitors operate each; unit quiz. | Prepare a 2-minute explainer for one machine: include MA, VR, efficiency and one safety rule.

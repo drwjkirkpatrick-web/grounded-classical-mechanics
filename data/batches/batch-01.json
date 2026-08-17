@@ -1,4 +1,4 @@
-BATCH 01 — Unit 3: Describing Motion
+BATCH 01 — Unit 5: Work, Energy & Power
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-03-describing-motion/lesson-053-what-is-motion.md | 53 | What Is Motion? Position and Reference Points | UP-FE;JS-FE | no | - | chalk markers; open ground | Motion is change of position relative to a reference; 'moving compared to what?' game; frame of reference. | Passenger in a moving matatu: at rest or in motion? Explain using reference frames.
-lessons/unit-03-describing-motion/lesson-054-distance-vs-displacement.md | 54 | Distance vs Displacement | JS-FE | no | - | tape measure; chalk; compass (or sun directions) | Walk an L-shaped path; distance paced vs straight-line displacement; scalar vs vector introduced. | You walk 30 m east then 40 m north: compute distance and displacement; explain why displacement can be zero after a long walk.
-lessons/unit-03-describing-motion/lesson-055-speed.md | 55 | Speed: How Fast Is Fast? | UP-FE;JS-FE | no | - | tape measure; stopwatch; whistle | v = d/t; time a 40 m walk and run; compute speeds; compare class results on a chart. | A runner covers 100 m in 14.0 s: compute average speed in m/s and km/h.
-lessons/unit-03-describing-motion/lesson-056-units-of-speed.md | 56 | Units of Speed: m/s Meets km/h | JS-FE | no | - | conversion cards; calculator (optional) | Conversion practice; reading boda speedometer; estimating matatu speed between kilometre markers. | Show 10 m/s = 36 km/h by chain conversion; which unit suits walking, which suits highways?
+lessons/unit-05-work-energy-power/lesson-099-what-is-work.md | 99 | What 'Work' Means in Physics | G10-PHY-1.6;JS-FE | no | - | debe; spring balance; tape | W = F × d in the force direction; carrying debe across yard (work) vs holding it still (no work). | You hold a 200 N load for 5 minutes: how much physics work is done, and why do your muscles tire anyway?
+lessons/unit-05-work-energy-power/lesson-100-calculating-work.md | 100 | Calculating Work: Fetching Water and Lifting Loads | G10-PHY-1.6;JS-FE | yes | - | jerrican; tape; spring balance | Joules; compute work fetching a jerrican 20 m and lifting it 1.5 m onto a stand. | 200 N jerrican, 20 m level carry then 1.5 m lift: total work, and why the level carry counts only against friction.
+lessons/unit-05-work-energy-power/lesson-101-no-work-cases.md | 101 | When There Is No Work Done | G10-PHY-1.6 | no | - | wall; books | Pushing a wall, carrying at constant height (perpendicular force), orbiting: force without displacement does no work. | A satellite circles Earth under gravity: explain why gravity does zero work on a circular orbit.
+lessons/unit-05-work-energy-power/lesson-102-energy-forms.md | 102 | Energy: The Ability to Do Work | G10-PHY-1.6;JS-FE | no | - | notebook; torch; rubber band | Survey of forms: chemical (food, firewood), kinetic, potential, elastic, heat, light, sound, electrical; energy hunt around school. | Classify ten school-compound energy stores and trace each back to the Sun where possible.

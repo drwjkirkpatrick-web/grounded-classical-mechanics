@@ -1,5 +1,5 @@
-BATCH 43 — Unit 9: Buoyancy & Floating
-Write 4 lesson files at the exact paths below.
+BATCH 43 — Unit 11: Oscillations & Pendulums
+Write 2 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
 # Lesson {NNN}: {exact title}
@@ -23,7 +23,5 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-09-buoyancy-floating/lesson-219-rafts-ferries.md | 219 | Rafts, Canoes and Ferries of Kenya | G10-PHY-1.2;UP-FE | no | - | photos/cards; raft model sticks | Banana-stem and ambatch rafts, dugout canoes on Lake Victoria, ferries at Likoni; buoyancy calculations for safe loading. | Raft of 10 logs, each 40 L displacement, total mass 150 kg: safe passenger load in kg?
-lessons/unit-09-buoyancy-floating/lesson-220-life-jackets-safety.md | 220 | Life Jackets and Water Safety | G10-PHY-1.2;UP-FE | no | - | life jacket or foam; basin | How a life jacket adds buoyancy without adding weight; cold water and panic; community water-safety campaign design. | A 70 kg person (body density ≈ 1.02) needs how much extra displaced volume to float face-up? Show working.
-lessons/unit-09-buoyancy-floating/lesson-221-plimsoll-lines.md | 221 | Plimsoll Lines: Loading Marks on Ships | G10-PHY-1.2 | yes | - | clay boat; marker; salt; basin | Load lines for fresh vs salt water; mark your clay boat's Plimsoll line; overloading tragedies discussion. | A ship moves from sea (1.025) to fresh water (1.000): by what percentage does displaced volume change?
-lessons/unit-09-buoyancy-floating/lesson-222-hot-air-teaser.md | 222 | Hot Air Rises: Buoyancy in Gases | G10-PHY-1.2;G10-PHY-1.4 | no | - | tissue balloon (teacher); candle (teacher); smoke source | Smoke rises; teacher demo tissue hot-air balloon; air has density too; bridge to thermal physics (Unit on temperature in CBE 1.4). | Hot air at 0.9 kg/m³ in a 1 m³ balloon, outside 1.2: net lift force in newtons; payload in grams.
+lessons/unit-11-oscillations-pendulums/lesson-259-building-oscillations.md | 259 | Buildings That Sway | G10-PHY-2.1;G10-PHY-1.3 | yes | shake-table | sticks; clay; shake table (board on rollers) | Flexible vs stiff; Rift Valley earthquake awareness; water tanks on towers act like pendulums; model with sticks and clay. | Tall flexible vs short stiff model on the shake table: relate survival to natural frequency mismatch.
+lessons/unit-11-oscillations-pendulums/lesson-260-pendulum-olympics.md | 260 | Unit Review: Pendulum Olympics | JS-FE;G10-PHY-2.1 | no | - | all unit 11 kit | Stations: predict the period, tune to a target, coupled-pendulum demo, damping race; unit quiz. | Championship: specify a pendulum to keep Nairobi time within 30 s/day; show the design math.

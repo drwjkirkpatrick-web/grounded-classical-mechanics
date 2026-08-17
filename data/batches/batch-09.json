@@ -1,4 +1,4 @@
-BATCH 09 — Unit 4: Gravity, Falling Bodies & Projectiles
+BATCH 09 — Unit 6: Simple Machines
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-04-gravity-falling-projectiles/lesson-087-egg-drop-test.md | 87 | Egg Drop Challenge II: Test and Autopsy | JS-FE;UP-FE | yes | egg-drop | egg-drop rigs; ladder; eggs; cleanup kit | Drop from ladder/veranda; inspect damage; correlate failure with design; improve and retest. | Estimate impact speed from 3 m (v=√(2gh)); then force for a 0.05 s stop on a 60 g egg.
-lessons/unit-04-gravity-falling-projectiles/lesson-088-vertical-throws.md | 88 | Throwing Straight Up | JS-FE | no | - | ball; stopwatch | Ball up: slows at g, stops, returns at same speed (no air); time up = time down; catch height symmetry. | Total flight 2.4 s: compute launch speed and peak height using symmetry.
-lessons/unit-04-gravity-falling-projectiles/lesson-089-peak-height-energy.md | 89 | How High Did It Go? Energy Preview | JS-FE;G10-PHY-1.6 | no | - | chalk wall marks; ball; stopwatch | Estimate peak from flight time; KE→PE story; measure throw heights off a marked wall. | Equate ½mv²=mgh to show h=v²/2g; find launch speed for a 5 m mango-branch clearance.
-lessons/unit-04-gravity-falling-projectiles/lesson-090-projectile-motion-1.md | 90 | Projectile Motion I: Sideways and Down Are Independent | JS-FE | yes | - | table; two balls; carbon/chalk marks | Roll ball off table while dropping another: same landing time; horizontal steady + vertical accelerates. | Ball leaves 1.25 m table at 3.0 m/s: compute flight time and range.
+lessons/unit-06-simple-machines/lesson-129-levers-class-3.md | 129 | Levers Class 3: The Mwiko and the Human Arm | G10-PHY-1.5;JS-FE | no | - | mwiko; fishing rod or long stick; tweezers | Effort between fulcrum and load; mwiko stirring, fishing rod, tweezers; trading force for speed and reach. | Why did evolution pick class-3 arms? Discuss speed/force trade with biceps-at-4 cm numbers.
+lessons/unit-06-simple-machines/lesson-130-moments.md | 130 | Moments: The Turning Force | G10-PHY-1.5 | yes | - | ruler; pencil pivot; bottle tops | Moment = F × d from pivot; balance a ruler with unequal bottle-top piles by sliding positions. | 5 tops at 20 cm balance 8 tops at what distance? Then generalize: write the balance rule.
+lessons/unit-06-simple-machines/lesson-131-law-of-moments-lab.md | 131 | Law of Moments Lab: Weighing Without a Scale | G10-PHY-1.5;G10-PHY-1.1 | yes | - | ruler; pivot; bottle-cap pans; water; stone | Balance an unknown stone against known water volumes on a ruler; compute the stone's mass. | Known 300 g at 18 cm balances unknown at 12 cm: compute unknown mass; list error sources.
+lessons/unit-06-simple-machines/lesson-132-centre-of-gravity-intro.md | 132 | Centre of Gravity: The Balance Point | G10-PHY-1.5 | yes | - | jembe; broom; cardboard shapes; string; nut | Balance a jembe and a broom on a finger; CG of regular vs irregular shapes; plumb line method with string+nut. | Use the plumb-line intersection method on a cut-out of Kenya: describe where the CG lands and why.

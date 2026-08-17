@@ -1,4 +1,4 @@
-BATCH 67 — Unit 14: Wind & Water Power Projects
+BATCH 67 — Unit 16: Capstone, Review & Community Science
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-14-wind-water-power/lesson-309-windmill-mk1.md | 309 | Windmill Project I: Rotor and Hub | G10-PHY-1.6 | yes | windmill | blade material; hub (old bicycle front hub ideal); nails/wire; tools | Build the working rotor: blades from mabati offcuts or stiff plastic on a bicycle hub/nail bearing; balance it. | Balance the rotor dynamically: explain wobble sources and fix via counterweights.
-lessons/unit-14-wind-water-power/lesson-310-windmill-tower.md | 310 | Windmill Project II: Tower and Yaw | G10-PHY-1.6;G10-PHY-1.3 | yes | windmill | poles; wire; tail sheet; pegs | Triangulated tower (Unit 13!), tail vane keeps rotor facing wind; safe height for school (2–3 m). | Compute the overturning moment at full wind on the rotor disc; specify pegging to resist it.
-lessons/unit-14-wind-water-power/lesson-311-windmill-drivetrain.md | 311 | Windmill Project III: The Drive Train | G10-PHY-1.6 | yes | windmill | crank wire; rod; guides; oil | Crank or cam converts rotation to reciprocation; connecting rod to the pump; friction points oiled. | Measure stroke length vs crank radius; relate strokes/minute to rotor rpm and gear options.
-lessons/unit-14-wind-water-power/lesson-312-windmill-pump-link.md | 312 | Windmill Project IV: Linking the Pump | G10-PHY-1.6;G10-PHY-1.2 | yes | windmill | diaphragm pump; tube; jerrican; clamps | Connect the Unit 8 diaphragm pump; suction line to a water container; check valve orientation verified. | Predict litres/minute from rotor rpm × stroke volume at your measured efficiency.
+lessons/unit-16-capstone-review/lesson-353-drill-pressure-fluids.md | 353 | Core Drill IV: Pressure, Fluids and Buoyancy | G10-PHY-1.2 | no | - | station kit | P=F/A, P=ρgh, siphon reasoning, Archimedes cases; lab-practical style stations. | Design-question: lift 100 kg with a hydraulic jack — specify plunger areas and strokes.
+lessons/unit-16-capstone-review/lesson-354-drill-circles-oscillations-momentum.md | 354 | Core Drill V: Circles, Oscillations and Momentum | JS-FE;G10-PHY-2.1 | no | - | mini boards | v=2πr/T, pendulum T=2π√(L/g), p=mv collisions; mini-whiteboard showdown. | Cart 2 kg at 3 m/s catches a 1 kg cart at rest (sticky): final speed and KE accounting.
+lessons/unit-16-capstone-review/lesson-355-drill-materials-wind-sound.md | 355 | Core Drill VI: Materials, Wind/Water and Sound | G10-PHY-1.3;G10-PHY-2.1 | no | - | year data logs; problem sets | Hooke's law, structures, windmill data, v=fλ; practical data questions from the year's own logs. | From the windmill log, estimate annual water delivered; state assumptions and uncertainty.
+lessons/unit-16-capstone-review/lesson-356-exam-skills.md | 356 | Exam Skills: Reading CBE-Style Questions | G10-PHY-1.1 | no | - | sample papers; marking schemes | Command words (state, explain, calculate, justify); structured answers; time budgeting; common traps. | Mark two sample answers with the official-style scheme; write the feedback.

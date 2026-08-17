@@ -1,5 +1,5 @@
-BATCH 54 — Unit 11: Oscillations & Pendulums
-Write 2 lesson files at the exact paths below.
+BATCH 54 — Unit 14: Wind & Water Power Projects
+Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
 # Lesson {NNN}: {exact title}
@@ -23,5 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-11-oscillations-pendulums/lesson-259-building-oscillations.md | 259 | Buildings That Sway | G10-PHY-2.1;G10-PHY-1.3 | yes | shake-table | sticks; clay; shake table (board on rollers) | Flexible vs stiff; Rift Valley earthquake awareness; water tanks on towers act like pendulums; model with sticks and clay. | Tall flexible vs short stiff model on the shake table: relate survival to natural frequency mismatch.
-lessons/unit-11-oscillations-pendulums/lesson-260-pendulum-olympics.md | 260 | Unit Review: Pendulum Olympics | JS-FE;G10-PHY-2.1 | no | - | all unit 11 kit | Stations: predict the period, tune to a target, coupled-pendulum demo, damping race; unit quiz. | Championship: specify a pendulum to keep Nairobi time within 30 s/day; show the design math.
+lessons/unit-14-wind-water-power/lesson-301-wind-is-moving-air.md | 301 | Wind Is Moving Air: Where It Comes From | G10-PHY-4.1;JS-FE | no | - | map; candle+box convection demo (teacher) | Sun heats land unevenly → convection → wind; Kenyan winds: Lake Turkana jet, Ngong hills, coastal monsoons. | Explain the sea-breeze cycle at the coast with land/water heating rates; when does it reverse?
+lessons/unit-14-wind-water-power/lesson-302-wind-sock.md | 302 | Build: A Wind Sock and the Beaufort Scale | G10-PHY-4.1;JS-FE | yes | wind-sock | plastic bag; wire ring; pole; tape | Sew/tape a sock from a plastic bag on a pole; read direction and estimate strength with a picture scale. | Keep a week log of direction/strength; compute the prevailing direction and justify with a simple vector tally.
+lessons/unit-14-wind-water-power/lesson-303-anemometer-build.md | 303 | Build: A Cup Anemometer | G10-PHY-4.1;G10-PHY-1.1 | yes | anemometer | bottle tops; sticks; pencil; pin axle; stopwatch | Bottle-top cups on crossed sticks around a pencil axle; count turns in 30 s against a reference chart (or phone slow-motion). | Calibrate: passenger counts turns at known vehicle speeds (safe, from inside!); produce a turns→km/h card.
+lessons/unit-14-wind-water-power/lesson-304-wind-force-surfaces.md | 304 | Wind Force on Surfaces | G10-PHY-1.6;JS-FE | yes | - | cards; fan or windy day; spring balance | Feel push on card at angles; sail and blade angle intro; force grows with area and with speed squared. | Use F≈½ρAv² to estimate force on a 1 m² signboard at 15 m/s; why do billboards fail in storms?

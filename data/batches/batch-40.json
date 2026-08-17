@@ -1,4 +1,4 @@
-BATCH 40 — Unit 9: Buoyancy & Floating
+BATCH 40 — Unit 11: Oscillations & Pendulums
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-09-buoyancy-floating/lesson-207-sink-or-float-game.md | 207 | Sink or Float? The Prediction Game | UP-FE;JS-FE | yes | - | basin; object set; prediction sheets | Predict then test twenty local objects (nail, coin, maize cob, charcoal, bottle top, mango seed, stone, leaf, wax, wire); tabulate surprises. | From the class table, state the rule that beats 'heavy things sink' with three counter-examples.
-lessons/unit-09-buoyancy-floating/lesson-208-density-rules-floating.md | 208 | Density Decides: Wood, Stone and Steel | G10-PHY-1.2;JS-FE | yes | - | nail; sufuria; wood; stone; basin | Average density vs water (1000 kg/m³) predicts floating; the steel nail sinks but the steel sufuria floats — shape matters. | A hollow steel ball's average density is 600 kg/m³: what fraction of its volume is air?
-lessons/unit-09-buoyancy-floating/lesson-209-upthrust.md | 209 | Upthrust: Water Pushes Back | G10-PHY-1.2 | yes | - | spring balance; stone; string; basin | Weigh a stone in air, then in water: apparent weight drops; upthrust measured with a spring balance. | Stone: 2.5 N in air, 1.5 N in water: upthrust, displaced water weight, and the stone's volume.
-lessons/unit-09-buoyancy-floating/lesson-210-archimedes-principle.md | 210 | Archimedes' Principle | G10-PHY-1.2 | yes | - | eureka can (unit 1 build); balance; stone; water | Upthrust equals weight of displaced fluid; verify by collecting overflow from the eureka can and weighing it. | Show a floating object's displaced weight equals its own weight — derive the floating condition.
+lessons/unit-11-oscillations-pendulums/lesson-247-period-vs-amplitude.md | 247 | What Affects the Period? Test: Amplitude | JS-FE | yes | - | pendulum; protractor card; stopwatch | Small vs large swings: nearly equal (small-angle magic); where it breaks down (>30°). | Measure period at 10°, 30°, 60°: quantify the breakdown and explain the small-angle approximation.
+lessons/unit-11-oscillations-pendulums/lesson-248-period-vs-length.md | 248 | What Affects the Period? Test: Length — The One That Matters | JS-FE | yes | - | string; bob; tape; stopwatch | Vary length 20–100 cm; period grows; collect the class dataset for the graph lesson. | Predict the period at 25 cm given 1.0 s at 100 cm, using T∝√L.
+lessons/unit-11-oscillations-pendulums/lesson-249-pendulum-graph.md | 249 | The Pendulum Graph: T² Against L | G10-PHY-2.1;JS-FE | yes | - | graph paper; class dataset | Plot T² vs L: a straight line through origin; gradient = 4π²/g; compute g from your own graph. | Full computation: gradient 0.040 s²/cm → g in m/s²; compare with your Unit 4 drop result.
+lessons/unit-11-oscillations-pendulums/lesson-250-measuring-g-pendulum.md | 250 | Measuring g Precisely: Pendulum vs Drop | JS-FE;G10-PHY-1.1 | yes | - | pendulum kit; drop kit | Compare pendulum and drop methods side by side; which is more accurate and why; repeatability. | Write an error budget for both methods; recommend the school-standard procedure.

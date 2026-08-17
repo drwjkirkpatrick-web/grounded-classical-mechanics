@@ -1,4 +1,4 @@
-BATCH 58 — Unit 12: Momentum & Collisions
+BATCH 58 — Unit 14: Wind & Water Power Projects
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-12-momentum-collisions/lesson-273-carrom-marbles.md | 273 | Momentum Games: Carrom and Marbles Tourney | JS-FE | yes | - | carrom board or chalk court; marbles/tops | Angles and speed transfer in carrom breaks and marbles; predict rebounds; run a scored mini-tournament. | Analyze a glancing collision: momentum as vectors; why does the striker deflect rather than stop?
-lessons/unit-12-momentum-collisions/lesson-274-newtons-cradle-build.md | 274 | Build: A Bottle-Top Newton's Cradle | JS-FE | yes | newtons-cradle | nuts/tops; string; wooden frame; glue/knots | Five nuts/tops on V-strings in a frame; tune contact for clean transfers; one swings in, one swings out. | Explain why two-in produces two-out using both conservation laws, not momentum alone.
-lessons/unit-12-momentum-collisions/lesson-275-momentum-in-water.md | 275 | Momentum in Water and Air | JS-FE;G10-PHY-1.2 | yes | - | hose; paper; basin | Hose jet pushes back; river bends erode the outside bank; fanning air moves paper; fluid momentum in daily life. | Hose delivers 0.5 kg/s at 4 m/s: compute the reaction force on the holder's hands.
-lessons/unit-12-momentum-collisions/lesson-276-collision-lab-review.md | 276 | Unit Review: Collision Lab Day | JS-FE | no | - | all unit 12 kit | Stations: marble swaps, clay sticks, cradle demo, impulse egg test; unit quiz. | Open-ended: design an experiment to verify conservation of momentum with only a ruler, stopwatch and two carts.
+lessons/unit-14-wind-water-power/lesson-317-water-power-intro.md | 317 | Water Power: Head and Flow | G10-PHY-1.6;G10-PHY-4.1 | no | - | map; jerrican+tape demo | Energy = mgh of falling water; micro-hydro reality in Kenya's highlands; head vs flow trade for power. | Stream: 2 L/s falling 5 m: compute available power; what could it run?
+lessons/unit-14-wind-water-power/lesson-318-water-wheels.md | 318 | Water Wheels: Undershot and Overshot | G10-PHY-1.6;JS-FE | yes | - | two model wheels; tray + pour; stream (optional) | History of mills; undershot uses stream speed, overshot uses weight; efficiency intuition; model both. | Explain why overshot beats undershot on the same water: which energy form each harvests.
+lessons/unit-14-wind-water-power/lesson-319-spoon-turbine-build.md | 319 | Build: The Spoon Wheel Turbine I | G10-PHY-1.6 | yes | water-turbine | bottle; spoons/scoops; wire axle; string; small weights | Spoons/bottle scoops on a bottle wheel; mount on wire axle; rig a string-and-bobbin to lift weights. | Predict lift rate from cup fill volume × rpm; identify the two main losses.
+lessons/unit-14-wind-water-power/lesson-320-spoon-turbine-test.md | 320 | Build: The Spoon Wheel Turbine II — Test Under the Tap | G10-PHY-1.6;G10-PHY-1.1 | yes | water-turbine | turbine; tap/hose; stopwatch; weights | Run under tap/stream; measure rpm vs flow and max weight lifted; graph; compare teams. | Compute mechanical power from lift rate; compare with water power in; where's the loss?

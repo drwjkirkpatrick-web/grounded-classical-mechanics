@@ -1,4 +1,4 @@
-BATCH 66 — Unit 14: Wind & Water Power Projects
+BATCH 66 — Unit 16: Capstone, Review & Community Science
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-14-wind-water-power/lesson-305-windmills-east-africa.md | 305 | Windmills of East Africa: Kijito and Kamkwamba | G10-PHY-4.1;G10-PHY-1.6 | no | - | story cards; photos | Kijito wind pumps of Kenya and William Kamkwamba's Malawi windmill; mechanical water pumping heritage; what makes a good site. | Compare a wind pump vs solar pump for a borehole: energy source pattern vs water demand pattern.
-lessons/unit-14-wind-water-power/lesson-306-how-wind-pumps-work.md | 306 | How a Wind Pump Works: Rotor to Piston | G10-PHY-1.6 | yes | - | crank model (wire bent); diagrams | Blades catch wind → crank/cam turns rotation into up-down → pump rod lifts water; trace the energy chain. | Crank radius 5 cm, pump bore 3 cm: relate rotor torque to lift force per stroke.
-lessons/unit-14-wind-water-power/lesson-307-blade-physics.md | 307 | Blade Physics: Angle, Lift and Drag | G10-PHY-1.6;G10-PHY-1.2 | yes | - | card blades (various); test rotor; fan/wind; stopwatch | Test flat vs curved vs angled blades in fan wind; measure spin speed; the modern curved blade wins. | Explain lift on a curved blade with Bernoulli-style reasoning; why does too-steep pitch stall?
-lessons/unit-14-wind-water-power/lesson-308-paper-pinwheel.md | 308 | Build: The Paper Pinwheel | G10-PHY-1.6;JS-FE | yes | - | paper; pins; pencils; thread; beads | First rotor: pin and pencil pinwheel; test blade counts 2/4/6; free spin vs loaded (lifting a thread). | Why does a 3-blade rotor often beat 6 for speed but lose on starting torque? Test and discuss.
+lessons/unit-16-capstone-review/lesson-349-year-in-physics.md | 349 | The Year in Physics: The Big Map | JS-FE | no | - | wall space; cards; string connectors | Whole-year concept map built by the class on the wall: forces → motion → energy → machines → fluids → waves. | Add three cross-links nobody else found (e.g., resonance ↔ shock absorbers) and defend them.
+lessons/unit-16-capstone-review/lesson-350-drill-measurement-forces.md | 350 | Core Drill I: Measurement and Forces | G10-PHY-1.1;JS-FE | no | - | problem cards | Speed-round problems: units, conversions, force diagrams, friction cases; peer marking with schemes. | Write the two hardest fair questions you can from Units 1–2, with schemes.
+lessons/unit-16-capstone-review/lesson-351-drill-motion-gravity.md | 351 | Core Drill II: Motion and Gravity | JS-FE | no | - | graph cards; buzzer rules | Graph reading, speed/velocity/acceleration, fall and projectile computations; game-show format. | Mixed problem: throw up at 12 m/s from 2 m — time to land and impact speed.
+lessons/unit-16-capstone-review/lesson-352-drill-energy-machines.md | 352 | Core Drill III: Energy and Machines | G10-PHY-1.6;G10-PHY-1.5 | no | - | machine photo cards; problem sets | Work/power/efficiency chains; MA/VR on levers and pulleys; identify machines in photos. | A tackle lifts 600 N with 200 N effort over 4 strands: MA, VR, efficiency, and the diagnosis.

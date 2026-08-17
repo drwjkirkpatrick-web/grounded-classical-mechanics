@@ -1,5 +1,5 @@
-BATCH 49 — Unit 10: Circular & Rotational Motion
-Write 2 lesson files at the exact paths below.
+BATCH 49 — Unit 13: Elasticity, Materials & Structures
+Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
 # Lesson {NNN}: {exact title}
@@ -23,5 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-10-circular-rotational-motion/lesson-241-spinning-eggs.md | 241 | Spinning Eggs: Raw vs Boiled | JS-FE | yes | - | raw and boiled eggs; plate | Boiled spins long, raw wobbles out — liquid inside lags; moment-of-inertia teaser; stop-and-release trick. | Explain the stop-and-release restart of the raw egg using internal fluid motion and inertia.
-lessons/unit-10-circular-rotational-motion/lesson-242-circle-circus-review.md | 242 | Unit Review: Circle Circus | JS-FE | no | - | all unit 10 kit | Stations: sling range, carousel timing, balance a wheel, egg test; unit quiz. | Design a safe playground roundabout speed limit using a=v²/r and justify your numbers.
+lessons/unit-13-elasticity-materials-structures/lesson-281-beyond-the-limit.md | 281 | Beyond the Elastic Limit | G10-PHY-1.3 | yes | - | strips/springs; weights; safety glasses | Stretch to permanent set, then to breaking; record breaking forces; safety glasses and low drops. | Define breaking stress; compute it for a strip of known cross-section from your measured breaking force.
+lessons/unit-13-elasticity-materials-structures/lesson-282-spring-scale-build.md | 282 | Build: A Calibrated Spring Scale I | G10-PHY-1.3;G10-PHY-1.1 | yes | spring-scale | rubber/spring; card; pointer wire; bottles | Refine the Unit 2 force meter: better pointer, card scale, zero adjustment; calibrate 0–10 N with water. | Explain how adding a second identical strip in parallel changes k; verify with a measurement.
+lessons/unit-13-elasticity-materials-structures/lesson-283-spring-scale-certify.md | 283 | Build: A Calibrated Spring Scale II — Certification | G10-PHY-1.3 | yes | spring-scale | scale builds; mystery masses; reference scale | Blind-test five mystery masses against a reference scale; error table; issue 'inspection certificates'. | Scale reads 4% low at 8 N but true at 2 N: model the fault (nonlinear strip?) and propose a correction table.
+lessons/unit-13-elasticity-materials-structures/lesson-284-mechanical-properties.md | 284 | Mechanical Properties of Materials (CBE 1.3) | G10-PHY-1.3 | yes | - | wire; bottle top; hammer; chalk; nails; glass slide (care) | Ductility (drawn wire), malleability (hammered bottle top), brittleness (chalk snap), hardness (scratch order), stiffness, strength — demonstrated in sequence. | Match each property to a product requirement: panga blade, bucket, window, spring, hammer face — justify.

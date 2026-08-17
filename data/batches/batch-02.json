@@ -1,4 +1,4 @@
-BATCH 02 — Unit 3: Describing Motion
+BATCH 02 — Unit 5: Work, Energy & Power
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-03-describing-motion/lesson-057-average-instantaneous.md | 57 | Average vs Instantaneous Speed | JS-FE | no | - | journey data cards; stopwatch | Market journey with stops: total distance over total time vs reading at one instant; when each matters. | A journey: 2 km in 20 min, rest 10 min, 2 km in 30 min. Compute overall average speed and explain the rest's effect.
-lessons/unit-03-describing-motion/lesson-058-velocity.md | 58 | Velocity: Speed with a Direction | JS-FE | no | - | chalk circle; ropes | Around-the-track walks; same speed, changing velocity in a circle; vectors drawn as arrows. | Two bodas at 40 km/h, one north one east: same speed, same velocity? Draw the velocity vectors.
-lessons/unit-03-describing-motion/lesson-059-acceleration.md | 59 | Acceleration: Changing Speed | JS-FE | no | - | toy car; ramp board | Speeding up, slowing down, turning — all acceleration; boda leaving a stage; a = Δv/t introduced. | A matatu goes 0 to 15 m/s in 10 s: compute acceleration; what force ratio a=F/m does that imply per tonne?
-lessons/unit-03-describing-motion/lesson-060-measuring-human-speed.md | 60 | Measuring Human Speed: The 20-Metre Dash | UP-FE;JS-FE | no | - | tape; stopwatch; chart paper | Time classmates over 20 m; chart distribution; reaction error at the stopwatch; repeatable method. | Stopwatch operator has 0.2 s reaction on start and stop: estimate the speed error for a 3.5 s dash.
+lessons/unit-05-work-energy-power/lesson-103-kinetic-energy.md | 103 | Kinetic Energy: Energy of Motion | G10-PHY-1.6;JS-FE | yes | - | bottle; stone; clay target | KE depends on mass and (especially) speed; rolling bottle vs rolling stone damage test on clay target. | Compute KE for a 1 kg bottle at 2 m/s vs 4 m/s: why does doubling speed quadruple the dent?
+lessons/unit-05-work-energy-power/lesson-104-gravitational-pe.md | 104 | Gravitational Potential Energy: Tanks on Stands | G10-PHY-1.6 | no | - | jerrican; stand or table; tape | PE = mgh; water tank on a stand is an energy store; calculate PE of a 1000 L tank 3 m up. | A 1000 L tank (1000 kg) raised 3 m: compute stored PE and the fall energy per litre — why tanks stand high.
+lessons/unit-05-work-energy-power/lesson-105-elastic-stored-energy.md | 105 | Elastic and Stored Energy | G10-PHY-1.6;G10-PHY-1.3 | no | - | rubber strips; green stick; string | Stretched rubber, drawn bow, bent stick, wound clock spring; store now, release later. | Estimate bow energy: average 30 N over 0.5 m draw — how fast could it launch a 30 g arrow ideally?
+lessons/unit-05-work-energy-power/lesson-106-energy-transformations-1.md | 106 | Energy Transformations I: Falling, Swinging, Shining | G10-PHY-1.6;JS-FE | no | - | ball; swing; torch | Falling mango PE→KE; swing cycle; torch chemical→electrical→light; chain diagrams drawn for each. | Draw the full chain for a boda ride from food eaten at breakfast to kinetic energy, naming each store.

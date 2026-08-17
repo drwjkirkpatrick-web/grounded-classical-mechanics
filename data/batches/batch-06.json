@@ -1,5 +1,5 @@
-BATCH 06 — Unit 3: Describing Motion
-Write 2 lesson files at the exact paths below.
+BATCH 06 — Unit 5: Work, Energy & Power
+Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
 # Lesson {NNN}: {exact title}
@@ -23,5 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-03-describing-motion/lesson-077-toy-car-speed-trap.md | 77 | Build: A Two-Gate Speed Trap for Toy Cars | JS-FE | yes | speed-trap | toy cars; ramp; chalk; stopwatch | Two chalk gates + stopwatch (or clap-echo timing); test car designs down a ramp; class leaderboard. | Gate spacing 1.0 m, reaction error 0.15 s: which car speeds can you trust to two significant figures?
-lessons/unit-03-describing-motion/lesson-078-motion-field-day.md | 78 | Unit Review: Motion Field Day | JS-FE;UP-FE | no | - | all unit 3 kit | Stations: dash timing, graph reading, reaction test, relative-motion demo; unit quiz. | Write one higher-order motion question (graph interpretation) with full marking scheme for the quiz.
+lessons/unit-05-work-energy-power/lesson-119-engine-power-ratings.md | 119 | Power Ratings: Reading Machines | G10-PHY-1.6 | no | - | machine label photos/cards | What '125 cc', '5 kW', '0.5 hp pump' mean; matching machine power to the job (pump head, load). | A 1 kW pump lifts water 8 m: compute maximum litres per minute at 60% efficiency.
+lessons/unit-05-work-energy-power/lesson-120-energy-chain-design.md | 120 | Project: Rube Goldberg Energy Chain I — Design | G10-PHY-1.6;JS-FE | yes | energy-chain | junk box: bottles, sticks, string, marbles, balloons, dominoes | Design a 5-step energy chain reaction from junk (marble run → lever → pendulum → balloon pop...); draw energy-flow diagram. | Annotate the design with an energy store-and-transfer label at every step.
+lessons/unit-05-work-energy-power/lesson-121-energy-chain-build.md | 121 | Project: Rube Goldberg Energy Chain II — Build and Run | G10-PHY-1.6 | yes | energy-chain | junk box; tape; tools | Build, test, debug; reliability counts; class run-through and judging. | Identify the weakest link energetically (where input barely exceeds threshold) and strengthen it.
+lessons/unit-05-work-energy-power/lesson-122-renewable-debate.md | 122 | Renewable vs Non-Renewable: The Charcoal Debate | G10-PHY-4.1 | no | - | fact cards | Structured debate: charcoal economy vs forests vs jobs; numbers on both sides; what sustainability means. | Kenya uses ~2.5 M tonnes charcoal/year: at 6 kg wood per kg, compute wood demand and discuss solutions numerically.

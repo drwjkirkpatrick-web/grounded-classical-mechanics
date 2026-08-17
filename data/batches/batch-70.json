@@ -1,5 +1,5 @@
-BATCH 70 — Unit 14: Wind & Water Power Projects
-Write 4 lesson files at the exact paths below.
+BATCH 70 — Unit 16: Capstone, Review & Community Science
+Write 1 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
 # Lesson {NNN}: {exact title}
@@ -23,7 +23,4 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-14-wind-water-power/lesson-321-motion-to-electricity.md | 321 | From Motion to Electricity: The Dynamo Teaser | G10-PHY-1.6;JS-FE | yes | - | bicycle dynamo + bulb (or demo unit) | Bicycle dynamo demo: spin → bulb lights; generator is a motor backwards; bridge to CBE 3.2 next year. | Estimate: your turbine spins a dynamo at 5 V/0.3 A — efficiency chain from stream to light.
-lessons/unit-14-wind-water-power/lesson-322-ram-siphon-return.md | 322 | The Ram and the Siphon Return | G10-PHY-1.2;G10-PHY-1.6 | no | - | site cards; unit 8 builds | Review: both move water with no engine; ram needs fall, siphon needs outlet lower than inlet; pick per site. | Site: spring 3 m above field, 100 m away, stream crossing between: siphon, ram or pipe? Defend with head math.
-lessons/unit-14-wind-water-power/lesson-323-rainwater-harvesting.md | 323 | Rainwater Harvesting Physics | G10-PHY-4.1;G10-PHY-1.1 | yes | tank-sizing | roof plan; rainfall data card; calculator | Roof catchment = rainfall × area; gutters and first-flush; tank sizing for the dry term; Kenyan rainfall patterns. | Roof 60 m², rain 800 mm/year, dry spell 90 days at 200 L/day: size the tank in m³ with reasoning.
-lessons/unit-14-wind-water-power/lesson-324-gravity-schemes.md | 324 | Gravity Water Schemes: From Spring to Village | G10-PHY-1.2;G10-PHY-1.6 | yes | - | water level; tape; map sketch | Survey head with the Unit 7 water level; pipe sizing to limit friction; break-pressure tanks on long drops. | A 3 km pipe drops 120 m: why insert break-pressure tanks? Compute static pressure at the bottom without them.
+lessons/unit-16-capstone-review/lesson-365-celebration-next-year.md | 365 | Celebration and Next Year's Teaser | G10-PHY-1.6;G10-PHY-3.1 | no | - | dynamo demo; certificates | Certificates; dynamo and solar teasers for Electricity & Magnetism next year; the class physics pledge. | Preview problem: the windmill spins a dynamo — sketch the full energy chain to a lit bulb with efficiencies.

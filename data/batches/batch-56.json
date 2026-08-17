@@ -1,4 +1,4 @@
-BATCH 56 — Unit 12: Momentum & Collisions
+BATCH 56 — Unit 14: Wind & Water Power Projects
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-12-momentum-collisions/lesson-265-elastic-collisions.md | 265 | Collisions That Bounce | JS-FE | yes | - | marbles/bottle tops; smooth board; rulers as rails | Marbles and bottle tops on a smooth board; equal masses 'swap speeds'; line-of-centres idea. | Equal-mass head-on collision: prove speed-swap from conservation of p and KE together.
-lessons/unit-12-momentum-collisions/lesson-266-inelastic-collisions.md | 266 | Collisions That Stick | JS-FE | yes | - | clay; board; toy cars with clay | Clay lumps collide and move on together; momentum conserved, KE not; where the KE went (deformation heat). | 2 kg clay at 3 m/s hits stationary 1 kg and sticks: final speed and the KE lost — account for it.
-lessons/unit-12-momentum-collisions/lesson-267-conservation-momentum.md | 267 | Conservation of Momentum | JS-FE | yes | - | two trolleys/toy cars; spring or rubber; masses; stopwatch | Two trolleys spring apart: equal and opposite momenta from rest; measure masses and speeds to check. | 3 kg cart moves off at 0.5 m/s as a 2 kg cart recoils at 0.75 m/s: verify conservation numerically.
-lessons/unit-12-momentum-collisions/lesson-268-safe-explosions.md | 268 | Safe 'Explosions': Springs and Balloons | JS-FE | yes | - | balloons; bottle boat; carts | Balloon release propels a bottle boat; spring-apart carts; internal forces only redistribute momentum. | Balloon 50 g ejects air backward: explain the boat's forward p with momentum bookkeeping.
+lessons/unit-14-wind-water-power/lesson-309-windmill-mk1.md | 309 | Windmill Project I: Rotor and Hub | G10-PHY-1.6 | yes | windmill | blade material; hub (old bicycle front hub ideal); nails/wire; tools | Build the working rotor: blades from mabati offcuts or stiff plastic on a bicycle hub/nail bearing; balance it. | Balance the rotor dynamically: explain wobble sources and fix via counterweights.
+lessons/unit-14-wind-water-power/lesson-310-windmill-tower.md | 310 | Windmill Project II: Tower and Yaw | G10-PHY-1.6;G10-PHY-1.3 | yes | windmill | poles; wire; tail sheet; pegs | Triangulated tower (Unit 13!), tail vane keeps rotor facing wind; safe height for school (2–3 m). | Compute the overturning moment at full wind on the rotor disc; specify pegging to resist it.
+lessons/unit-14-wind-water-power/lesson-311-windmill-drivetrain.md | 311 | Windmill Project III: The Drive Train | G10-PHY-1.6 | yes | windmill | crank wire; rod; guides; oil | Crank or cam converts rotation to reciprocation; connecting rod to the pump; friction points oiled. | Measure stroke length vs crank radius; relate strokes/minute to rotor rpm and gear options.
+lessons/unit-14-wind-water-power/lesson-312-windmill-pump-link.md | 312 | Windmill Project IV: Linking the Pump | G10-PHY-1.6;G10-PHY-1.2 | yes | windmill | diaphragm pump; tube; jerrican; clamps | Connect the Unit 8 diaphragm pump; suction line to a water container; check valve orientation verified. | Predict litres/minute from rotor rpm × stroke volume at your measured efficiency.

@@ -5,16 +5,12 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Lessons: 365](https://img.shields.io/badge/Lessons-365-blue)
 ![Hands--On: 219](https://img.shields.io/badge/Hands--On_Builds-219-orange)
-![Units: 16](https://img.shields.io/badge/Units-16-purple)
 ![CBE Aligned](https://img.shields.io/badge/CBE-Aligned-red)
 ![No Lab Required](https://img.shields.io/badge/Lab-Not_Required-success)
 ![Ages 10--17](https://img.shields.io/badge/Ages-10--17-informational)
-![Tests: 365/365](https://img.shields.io/badge/Lint-365%2F365-brightgreen)
 ![Projects: 58](https://img.shields.io/badge/Build_Projects-58-yellow)
 
 ![Kenya](https://img.shields.io/badge/Made_for-Kenya-red)
-![Swahili](https://img.shields.io/badge/Vocabulary-Kiswahili-blue)
-![Jua Kali](https://img.shields.io/badge/Materials-Jua_Kali-orange)
 ![Open Source](https://img.shields.io/badge/Open_Source-Yes-success)
 ![Data Driven](https://img.shields.io/badge/Architecture-Data_Driven-blueviolet)
 

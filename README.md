@@ -159,6 +159,7 @@ docs/
   FLAGSHIP_PROJECTS.md   the multi-day build threads
   ASSESSMENT_GUIDE.md    pre/post growth model + CBE competency mapping
   CBE_COVERAGE.md        generated standards coverage matrix
+  PROBLEM_SOLVING_GUIDE.md  four-step method for solving any physics problem
 templates/               lesson template, style guide, gold-standard example
 tools/                   build_map / lint_lessons / coverage / build_index
 tests/                   pytest suite validating all 365 lessons

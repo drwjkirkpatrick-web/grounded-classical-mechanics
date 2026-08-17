@@ -1,5 +1,5 @@
-BATCH 33 — Unit 9: Buoyancy & Floating
-Write 2 lesson files at the exact paths below.
+BATCH 33 — Unit 10: Circular & Rotational Motion
+Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
 # Lesson {NNN}: {exact title}
@@ -23,5 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-09-buoyancy-floating/lesson-223-floating-garden-design.md | 223 | Design Project: A Floating Garden or Fish Cage | G10-PHY-1.2;G10-PHY-1.6 | yes | float-design | design sheets; jerricans; bamboo/sticks | Design a buoyant platform for vegetables (jerricans under bamboo); compute buoyancy budget; present. | Full buoyancy budget: platform + soil + water + crop vs total displacement, with 30% safety margin.
-lessons/unit-09-buoyancy-floating/lesson-224-regatta-review.md | 224 | Unit Review: Regatta Day | G10-PHY-1.2 | no | - | all unit 9 kit | Clay-boat races, hydrometer readings, buoyancy puzzle stations; unit quiz. | Championship problem: design a boat to carry 500 g in salt water with minimal clay — show the displacement math.
+lessons/unit-10-circular-rotational-motion/lesson-225-motion-in-circles.md | 225 | Motion in Circles: Everywhere You Look | JS-FE | no | - | bicycle wheel; fidget spinner or top | Wheels, mills, merry-go-rounds, fans, steering; distinguish rotation (spinning) from revolution (orbiting). | Give three Kenyan machines using each: rotation about a fixed axle vs revolution around an external centre.
+lessons/unit-10-circular-rotational-motion/lesson-226-what-keeps-circling.md | 226 | What Keeps It Circling? The Inward Pull | JS-FE | yes | - | string; soft ball; open space | Swing a soft ball on a string; cut the string mentally: ball flies off tangent; centripetal force is a requirement, not a new force. | A 0.5 kg ball at 3 m/s on a 1 m string: compute the centripetal force (F=mv²/r) and compare with its weight.
+lessons/unit-10-circular-rotational-motion/lesson-227-centripetal-sources.md | 227 | Sources of Centripetal Force | JS-FE | no | - | case cards | String tension, tyre friction in cornering, gravity for the Moon, banked-track normal force; identify the provider in five cases. | Boda cornering at 10 m/s on radius 15 m: required friction force for 150 kg total; what happens on wet murram?
+lessons/unit-10-circular-rotational-motion/lesson-228-bucket-of-water.md | 228 | The Bucket of Water Overhead | JS-FE | yes | - | small bucket; rope; water; outdoors | Teacher-led swing of a small water bucket overhead; why the water stays in; speed threshold felt at the shoulder. | Minimum speed at the top: set centripetal acceleration ≥ g; compute v_min for a 1 m arm.

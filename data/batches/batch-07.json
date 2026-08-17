@@ -1,5 +1,5 @@
-BATCH 07 — Unit 5: Work, Energy & Power
-Write 2 lesson files at the exact paths below.
+BATCH 07 — Unit 6: Simple Machines
+Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
 # Lesson {NNN}: {exact title}
@@ -23,5 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-05-work-energy-power/lesson-123-units-mastery-day.md | 123 | Units Mastery Day: Joules, Watts, Newtons | G10-PHY-1.6;JS-FE | no | - | unit cards; quiz sheets | Games and drills converting between N, J, W, m, kg, s; common confusions (W for work vs watt). | Derive the joule in base units (kg·m²/s²) and use it to check the units of KE = ½mv².
-lessons/unit-05-work-energy-power/lesson-124-energy-expo-review.md | 124 | Unit Review: Energy Expo | G10-PHY-1.6;JS-FE | no | - | all unit 5 kit | Teams run demo stations (power stairs, chains, jiko efficiency posters); unit quiz. | Write the expo 'energy balance sheet' for one station showing inputs, useful outputs and losses.
+lessons/unit-06-simple-machines/lesson-125-what-machines-do.md | 125 | What Machines Do for Us | G10-PHY-1.6;JS-FE | no | - | heavy stone; plank; rope | Machines change force size, direction or speed; input/output; open the unit by lifting a heavy stone three ways. | A machine can't multiply work: explain the force-distance trade as conservation of energy.
+lessons/unit-06-simple-machines/lesson-126-ma-and-vr.md | 126 | Mechanical Advantage and Velocity Ratio | G10-PHY-1.6;G10-PHY-1.5 | yes | - | plank lever; stone fulcrum; spring balance; tape | MA = load/effort; VR = effort distance/load distance; efficiency = MA/VR; measure both on a simple lever. | Lever gives VR 4 but measured MA 3.2: compute efficiency and name the loss.
+lessons/unit-06-simple-machines/lesson-127-levers-class-1.md | 127 | Levers Class 1: Seesaws, Crowbars and Pliers | G10-PHY-1.5;JS-FE | yes | - | seesaw or plank+log; crowbar; pliers; nail in wood | Fulcrum between effort and load; seesaw balancing different weights by distance; crowbar pulling nails. | 40 kg child balances 70 kg adult on a 3 m seesaw: find each distance from the fulcrum.
+lessons/unit-06-simple-machines/lesson-128-levers-class-2.md | 128 | Levers Class 2: Wheelbarrows and Bottle Openers | G10-PHY-1.5;JS-FE | yes | - | wheelbarrow; bottle opener; stones (load) | Load between fulcrum and effort; wheelbarrow physics; bottle opener and nutcracker anatomy. | Wheelbarrow: load 400 N at 0.4 m from wheel, handles at 1.2 m: find the lifting effort.

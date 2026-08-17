@@ -1,4 +1,4 @@
-BATCH 60 — Unit 14: Wind & Water Power Projects
+BATCH 60 — Unit 15: Sound & Mechanical Waves
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-14-wind-water-power/lesson-325-energy-storage.md | 325 | Storing Energy: Two Tanks and a Pump | G10-PHY-1.6;G10-PHY-4.1 | yes | - | two jerricans; pump; tube | Pumped storage idea: pump up when sunny/windy, flow down when needed; compare with batteries and flywheels. | 1000 L raised 5 m stores how many kJ? What bulb wattage for how long at 50% round-trip efficiency?
-lessons/unit-14-wind-water-power/lesson-326-community-survey.md | 326 | Community Wind & Water Survey | G10-PHY-4.1;JS-FE | yes | resource-survey | maps; notebooks; anemometer | Walk the area: note streams, slopes, windy ridges, existing pumps; interview a fundi; map resources. | Score three sites with a weighted matrix (head, flow, distance, demand); defend the weights.
-lessons/unit-14-wind-water-power/lesson-327-design-brief-school.md | 327 | Design Brief: Power for Our School | G10-PHY-1.6;G10-PHY-4.1 | yes | school-power | design sheets; survey data | Teams design one wind or water solution for a real school need (garden watering, handwash station); drawings and budget. | Include energy budget: demand L/day, source power curve, storage, and the worst-month shortfall plan.
-lessons/unit-14-wind-water-power/lesson-328-energy-showcase-review.md | 328 | Unit Review: Energy Projects Showcase | G10-PHY-1.6;G10-PHY-4.1 | no | - | all unit 14 builds | Windmill, turbines and surveys on show; visitors try the anemometer; unit quiz. | Panel question: 'Is small wind worth it here?' — argue from your measured data, both sides.
+lessons/unit-15-sound-mechanical-waves/lesson-329-what-is-sound.md | 329 | What Is Sound? Feel the Vibration | G10-PHY-2.1;JS-FE | yes | - | drum; ruler; desk | Touch a drummed ngoma skin, a humming throat, a struck ruler on a desk; sound = vibration traveling. | Explain why the ruler's pitch rises as you shorten the overhang: link length to vibration rate.
+lessons/unit-15-sound-mechanical-waves/lesson-330-sound-needs-medium.md | 330 | Sound Needs a Medium | G10-PHY-2.1 | yes | - | bottle; bell/bead; pump (optional); string | Sound through a desk, through string, not through vacuum; bell-in-a-bottle pump demo attempt; Moon is silent. | Argue from particle collisions why sound dies as air is removed; what remains in a perfect vacuum?
+lessons/unit-15-sound-mechanical-waves/lesson-331-waves-carry-energy.md | 331 | Waves Carry Energy, Not Stuff | G10-PHY-2.1 | yes | - | basin; leaf; sisal rope; spring/rubber tube | Ripples in a basin move a leaf in place; rope transverse vs spring longitudinal waves; wave anatomy drawn. | Label crest, trough, wavelength, amplitude on your rope sketch; distinguish wave speed from particle motion.
+lessons/unit-15-sound-mechanical-waves/lesson-332-wave-quantities.md | 332 | Wavelength, Frequency, Amplitude and v = fλ | G10-PHY-2.1 | yes | - | rope; chalk; stopwatch; tape | Count rope waves per second, measure wavelength with chalk; v = fλ for rope and sound. | Sound: f=170 Hz, λ=2 m — compute wave speed; predict λ for a drum's 85 Hz.

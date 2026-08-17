@@ -1,4 +1,4 @@
-BATCH 65 — Unit 15: Sound & Mechanical Waves
+BATCH 65 — Unit 16: Capstone, Review & Community Science
 Write 4 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
@@ -23,7 +23,7 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-15-sound-mechanical-waves/lesson-345-noise-pollution.md | 345 | Noise Pollution in Our Town | G10-PHY-2.1;G10-PHY-4.1 | yes | noise-map | map; sound app (optional); clipboards | Map loud/quiet zones around school and market; health effects; propose a community noise plan. | Estimate distance doubling drop (≈ −6 dB in open air): how far must a 100 dB speaker be to reach 70 dB?
-lessons/unit-15-sound-mechanical-waves/lesson-346-kenyan-music-physics.md | 346 | The Physics of Kenyan Instruments | G10-PHY-2.1;UP-FE | no | - | instrument cards or guests; notebooks | Survey: ngoma, kayamba shaker, orutu, litungu, flutes; classify by vibrating part (string/membrane/air); invite a local player. | Write the physics profile of one instrument: vibrator, resonator, pitch control, amplification.
-lessons/unit-15-sound-mechanical-waves/lesson-347-class-orchestra.md | 347 | Project: The Class Orchestra | G10-PHY-2.1;UP-FE | yes | orchestra | all unit 15 builds | Assemble bottle xylophones, one-strings, pan pipes, drums; compose and perform a piece; program notes include the physics. | Write program notes explaining the pitch physics of your instrument section.
-lessons/unit-15-sound-mechanical-waves/lesson-348-sound-fair-review.md | 348 | Unit Review: Sound Fair | G10-PHY-2.1 | no | - | all unit 15 kit | Instrument petting zoo, echo game, telephone race; unit quiz. | Quiz-writer task: one question linking f=1/L to a real instrument, with mark scheme.
+lessons/unit-16-capstone-review/lesson-349-year-in-physics.md | 349 | The Year in Physics: The Big Map | JS-FE | no | - | wall space; cards; string connectors | Whole-year concept map built by the class on the wall: forces → motion → energy → machines → fluids → waves. | Add three cross-links nobody else found (e.g., resonance ↔ shock absorbers) and defend them.
+lessons/unit-16-capstone-review/lesson-350-drill-measurement-forces.md | 350 | Core Drill I: Measurement and Forces | G10-PHY-1.1;JS-FE | no | - | problem cards | Speed-round problems: units, conversions, force diagrams, friction cases; peer marking with schemes. | Write the two hardest fair questions you can from Units 1–2, with schemes.
+lessons/unit-16-capstone-review/lesson-351-drill-motion-gravity.md | 351 | Core Drill II: Motion and Gravity | JS-FE | no | - | graph cards; buzzer rules | Graph reading, speed/velocity/acceleration, fall and projectile computations; game-show format. | Mixed problem: throw up at 12 m/s from 2 m — time to land and impact speed.
+lessons/unit-16-capstone-review/lesson-352-drill-energy-machines.md | 352 | Core Drill III: Energy and Machines | G10-PHY-1.6;G10-PHY-1.5 | no | - | machine photo cards; problem sets | Work/power/efficiency chains; MA/VR on levers and pulleys; identify machines in photos. | A tackle lifts 600 N with 200 N effort over 4 strands: MA, VR, efficiency, and the diagnosis.

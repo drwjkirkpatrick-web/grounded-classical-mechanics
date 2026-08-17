@@ -1,5 +1,5 @@
 BATCH 37 — Unit 10: Circular & Rotational Motion
-Write 4 lesson files at the exact paths below.
+Write 2 lesson files at the exact paths below.
 
 EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
 # Lesson {NNN}: {exact title}
@@ -23,7 +23,5 @@ Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sou
 Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
 
 filename | n | title | cbe | hands_on | project | materials | focus | advanced
-lessons/unit-10-circular-rotational-motion/lesson-237-rolling-motion.md | 237 | Rolling: Rotation Plus Translation | JS-FE | yes | - | debe; rollers; spring balance; chalk on wheel | A rolling wheel's rim point touching ground is momentarily still; rolling vs dragging a debe measured with a spring balance. | Mark the wheel contact point's path (cycloid) from chalk dots; argue why rolling friction is small.
-lessons/unit-10-circular-rotational-motion/lesson-238-ball-bearings.md | 238 | Ball Bearings: Rolling Between Surfaces | G10-PHY-1.6;JS-FE | yes | - | old bearing; grease; diagrams | Open a boda hub (or diagram): balls roll instead of metals sliding; races, cages, grease; failure signs. | Estimate friction reduction sliding→rolling from hub temperatures felt before/after service; design a better test.
-lessons/unit-10-circular-rotational-motion/lesson-239-axles-and-torque.md | 239 | Axles and Torque: The Long Spanner Rule | G10-PHY-1.5;JS-FE | yes | - | spanners (two lengths); nut on bolt; wheel-and-axle model | Long spanner loosens stubborn nuts; wheel radius vs axle radius; torque = F × r introduced. | 300 N on a 30 cm spanner vs 15 cm: compute both torques; why do mechanics add a pipe?
-lessons/unit-10-circular-rotational-motion/lesson-240-carousel-build.md | 240 | Build: A Bottle-Top Carousel | JS-FE | yes | carousel | stiff wire; bottle caps; beads; cork; stopwatch | Wire axle through a bottle-cap platform with bead seats; spin and measure period vs radius of beads. | Beads at 5 cm vs 10 cm: compare their speeds for the same spin rate; where do they fly off first and why?
+lessons/unit-10-circular-rotational-motion/lesson-241-spinning-eggs.md | 241 | Spinning Eggs: Raw vs Boiled | JS-FE | yes | - | raw and boiled eggs; plate | Boiled spins long, raw wobbles out — liquid inside lags; moment-of-inertia teaser; stop-and-release trick. | Explain the stop-and-release restart of the raw egg using internal fluid motion and inertia.
+lessons/unit-10-circular-rotational-motion/lesson-242-circle-circus-review.md | 242 | Unit Review: Circle Circus | JS-FE | no | - | all unit 10 kit | Stations: sling range, carousel timing, balance a wheel, egg test; unit quiz. | Design a safe playground roundabout speed limit using a=v²/r and justify your numbers.

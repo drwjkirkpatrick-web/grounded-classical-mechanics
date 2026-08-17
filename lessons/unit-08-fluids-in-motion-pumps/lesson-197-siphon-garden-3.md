@@ -1,4 +1,4 @@
-# Lesson 197: Project: The Siphon Garden System III — Troubleshoot and Optimise
+# Lesson 197: Project: The Siphon Garden System III — Troubleshoot and Maintain
 
 **Unit:** 8 — Fluids in Motion, Siphons & Pumps | **Duration:** 45 minutes | **Ages:** 10–17 (differentiated)
 **CBE Alignment:** JS-FE;UP-FE | **Hands-On:** Yes | **Project:** siphon-garden

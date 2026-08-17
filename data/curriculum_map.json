@@ -178,7 +178,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Flagpole shadow 6.0 m when your 1.5 m shadow is yours at height 1.6 m — compute pole height by similar triangles.",
+          "advanced": "Flagpole shadow 6.0 m when your 1.5 m shadow is yours at height 1.6 m \u2014 compute pole height by similar triangles.",
           "n": 8,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -257,7 +257,7 @@
         {
           "slug": "measuring-volume-1",
           "title": "Measuring Volume I: Regular Solids and Containers",
-          "focus": "Volume = l×w×h; reading jerrican and sufuria markings; litre vs cm³ vs m³ conversions.",
+          "focus": "Volume = l\u00d7w\u00d7h; reading jerrican and sufuria markings; litre vs cm\u00b3 vs m\u00b3 conversions.",
           "cbe": [
             "JS-FE",
             "UP-FE"
@@ -270,7 +270,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "A '20-litre' jerrican measures 24×18×47 cm internally. Compute its true volume in litres and percentage error of the label.",
+          "advanced": "A '20-litre' jerrican measures 24\u00d718\u00d747 cm internally. Compute its true volume in litres and percentage error of the label.",
           "n": 12,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -294,7 +294,7 @@
           ],
           "hands_on": true,
           "project": "eureka-can",
-          "advanced": "A stone displaces 85 cm³ of water and weighs 2.1 N in air. Compute its density (take g=10 N/kg).",
+          "advanced": "A stone displaces 85 cm\u00b3 of water and weighs 2.1 N in air. Compute its density (take g=10 N/kg).",
           "n": 13,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -304,7 +304,7 @@
         {
           "slug": "density-1",
           "title": "Density I: Heavy for Its Size",
-          "focus": "Density concept; equal-size blocks of wood vs stone vs steel; density = mass/volume; units kg/m³ and g/cm³.",
+          "focus": "Density concept; equal-size blocks of wood vs stone vs steel; density = mass/volume; units kg/m\u00b3 and g/cm\u00b3.",
           "cbe": [
             "JS-FE",
             "G10-PHY-1.2"
@@ -317,7 +317,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Convert 2.7 g/cm³ (aluminium) to kg/m³; why do engineers prefer kg/m³?",
+          "advanced": "Convert 2.7 g/cm\u00b3 (aluminium) to kg/m\u00b3; why do engineers prefer kg/m\u00b3?",
           "n": 14,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -327,7 +327,7 @@
         {
           "slug": "density-2",
           "title": "Density II: Measuring Densities of Local Materials",
-          "focus": "Measure density of a nail, stone, maize cob, charcoal; compare with water (1000 kg/m³); predict float or sink.",
+          "focus": "Measure density of a nail, stone, maize cob, charcoal; compare with water (1000 kg/m\u00b3); predict float or sink.",
           "cbe": [
             "JS-FE",
             "G10-PHY-1.2"
@@ -366,7 +366,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Page thickness comes out 0.09±0.02 mm. Explain how the many-at-once method reduces percentage error.",
+          "advanced": "Page thickness comes out 0.09\u00b10.02 mm. Explain how the many-at-once method reduces percentage error.",
           "n": 16,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -407,7 +407,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Multiply 12.5 cm × 3.2 cm: state the area with correct significant figures and justify.",
+          "advanced": "Multiply 12.5 cm \u00d7 3.2 cm: state the area with correct significant figures and justify.",
           "n": 18,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -451,7 +451,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Choose scales so the plot fills the page: 20 m in 25 s — propose axis ranges and divisions.",
+          "advanced": "Choose scales so the plot fills the page: 20 m in 25 s \u2014 propose axis ranges and divisions.",
           "n": 20,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -481,7 +481,7 @@
         {
           "slug": "area-volume-formulas",
           "title": "Area and Volume Formulas in the Real World",
-          "focus": "Classroom floor area, water tank volume (cylinder V=πr²h), roof catchment area teaser; litres↔m³ (1000 L = 1 m³).",
+          "focus": "Classroom floor area, water tank volume (cylinder V=\u03c0r\u00b2h), roof catchment area teaser; litres\u2194m\u00b3 (1000 L = 1 m\u00b3).",
           "cbe": [
             "JS-FE",
             "UP-FE"
@@ -503,7 +503,7 @@
         {
           "slug": "unit-conversions",
           "title": "Unit Conversions Mastery",
-          "focus": "mm↔cm↔m↔km, g↔kg, mL↔L, s↔min; km/h↔m/s preview; conversion chain method (multiply by 1).",
+          "focus": "mm\u2194cm\u2194m\u2194km, g\u2194kg, mL\u2194L, s\u2194min; km/h\u2194m/s preview; conversion chain method (multiply by 1).",
           "cbe": [
             "JS-FE",
             "UP-FE"
@@ -513,7 +513,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Convert 72 km/h to m/s by the chain method; why does ×1000/3600 work?",
+          "advanced": "Convert 72 km/h to m/s by the chain method; why does \u00d71000/3600 work?",
           "n": 23,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -559,7 +559,7 @@
           ],
           "hands_on": true,
           "project": "water-clock",
-          "advanced": "Explain via P=ρgh why drips slow as the reservoir empties; propose a constant-head fix (overflow feeder).",
+          "advanced": "Explain via P=\u03c1gh why drips slow as the reservoir empties; propose a constant-head fix (overflow feeder).",
           "n": 25,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -580,7 +580,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Combined error: tank volume from r and h each ±3% — estimate worst-case volume error percentage.",
+          "advanced": "Combined error: tank volume from r and h each \u00b13% \u2014 estimate worst-case volume error percentage.",
           "n": 26,
           "unit_slug": "measurement-science-skills",
           "unit_title": "Measurement & Scientific Skills",
@@ -647,7 +647,7 @@
         {
           "slug": "measuring-force",
           "title": "Measuring Force: The Newton and the Rubber-Strip Meter",
-          "focus": "Build and calibrate a force meter from rubber strips using water (1 L ≈ 1 kg ≈ 10 N); the spring balance idea.",
+          "focus": "Build and calibrate a force meter from rubber strips using water (1 L \u2248 1 kg \u2248 10 N); the spring balance idea.",
           "cbe": [
             "JS-FE",
             "G10-PHY-1.3"
@@ -671,7 +671,7 @@
         {
           "slug": "gravity-pulls",
           "title": "Gravity: Earth's Pull on Everything",
-          "focus": "Gravity as downward pull; falling mango vs thrown stone; weight as gravitational force; g ≈ 10 N/kg introduced.",
+          "focus": "Gravity as downward pull; falling mango vs thrown stone; weight as gravitational force; g \u2248 10 N/kg introduced.",
           "cbe": [
             "JS-FE",
             "UP-FE"
@@ -691,7 +691,7 @@
         },
         {
           "slug": "weight-vs-mass-proper",
-          "title": "Weight = Mass × g: Getting It Right",
+          "title": "Weight = Mass \u00d7 g: Getting It Right",
           "focus": "W = mg; measure masses with beam balance, weights with spring balance; tabulate and verify factor of 10.",
           "cbe": [
             "JS-FE",
@@ -715,7 +715,7 @@
         {
           "slug": "balanced-unbalanced",
           "title": "Balanced and Unbalanced Forces",
-          "focus": "Tug-of-war with sisal rope; equal forces → no motion change; net force concept; stationary objects have balanced forces.",
+          "focus": "Tug-of-war with sisal rope; equal forces \u2192 no motion change; net force concept; stationary objects have balanced forces.",
           "cbe": [
             "UP-FE",
             "JS-FE"
@@ -749,7 +749,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Draw the hanging jerrican diagram with the rope at 20°: which component carries the weight? Qualitative vectors.",
+          "advanced": "Draw the hanging jerrican diagram with the rope at 20\u00b0: which component carries the weight? Qualitative vectors.",
           "n": 33,
           "unit_slug": "forces-in-everyday-life",
           "unit_title": "Forces in Everyday Life",
@@ -840,7 +840,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Plot friction vs load; find the gradient — introduce coefficient of friction μ for your surfaces.",
+          "advanced": "Plot friction vs load; find the gradient \u2014 introduce coefficient of friction \u03bc for your surfaces.",
           "n": 37,
           "unit_slug": "forces-in-everyday-life",
           "unit_title": "Forces in Everyday Life",
@@ -907,7 +907,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "A 50 N pull on each end of a rope — is the tension 50 N or 100 N? Resolve the classic misconception.",
+          "advanced": "A 50 N pull on each end of a rope \u2014 is the tension 50 N or 100 N? Resolve the classic misconception.",
           "n": 40,
           "unit_slug": "forces-in-everyday-life",
           "unit_title": "Forces in Everyday Life",
@@ -951,7 +951,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "On a 30° ramp, which is bigger: weight or normal force? Resolve vectors qualitatively.",
+          "advanced": "On a 30\u00b0 ramp, which is bigger: weight or normal force? Resolve vectors qualitatively.",
           "n": 42,
           "unit_slug": "forces-in-everyday-life",
           "unit_title": "Forces in Everyday Life",
@@ -1039,7 +1039,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "A 2 kg trolley accelerates at 1.5 m/s² under a hanging mass: compute the net force and discuss friction's role.",
+          "advanced": "A 2 kg trolley accelerates at 1.5 m/s\u00b2 under a hanging mass: compute the net force and discuss friction's role.",
           "n": 46,
           "unit_slug": "forces-in-everyday-life",
           "unit_title": "Forces in Everyday Life",
@@ -1107,7 +1107,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Two 40 N pulls at 60° to each other: find the resultant by scale drawing; compare with 80 N straight pull.",
+          "advanced": "Two 40 N pulls at 60\u00b0 to each other: find the resultant by scale drawing; compare with 80 N straight pull.",
           "n": 49,
           "unit_slug": "forces-in-everyday-life",
           "unit_title": "Forces in Everyday Life",
@@ -1323,7 +1323,7 @@
         {
           "slug": "acceleration",
           "title": "Acceleration: Changing Speed",
-          "focus": "Speeding up, slowing down, turning — all acceleration; boda leaving a stage; a = Δv/t introduced.",
+          "focus": "Speeding up, slowing down, turning \u2014 all acceleration; boda leaving a stage; a = \u0394v/t introduced.",
           "cbe": [
             "JS-FE"
           ],
@@ -1364,7 +1364,7 @@
         },
         {
           "slug": "distance-time-graphs-1",
-          "title": "Distance–Time Graphs I: Plotting a Steady Walk",
+          "title": "Distance\u2013Time Graphs I: Plotting a Steady Walk",
           "focus": "Measure positions every 5 s on a marked course; plot; straight line for steady speed.",
           "cbe": [
             "JS-FE"
@@ -1376,7 +1376,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Extract speed from your graph gradient; compare with d/t from raw numbers — why agree?",
+          "advanced": "Extract speed from your graph gradient; compare with d/t from raw numbers \u2014 why agree?",
           "n": 61,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1385,7 +1385,7 @@
         },
         {
           "slug": "distance-time-graphs-2",
-          "title": "Distance–Time Graphs II: Stops, Speed-ups and Returns",
+          "title": "Distance\u2013Time Graphs II: Stops, Speed-ups and Returns",
           "focus": "Interpret stories from graph shapes; draw graph for a boda journey with a puncture stop; match graph to story cards.",
           "cbe": [
             "JS-FE"
@@ -1396,7 +1396,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Sketch the d–t graph for a ball thrown up and caught (distance from ground vs time) and defend the shape.",
+          "advanced": "Sketch the d\u2013t graph for a ball thrown up and caught (distance from ground vs time) and defend the shape.",
           "n": 62,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1405,7 +1405,7 @@
         },
         {
           "slug": "speed-time-graphs",
-          "title": "Speed–Time Graphs",
+          "title": "Speed\u2013Time Graphs",
           "focus": "Gradient = acceleration; flat = steady; area under = distance (counting squares); plot the dash data.",
           "cbe": [
             "JS-FE"
@@ -1415,7 +1415,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "From a v–t graph with constant acceleration 2 m/s² for 6 s, find distance travelled by area.",
+          "advanced": "From a v\u2013t graph with constant acceleration 2 m/s\u00b2 for 6 s, find distance travelled by area.",
           "n": 63,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1437,7 +1437,7 @@
           ],
           "hands_on": true,
           "project": "ticker-timer",
-          "advanced": "Dot spacing grows 2→4→6 mm at 5 beats/s: compute the three speeds and the acceleration.",
+          "advanced": "Dot spacing grows 2\u21924\u21926 mm at 5 beats/s: compute the three speeds and the acceleration.",
           "n": 64,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1458,7 +1458,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Sketch d–t and v–t for uniform and for accelerating motion: four panels, labelled.",
+          "advanced": "Sketch d\u2013t and v\u2013t for uniform and for accelerating motion: four panels, labelled.",
           "n": 65,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1468,7 +1468,7 @@
         {
           "slug": "vehicle-motion",
           "title": "Motion of Vehicles: Odometers, Speedometers and Limits",
-          "focus": "How speedo/odometer work (wheel rotations × circumference); why speed limits exist; NTSA context.",
+          "focus": "How speedo/odometer work (wheel rotations \u00d7 circumference); why speed limits exist; NTSA context.",
           "cbe": [
             "UP-FE",
             "JS-FE"
@@ -1510,7 +1510,7 @@
         {
           "slug": "reaction-time",
           "title": "Reaction Time: The Ruler-Drop Test",
-          "focus": "Catch a dropped ruler between fingers; distance fallen → reaction time via d=½gt²; chart the class.",
+          "focus": "Catch a dropped ruler between fingers; distance fallen \u2192 reaction time via d=\u00bdgt\u00b2; chart the class.",
           "cbe": [
             "JS-FE"
           ],
@@ -1520,7 +1520,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Convert an 18 cm catch into reaction time using d=½gt² (g=10): show the working.",
+          "advanced": "Convert an 18 cm catch into reaction time using d=\u00bdgt\u00b2 (g=10): show the working.",
           "n": 68,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1542,7 +1542,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "At 20 m/s with 0.7 s reaction and 4 m/s² braking deceleration: compute total stopping distance.",
+          "advanced": "At 20 m/s with 0.7 s reaction and 4 m/s\u00b2 braking deceleration: compute total stopping distance.",
           "n": 69,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1552,7 +1552,7 @@
         {
           "slug": "acceleration-lab",
           "title": "Acceleration Lab: Toy Car on a Ramp",
-          "focus": "Time car over measured ramp sections at different slopes; steeper → greater acceleration; graph results.",
+          "focus": "Time car over measured ramp sections at different slopes; steeper \u2192 greater acceleration; graph results.",
           "cbe": [
             "JS-FE"
           ],
@@ -1565,7 +1565,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Using v²=2as with your measured time and distance, estimate acceleration on the steepest slope.",
+          "advanced": "Using v\u00b2=2as with your measured time and distance, estimate acceleration on the steepest slope.",
           "n": 70,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1575,7 +1575,7 @@
         {
           "slug": "rolling-ramps",
           "title": "Rolling Down Ramps: Bottles, Balls and Cylinders",
-          "focus": "Race solid ball vs bottle of water vs empty bottle; rolling is slower than sliding without friction would suggest — rotation teaser.",
+          "focus": "Race solid ball vs bottle of water vs empty bottle; rolling is slower than sliding without friction would suggest \u2014 rotation teaser.",
           "cbe": [
             "JS-FE"
           ],
@@ -1596,7 +1596,7 @@
         {
           "slug": "deceleration",
           "title": "Deceleration: Slowing Down Is Acceleration Too",
-          "focus": "Ball rolling out on grass; swing dying down; sign conventions for ±acceleration.",
+          "focus": "Ball rolling out on grass; swing dying down; sign conventions for \u00b1acceleration.",
           "cbe": [
             "JS-FE"
           ],
@@ -1607,7 +1607,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "A ball enters grass at 4 m/s and stops in 2.5 m: find deceleration from v²=u²+2as.",
+          "advanced": "A ball enters grass at 4 m/s and stops in 2.5 m: find deceleration from v\u00b2=u\u00b2+2as.",
           "n": 72,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1637,7 +1637,7 @@
         {
           "slug": "journey-graphs-project",
           "title": "Project: Graph Your Journey to School",
-          "focus": "Record times at landmarks on the way to school; draw d–t graph; find fastest/slowest legs; present.",
+          "focus": "Record times at landmarks on the way to school; draw d\u2013t graph; find fastest/slowest legs; present.",
           "cbe": [
             "JS-FE",
             "UP-FE"
@@ -1649,7 +1649,7 @@
           ],
           "hands_on": true,
           "project": "journey-graph",
-          "advanced": "Estimate uncertainty: phone-clock times ±30 s over 8 min legs — what speed uncertainty results?",
+          "advanced": "Estimate uncertainty: phone-clock times \u00b130 s over 8 min legs \u2014 what speed uncertainty results?",
           "n": 74,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1670,7 +1670,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Design a zero-instrument speed survey for your road with ±20% accuracy; describe validation.",
+          "advanced": "Design a zero-instrument speed survey for your road with \u00b120% accuracy; describe validation.",
           "n": 75,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1691,7 +1691,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Cheetah: 30 m/s for 15 s max; prey 20 m/s with 100 m head start — does the cheetah catch it? Show working.",
+          "advanced": "Cheetah: 30 m/s for 15 s max; prey 20 m/s with 100 m head start \u2014 does the cheetah catch it? Show working.",
           "n": 76,
           "unit_slug": "describing-motion",
           "unit_title": "Describing Motion",
@@ -1797,7 +1797,7 @@
         {
           "slug": "free-fall-g",
           "title": "Free Fall and the Acceleration g",
-          "focus": "g ≈ 10 m/s² meaning: speed grows 10 m/s each second; velocity table for 0-4 s of fall.",
+          "focus": "g \u2248 10 m/s\u00b2 meaning: speed grows 10 m/s each second; velocity table for 0-4 s of fall.",
           "cbe": [
             "JS-FE"
           ],
@@ -1807,7 +1807,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Compute speed and distance fallen at t=1,2,3 s using v=gt and d=½gt²; tabulate.",
+          "advanced": "Compute speed and distance fallen at t=1,2,3 s using v=gt and d=\u00bdgt\u00b2; tabulate.",
           "n": 81,
           "unit_slug": "gravity-falling-projectiles",
           "unit_title": "Gravity, Falling Bodies & Projectiles",
@@ -1817,7 +1817,7 @@
         {
           "slug": "measuring-g-pendulum-preview",
           "title": "Measuring g: The Pendulum Promise",
-          "focus": "Swing period depends on length not mass; preview T=2π√(L/g); plan the experiment (full method in Unit 11).",
+          "focus": "Swing period depends on length not mass; preview T=2\u03c0\u221a(L/g); plan the experiment (full method in Unit 11).",
           "cbe": [
             "JS-FE"
           ],
@@ -1828,7 +1828,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Rearrange T=2π√(L/g) to make g the subject; state what you'll plot.",
+          "advanced": "Rearrange T=2\u03c0\u221a(L/g) to make g the subject; state what you'll plot.",
           "n": 82,
           "unit_slug": "gravity-falling-projectiles",
           "unit_title": "Gravity, Falling Bodies & Projectiles",
@@ -1838,7 +1838,7 @@
         {
           "slug": "measuring-g-drop",
           "title": "Measuring g: The Two-Metre Drop",
-          "focus": "Drop ball from measured 2 m; three timers average; compute g from d=½gt²; discuss error honestly.",
+          "focus": "Drop ball from measured 2 m; three timers average; compute g from d=\u00bdgt\u00b2; discuss error honestly.",
           "cbe": [
             "JS-FE"
           ],
@@ -1921,7 +1921,7 @@
           ],
           "hands_on": true,
           "project": "egg-drop",
-          "advanced": "Justify your design with impulse: longer stopping time → smaller force (F=Δp/Δt preview).",
+          "advanced": "Justify your design with impulse: longer stopping time \u2192 smaller force (F=\u0394p/\u0394t preview).",
           "n": 86,
           "unit_slug": "gravity-falling-projectiles",
           "unit_title": "Gravity, Falling Bodies & Projectiles",
@@ -1944,7 +1944,7 @@
           ],
           "hands_on": true,
           "project": "egg-drop",
-          "advanced": "Estimate impact speed from 3 m (v=√(2gh)); then force for a 0.05 s stop on a 60 g egg.",
+          "advanced": "Estimate impact speed from 3 m (v=\u221a(2gh)); then force for a 0.05 s stop on a 60 g egg.",
           "n": 87,
           "unit_slug": "gravity-falling-projectiles",
           "unit_title": "Gravity, Falling Bodies & Projectiles",
@@ -1974,7 +1974,7 @@
         {
           "slug": "peak-height-energy",
           "title": "How High Did It Go? Energy Preview",
-          "focus": "Estimate peak from flight time; KE→PE story; measure throw heights off a marked wall.",
+          "focus": "Estimate peak from flight time; KE\u2192PE story; measure throw heights off a marked wall.",
           "cbe": [
             "JS-FE",
             "G10-PHY-1.6"
@@ -1986,7 +1986,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Equate ½mv²=mgh to show h=v²/2g; find launch speed for a 5 m mango-branch clearance.",
+          "advanced": "Equate \u00bdmv\u00b2=mgh to show h=v\u00b2/2g; find launch speed for a 5 m mango-branch clearance.",
           "n": 89,
           "unit_slug": "gravity-falling-projectiles",
           "unit_title": "Gravity, Falling Bodies & Projectiles",
@@ -2017,7 +2017,7 @@
         {
           "slug": "projectile-motion-2",
           "title": "Projectile Motion II: Angle and Range",
-          "focus": "Throw stones at measured angles; 45° wins (no air); 30° and 60° tie; javelin angle reality ~35°.",
+          "focus": "Throw stones at measured angles; 45\u00b0 wins (no air); 30\u00b0 and 60\u00b0 tie; javelin angle reality ~35\u00b0.",
           "cbe": [
             "JS-FE"
           ],
@@ -2029,7 +2029,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Explain with range formula R=v²sin2θ/g why 45° maximizes range; why do javelin throwers use less?",
+          "advanced": "Explain with range formula R=v\u00b2sin2\u03b8/g why 45\u00b0 maximizes range; why do javelin throwers use less?",
           "n": 91,
           "unit_slug": "gravity-falling-projectiles",
           "unit_title": "Gravity, Falling Bodies & Projectiles",
@@ -2119,7 +2119,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Kipchoge: 42.195 km in 2:01:09 — compute average speed and per-km pace; compare with your dash.",
+          "advanced": "Kipchoge: 42.195 km in 2:01:09 \u2014 compute average speed and per-km pace; compare with your dash.",
           "n": 95,
           "unit_slug": "gravity-falling-projectiles",
           "unit_title": "Gravity, Falling Bodies & Projectiles",
@@ -2182,7 +2182,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Combined problem: a stone thrown horizontally at 8 m/s from a 20 m cliff — time, range, impact speed.",
+          "advanced": "Combined problem: a stone thrown horizontally at 8 m/s from a 20 m cliff \u2014 time, range, impact speed.",
           "n": 98,
           "unit_slug": "gravity-falling-projectiles",
           "unit_title": "Gravity, Falling Bodies & Projectiles",
@@ -2205,7 +2205,7 @@
         {
           "slug": "what-is-work",
           "title": "What 'Work' Means in Physics",
-          "focus": "W = F × d in the force direction; carrying debe across yard (work) vs holding it still (no work).",
+          "focus": "W = F \u00d7 d in the force direction; carrying debe across yard (work) vs holding it still (no work).",
           "cbe": [
             "G10-PHY-1.6",
             "JS-FE"
@@ -2324,7 +2324,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "A 1000 L tank (1000 kg) raised 3 m: compute stored PE and the fall energy per litre — why tanks stand high.",
+          "advanced": "A 1000 L tank (1000 kg) raised 3 m: compute stored PE and the fall energy per litre \u2014 why tanks stand high.",
           "n": 104,
           "unit_slug": "work-energy-power",
           "unit_title": "Work, Energy & Power",
@@ -2346,7 +2346,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Estimate bow energy: average 30 N over 0.5 m draw — how fast could it launch a 30 g arrow ideally?",
+          "advanced": "Estimate bow energy: average 30 N over 0.5 m draw \u2014 how fast could it launch a 30 g arrow ideally?",
           "n": 105,
           "unit_slug": "work-energy-power",
           "unit_title": "Work, Energy & Power",
@@ -2356,7 +2356,7 @@
         {
           "slug": "energy-transformations-1",
           "title": "Energy Transformations I: Falling, Swinging, Shining",
-          "focus": "Falling mango PE→KE; swing cycle; torch chemical→electrical→light; chain diagrams drawn for each.",
+          "focus": "Falling mango PE\u2192KE; swing cycle; torch chemical\u2192electrical\u2192light; chain diagrams drawn for each.",
           "cbe": [
             "G10-PHY-1.6",
             "JS-FE"
@@ -2378,7 +2378,7 @@
         {
           "slug": "energy-transformations-2",
           "title": "Energy Transformations II: The Jiko and the Body",
-          "focus": "Charcoal chemical→heat→cooking; body food→motion+heat; efficiency preview (some energy always 'escapes').",
+          "focus": "Charcoal chemical\u2192heat\u2192cooking; body food\u2192motion+heat; efficiency preview (some energy always 'escapes').",
           "cbe": [
             "G10-PHY-1.6",
             "G10-PHY-4.1"
@@ -2390,7 +2390,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "A jiko uses 2 kg charcoal (≈30 MJ/kg) to deliver 6 MJ of cooking heat: compute efficiency.",
+          "advanced": "A jiko uses 2 kg charcoal (\u224830 MJ/kg) to deliver 6 MJ of cooking heat: compute efficiency.",
           "n": 107,
           "unit_slug": "work-energy-power",
           "unit_title": "Work, Energy & Power",
@@ -2526,7 +2526,7 @@
         {
           "slug": "efficiency",
           "title": "Efficiency: Useful Out Over Total In",
-          "focus": "η = useful/total; traditional 3-stone fire vs improved jiko; why no machine beats 100%.",
+          "focus": "\u03b7 = useful/total; traditional 3-stone fire vs improved jiko; why no machine beats 100%.",
           "cbe": [
             "G10-PHY-1.6",
             "G10-PHY-4.1"
@@ -2537,7 +2537,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Improved jiko delivers 12 MJ from 40 MJ of charcoal; compute η and wood saved per week at 3 kg/day baseline.",
+          "advanced": "Improved jiko delivers 12 MJ from 40 MJ of charcoal; compute \u03b7 and wood saved per week at 3 kg/day baseline.",
           "n": 114,
           "unit_slug": "work-energy-power",
           "unit_title": "Work, Energy & Power",
@@ -2546,7 +2546,7 @@
         },
         {
           "slug": "home-energy-audit-1",
-          "title": "Project: Home Energy Audit I — Collect the Data",
+          "title": "Project: Home Energy Audit I \u2014 Collect the Data",
           "focus": "Survey home energy uses (cooking, lighting, phone charging, transport); estimate weekly energy by source.",
           "cbe": [
             "G10-PHY-4.1",
@@ -2567,7 +2567,7 @@
         },
         {
           "slug": "home-energy-audit-2",
-          "title": "Project: Home Energy Audit II — Present the Savings Plan",
+          "title": "Project: Home Energy Audit II \u2014 Present the Savings Plan",
           "focus": "Tabulate class results; biggest savings opportunities; present a family energy-saving plan.",
           "cbe": [
             "G10-PHY-4.1"
@@ -2578,7 +2578,7 @@
           ],
           "hands_on": true,
           "project": "energy-audit",
-          "advanced": "Convert charcoal kg/week to MJ and trees/year (≈25 MJ/kg charcoal, 6 kg wood per kg charcoal): make the case.",
+          "advanced": "Convert charcoal kg/week to MJ and trees/year (\u224825 MJ/kg charcoal, 6 kg wood per kg charcoal): make the case.",
           "n": 116,
           "unit_slug": "work-energy-power",
           "unit_title": "Work, Energy & Power",
@@ -2603,7 +2603,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Water 50 g rises 20°C (4200 J/kg·°C → 4200 J): groundnut mass 0.5 g — compute J/g and compare with label ~24 kJ/g; why low?",
+          "advanced": "Water 50 g rises 20\u00b0C (4200 J/kg\u00b7\u00b0C \u2192 4200 J): groundnut mass 0.5 g \u2014 compute J/g and compare with label ~24 kJ/g; why low?",
           "n": 117,
           "unit_slug": "work-energy-power",
           "unit_title": "Work, Energy & Power",
@@ -2612,7 +2612,7 @@
         },
         {
           "slug": "work-energy-link",
-          "title": "The Work–Energy Link",
+          "title": "The Work\u2013Energy Link",
           "focus": "Work done on something becomes its energy: lift = mgh; drag = KE change; calculations tying Units 5.1-5.7 together.",
           "cbe": [
             "G10-PHY-1.6"
@@ -2652,8 +2652,8 @@
         },
         {
           "slug": "energy-chain-design",
-          "title": "Project: Rube Goldberg Energy Chain I — Design",
-          "focus": "Design a 5-step energy chain reaction from junk (marble run → lever → pendulum → balloon pop...); draw energy-flow diagram.",
+          "title": "Project: Rube Goldberg Energy Chain I \u2014 Design",
+          "focus": "Design a 5-step energy chain reaction from junk (marble run \u2192 lever \u2192 pendulum \u2192 balloon pop...); draw energy-flow diagram.",
           "cbe": [
             "G10-PHY-1.6",
             "JS-FE"
@@ -2672,7 +2672,7 @@
         },
         {
           "slug": "energy-chain-build",
-          "title": "Project: Rube Goldberg Energy Chain II — Build and Run",
+          "title": "Project: Rube Goldberg Energy Chain II \u2014 Build and Run",
           "focus": "Build, test, debug; reliability counts; class run-through and judging.",
           "cbe": [
             "G10-PHY-1.6"
@@ -2724,7 +2724,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Derive the joule in base units (kg·m²/s²) and use it to check the units of KE = ½mv².",
+          "advanced": "Derive the joule in base units (kg\u00b7m\u00b2/s\u00b2) and use it to check the units of KE = \u00bdmv\u00b2.",
           "n": 123,
           "unit_slug": "work-energy-power",
           "unit_title": "Work, Energy & Power",
@@ -2757,7 +2757,7 @@
       "unit": 6,
       "slug": "simple-machines",
       "title": "Simple Machines",
-      "intro": "Levers, pulleys, planes and gears — the six machines hiding inside every jembe, mkokoteni, bicycle and posho mill.",
+      "intro": "Levers, pulleys, planes and gears \u2014 the six machines hiding inside every jembe, mkokoteni, bicycle and posho mill.",
       "cbe_strands": [
         "G10-PHY-1.5",
         "G10-PHY-1.6",
@@ -2800,7 +2800,7 @@
             "spring balance",
             "tape"
           ],
-          "hands_on": true,
+          "hands_on": false,
           "project": null,
           "advanced": "Lever gives VR 4 but measured MA 3.2: compute efficiency and name the loss.",
           "n": 126,
@@ -2823,7 +2823,7 @@
             "pliers",
             "nail in wood"
           ],
-          "hands_on": true,
+          "hands_on": false,
           "project": null,
           "advanced": "40 kg child balances 70 kg adult on a 3 m seesaw: find each distance from the fulcrum.",
           "n": 127,
@@ -2845,7 +2845,7 @@
             "bottle opener",
             "stones (load)"
           ],
-          "hands_on": true,
+          "hands_on": false,
           "project": null,
           "advanced": "Wheelbarrow: load 400 N at 0.4 m from wheel, handles at 1.2 m: find the lifting effort.",
           "n": 128,
@@ -2879,7 +2879,7 @@
         {
           "slug": "moments",
           "title": "Moments: The Turning Force",
-          "focus": "Moment = F × d from pivot; balance a ruler with unequal bottle-top piles by sliding positions.",
+          "focus": "Moment = F \u00d7 d from pivot; balance a ruler with unequal bottle-top piles by sliding positions.",
           "cbe": [
             "G10-PHY-1.5"
           ],
@@ -2888,7 +2888,7 @@
             "pencil pivot",
             "bottle tops"
           ],
-          "hands_on": true,
+          "hands_on": false,
           "project": null,
           "advanced": "5 tops at 20 cm balance 8 tops at what distance? Then generalize: write the balance rule.",
           "n": 130,
@@ -2935,7 +2935,7 @@
             "string",
             "nut"
           ],
-          "hands_on": true,
+          "hands_on": false,
           "project": null,
           "advanced": "Use the plumb-line intersection method on a cut-out of Kenya: describe where the CG lands and why.",
           "n": 132,
@@ -2958,7 +2958,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Head mass 5 kg tilted 30° shifts its line of action: explain the extra neck moment and 'text neck' fatigue.",
+          "advanced": "Head mass 5 kg tilted 30\u00b0 shifts its line of action: explain the extra neck moment and 'text neck' fatigue.",
           "n": 133,
           "unit_slug": "simple-machines",
           "unit_title": "Simple Machines",
@@ -3014,7 +3014,7 @@
         },
         {
           "slug": "test-weighing-beam",
-          "title": "Build: A Graduated Weighing Beam II — Test and Certify",
+          "title": "Build: A Graduated Weighing Beam II \u2014 Test and Certify",
           "focus": "Weigh five known items, plot error, adjust notches; 'certify' the beam with a class stamp.",
           "cbe": [
             "G10-PHY-1.5",
@@ -3096,7 +3096,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Ramp 3 m long, 1 m rise, 100 N load: ideal effort vs measured 45 N — efficiency?",
+          "advanced": "Ramp 3 m long, 1 m rise, 100 N load: ideal effort vs measured 45 N \u2014 efficiency?",
           "n": 139,
           "unit_slug": "simple-machines",
           "unit_title": "Simple Machines",
@@ -3252,7 +3252,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Fit your data to effort = W/(n·η): estimate η per strand and explain the downward trend.",
+          "advanced": "Fit your data to effort = W/(n\u00b7\u03b7): estimate \u03b7 per strand and explain the downward trend.",
           "n": 146,
           "unit_slug": "simple-machines",
           "unit_title": "Simple Machines",
@@ -3350,7 +3350,7 @@
         {
           "slug": "treadle-sewing-machine",
           "title": "The Treadle Sewing Machine: Foot to Needle",
-          "focus": "Treadle (lever) → crank → flywheel (rotation smoothed) → belt → needle; energy storage in the flywheel.",
+          "focus": "Treadle (lever) \u2192 crank \u2192 flywheel (rotation smoothed) \u2192 belt \u2192 needle; energy storage in the flywheel.",
           "cbe": [
             "G10-PHY-1.6",
             "JS-FE"
@@ -3371,7 +3371,7 @@
         {
           "slug": "compound-machine-design",
           "title": "Design Challenge: A Machine for Our Village I",
-          "focus": "Teams choose a real task (lifting water, shelling maize, pressing tiles); sketch using ≥3 simple machines; peer review.",
+          "focus": "Teams choose a real task (lifting water, shelling maize, pressing tiles); sketch using \u22653 simple machines; peer review.",
           "cbe": [
             "G10-PHY-1.6",
             "G10-PHY-1.5"
@@ -3427,7 +3427,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Rank the class builds by efficiency and propose one modification each that raises η by ≥10%.",
+          "advanced": "Rank the class builds by efficiency and propose one modification each that raises \u03b7 by \u226510%.",
           "n": 154,
           "unit_slug": "simple-machines",
           "unit_title": "Simple Machines",
@@ -3449,7 +3449,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Quantify: a dry chain wastes ~5% of pedal energy — how many extra food kJ per 10 km ride?",
+          "advanced": "Quantify: a dry chain wastes ~5% of pedal energy \u2014 how many extra food kJ per 10 km ride?",
           "n": 155,
           "unit_slug": "simple-machines",
           "unit_title": "Simple Machines",
@@ -3492,7 +3492,7 @@
         {
           "slug": "what-is-pressure",
           "title": "What Is Pressure? Force Spread Over Area",
-          "focus": "P = F/A; sharp nail pierces, blunt one doesn't; sitting on one stone vs a flat board; units N/m² (pascal).",
+          "focus": "P = F/A; sharp nail pierces, blunt one doesn't; sitting on one stone vs a flat board; units N/m\u00b2 (pascal).",
           "cbe": [
             "G10-PHY-1.2",
             "JS-FE"
@@ -3504,7 +3504,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Compute the pressure under a 50 N nail tip of 0.1 mm²; compare with a 500 N student on two feet (300 cm²).",
+          "advanced": "Compute the pressure under a 50 N nail tip of 0.1 mm\u00b2; compare with a 500 N student on two feet (300 cm\u00b2).",
           "n": 157,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3577,8 +3577,8 @@
         },
         {
           "slug": "liquid-pressure-2",
-          "title": "Pressure in Liquids II: P = ρgh and Dam Walls",
-          "focus": "Build P=ρgh from a water column's weight; dam walls thicker at the base (Masinga, Thwake); units check.",
+          "title": "Pressure in Liquids II: P = \u03c1gh and Dam Walls",
+          "focus": "Build P=\u03c1gh from a water column's weight; dam walls thicker at the base (Masinga, Thwake); units check.",
           "cbe": [
             "G10-PHY-1.2"
           ],
@@ -3589,7 +3589,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Compute pressure at 10 m depth (ρ=1000, g=10); what force on a 1 m² sluice gate at that depth?",
+          "advanced": "Compute pressure at 10 m depth (\u03c1=1000, g=10); what force on a 1 m\u00b2 sluice gate at that depth?",
           "n": 161,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3611,7 +3611,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Explain with P=ρgh why the levels must match, including for two different-width arms.",
+          "advanced": "Explain with P=\u03c1gh why the levels must match, including for two different-width arms.",
           "n": 162,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3657,7 +3657,7 @@
           ],
           "hands_on": true,
           "project": "manometer",
-          "advanced": "Convert a 300 mm water difference into pascals using P=ρgh.",
+          "advanced": "Convert a 300 mm water difference into pascals using P=\u03c1gh.",
           "n": 164,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3679,7 +3679,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Atmospheric pressure ≈ 101 kPa: force on a 10 cm² tin lid? Why aren't we crushed?",
+          "advanced": "Atmospheric pressure \u2248 101 kPa: force on a 10 cm\u00b2 tin lid? Why aren't we crushed?",
           "n": 165,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3689,7 +3689,7 @@
         {
           "slug": "atmospheric-pressure-effects",
           "title": "Using Air Pressure: Straws, Syringes and Suckers",
-          "focus": "Drinking through a straw is the atmosphere pushing; syringe filling; hook suckers; 'suction' is a myth — pressure difference is real.",
+          "focus": "Drinking through a straw is the atmosphere pushing; syringe filling; hook suckers; 'suction' is a myth \u2014 pressure difference is real.",
           "cbe": [
             "G10-PHY-1.2",
             "JS-FE"
@@ -3702,7 +3702,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Explain the maximum straw-lift height from P=ρgh with atmospheric pressure (≈10 m of water).",
+          "advanced": "Explain the maximum straw-lift height from P=\u03c1gh with atmospheric pressure (\u224810 m of water).",
           "n": 166,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3723,7 +3723,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Nairobi ≈ 1660 m, ~84 kPa: why does ugali cooking take longer there? Link pressure to boiling point.",
+          "advanced": "Nairobi \u2248 1660 m, ~84 kPa: why does ugali cooking take longer there? Link pressure to boiling point.",
           "n": 167,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3767,7 +3767,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "State Pascal's principle and use it to derive the hydraulic force multiplication F2=F1·A2/A1.",
+          "advanced": "State Pascal's principle and use it to derive the hydraulic force multiplication F2=F1\u00b7A2/A1.",
           "n": 169,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3790,7 +3790,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Plungers 1 cm² and 10 cm²: ideal MA, and the distance trade when small plunger moves 10 cm.",
+          "advanced": "Plungers 1 cm\u00b2 and 10 cm\u00b2: ideal MA, and the distance trade when small plunger moves 10 cm.",
           "n": 170,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3843,7 +3843,7 @@
         },
         {
           "slug": "hydraulic-lift-test",
-          "title": "Build: The Hydraulic Lift Challenge II — Test and Measure",
+          "title": "Build: The Hydraulic Lift Challenge II \u2014 Test and Measure",
           "focus": "Competition: heaviest load lifted 2 cm; compute MA and efficiency; leak post-mortems.",
           "cbe": [
             "G10-PHY-1.2"
@@ -3898,7 +3898,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Take volume vs pressure readings with stacked weights; test P·V ≈ constant from your data.",
+          "advanced": "Take volume vs pressure readings with stacked weights; test P\u00b7V \u2248 constant from your data.",
           "n": 175,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3919,7 +3919,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Write a selection guide: lifting 1 tonne 0.5 m in a muddy garage — lever, tackle or hydraulic? Justify.",
+          "advanced": "Write a selection guide: lifting 1 tonne 0.5 m in a muddy garage \u2014 lever, tackle or hydraulic? Justify.",
           "n": 176,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -3939,7 +3939,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Tap is 15 m below tank surface: pressure in kPa and the jet speed estimate (Torricelli v=√2gh) at the tap.",
+          "advanced": "Tap is 15 m below tank surface: pressure in kPa and the jet speed estimate (Torricelli v=\u221a2gh) at the tap.",
           "n": 177,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -4047,7 +4047,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Pump barrel 3 cm bore, 200 N effort: compute the pressure it can generate in kPa and psi (1 psi ≈ 6.9 kPa).",
+          "advanced": "Pump barrel 3 cm bore, 200 N effort: compute the pressure it can generate in kPa and psi (1 psi \u2248 6.9 kPa).",
           "n": 182,
           "unit_slug": "pressure-fluids-at-rest",
           "unit_title": "Pressure & Fluids at Rest",
@@ -4101,7 +4101,7 @@
       "unit": 8,
       "slug": "fluids-in-motion-pumps",
       "title": "Fluids in Motion, Siphons & Pumps",
-      "intro": "Flow, Bernoulli, valves and the pumps that move Kenya's water — from the Afridev hand pump to the sump pump and the ram pump.",
+      "intro": "Flow, Bernoulli, valves and the pumps that move Kenya's water \u2014 from the Afridev hand pump to the sump pump and the ram pump.",
       "cbe_strands": [
         "G10-PHY-1.2",
         "G10-PHY-1.6",
@@ -4133,7 +4133,7 @@
         {
           "slug": "continuity",
           "title": "Narrow Pipe, Faster Flow: Continuity",
-          "focus": "Thumb over the hose speeds the jet; rivers quicken at narrows; A₁v₁ = A₂v₂ for incompressible flow.",
+          "focus": "Thumb over the hose speeds the jet; rivers quicken at narrows; A\u2081v\u2081 = A\u2082v\u2082 for incompressible flow.",
           "cbe": [
             "G10-PHY-1.2"
           ],
@@ -4154,7 +4154,7 @@
         {
           "slug": "bernoulli-1",
           "title": "The Bernoulli Surprise I: Papers That Kiss",
-          "focus": "Blow between two hanging papers — they come together; fast air = lower pressure; ball levitating in a jet.",
+          "focus": "Blow between two hanging papers \u2014 they come together; fast air = lower pressure; ball levitating in a jet.",
           "cbe": [
             "G10-PHY-1.2",
             "JS-FE"
@@ -4188,7 +4188,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Estimate uplift force: wind 20 m/s over a 40 m² roof using ΔP≈½ρv² (ρ=1.2).",
+          "advanced": "Estimate uplift force: wind 20 m/s over a 40 m\u00b2 roof using \u0394P\u2248\u00bd\u03c1v\u00b2 (\u03c1=1.2).",
           "n": 188,
           "unit_slug": "fluids-in-motion-pumps",
           "unit_title": "Fluids in Motion, Siphons & Pumps",
@@ -4253,7 +4253,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Derive the max suction lift from P=ρgh with atmospheric pressure; why is practical lift only ~7 m?",
+          "advanced": "Derive the max suction lift from P=\u03c1gh with atmospheric pressure; why is practical lift only ~7 m?",
           "n": 191,
           "unit_slug": "fluids-in-motion-pumps",
           "unit_title": "Fluids in Motion, Siphons & Pumps",
@@ -4327,8 +4327,8 @@
         },
         {
           "slug": "siphon-garden-1",
-          "title": "Project: The Siphon Garden System I — Design",
-          "focus": "Overhead tank → tube over the bund → furrows below; plan heights, tube routing, distribution points for a school garden.",
+          "title": "Project: The Siphon Garden System I \u2014 Design",
+          "focus": "Overhead tank \u2192 tube over the bund \u2192 furrows below; plan heights, tube routing, distribution points for a school garden.",
           "cbe": [
             "G10-PHY-1.2",
             "G10-PHY-1.6"
@@ -4349,7 +4349,7 @@
         },
         {
           "slug": "siphon-garden-2",
-          "title": "Project: The Siphon Garden System II — Build and Test",
+          "title": "Project: The Siphon Garden System II \u2014 Build and Test",
           "focus": "Install tubes, start siphons safely, measure flow at each outlet; map flow vs head difference.",
           "cbe": [
             "G10-PHY-1.2"
@@ -4362,7 +4362,7 @@
           ],
           "hands_on": true,
           "project": "siphon-garden",
-          "advanced": "Plot flow vs head; why does real flow fall below the √2gh ideal? (Friction in the tube.)",
+          "advanced": "Plot flow vs head; why does real flow fall below the \u221a2gh ideal? (Friction in the tube.)",
           "n": 196,
           "unit_slug": "fluids-in-motion-pumps",
           "unit_title": "Fluids in Motion, Siphons & Pumps",
@@ -4371,7 +4371,7 @@
         },
         {
           "slug": "siphon-garden-3",
-          "title": "Project: The Siphon Garden System III — Troubleshoot and Maintain",
+          "title": "Project: The Siphon Garden System III \u2014 Troubleshoot and Maintain",
           "focus": "Air leaks, blockages, algae; priming ritual; seasonal checklist; handover document for next year's class.",
           "cbe": [
             "G10-PHY-1.2"
@@ -4383,7 +4383,7 @@
           ],
           "hands_on": true,
           "project": "siphon-garden",
-          "advanced": "Write the fault tree: no flow → (air in crest? inlet uncovered? outlet above inlet?) with a test for each branch.",
+          "advanced": "Write the fault tree: no flow \u2192 (air in crest? inlet uncovered? outlet above inlet?) with a test for each branch.",
           "n": 197,
           "unit_slug": "fluids-in-motion-pumps",
           "unit_title": "Fluids in Motion, Siphons & Pumps",
@@ -4438,7 +4438,7 @@
         },
         {
           "slug": "diaphragm-pump-2",
-          "title": "Build: A Hand Diaphragm Pump II — Performance Test",
+          "title": "Build: A Hand Diaphragm Pump II \u2014 Performance Test",
           "focus": "Measure L/min at lift heights 0.5/1.0/1.5 m; graph performance; compare against a commercial pump spec.",
           "cbe": [
             "G10-PHY-1.2",
@@ -4453,7 +4453,7 @@
           ],
           "hands_on": true,
           "project": "diaphragm-pump",
-          "advanced": "Fit flow vs height trend; compute the pump's useful power at 1 m lift (P=ρgQh).",
+          "advanced": "Fit flow vs height trend; compute the pump's useful power at 1 m lift (P=\u03c1gQh).",
           "n": 200,
           "unit_slug": "fluids-in-motion-pumps",
           "unit_title": "Fluids in Motion, Siphons & Pumps",
@@ -4497,7 +4497,7 @@
           ],
           "hands_on": true,
           "project": "ram-pump",
-          "advanced": "Compute the drive head and delivery head of your rig; estimate the efficiency fraction Q·H/(q·h).",
+          "advanced": "Compute the drive head and delivery head of your rig; estimate the efficiency fraction Q\u00b7H/(q\u00b7h).",
           "n": 202,
           "unit_slug": "fluids-in-motion-pumps",
           "unit_title": "Fluids in Motion, Siphons & Pumps",
@@ -4506,7 +4506,7 @@
         },
         {
           "slug": "ram-pump-model-2",
-          "title": "Teacher-Led Build: A Mini Ram Pump II — Tuning",
+          "title": "Teacher-Led Build: A Mini Ram Pump II \u2014 Tuning",
           "focus": "Tune waste-valve weight and air chamber; measure delivery per minute; discuss real installations (AidFoundation/ram pump groups).",
           "cbe": [
             "G10-PHY-1.2"
@@ -4540,7 +4540,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "A bed needs 5 mm of water on 4 m² daily: compute litres/day and the drip-line hours at your measured rate.",
+          "advanced": "A bed needs 5 mm of water on 4 m\u00b2 daily: compute litres/day and the drip-line hours at your measured rate.",
           "n": 204,
           "unit_slug": "fluids-in-motion-pumps",
           "unit_title": "Fluids in Motion, Siphons & Pumps",
@@ -4562,7 +4562,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Explain with KE∝v² why doubling flood speed quadruples its destructive energy per unit mass.",
+          "advanced": "Explain with KE\u221dv\u00b2 why doubling flood speed quadruples its destructive energy per unit mass.",
           "n": 205,
           "unit_slug": "fluids-in-motion-pumps",
           "unit_title": "Fluids in Motion, Siphons & Pumps",
@@ -4625,7 +4625,7 @@
         {
           "slug": "density-rules-floating",
           "title": "Density Decides: Wood, Stone and Steel",
-          "focus": "Average density vs water (1000 kg/m³) predicts floating; the steel nail sinks but the steel sufuria floats — shape matters.",
+          "focus": "Average density vs water (1000 kg/m\u00b3) predicts floating; the steel nail sinks but the steel sufuria floats \u2014 shape matters.",
           "cbe": [
             "G10-PHY-1.2",
             "JS-FE"
@@ -4639,7 +4639,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "A hollow steel ball's average density is 600 kg/m³: what fraction of its volume is air?",
+          "advanced": "A hollow steel ball's average density is 600 kg/m\u00b3: what fraction of its volume is air?",
           "n": 208,
           "unit_slug": "buoyancy-floating",
           "unit_title": "Buoyancy & Floating",
@@ -4683,7 +4683,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Show a floating object's displaced weight equals its own weight — derive the floating condition.",
+          "advanced": "Show a floating object's displaced weight equals its own weight \u2014 derive the floating condition.",
           "n": 210,
           "unit_slug": "buoyancy-floating",
           "unit_title": "Buoyancy & Floating",
@@ -4727,7 +4727,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Compute the minimum hollow fraction for a steel hull (ρ=7800) to float; why do ships sink when swamped?",
+          "advanced": "Compute the minimum hollow fraction for a steel hull (\u03c1=7800) to float; why do ships sink when swamped?",
           "n": 212,
           "unit_slug": "buoyancy-floating",
           "unit_title": "Buoyancy & Floating",
@@ -4749,7 +4749,7 @@
           ],
           "hands_on": true,
           "project": "clay-boat",
-          "advanced": "Boat clay mass 200 g; hull displaces 800 cm³ at gunwale: maximum safe cargo in grams?",
+          "advanced": "Boat clay mass 200 g; hull displaces 800 cm\u00b3 at gunwale: maximum safe cargo in grams?",
           "n": 213,
           "unit_slug": "buoyancy-floating",
           "unit_title": "Buoyancy & Floating",
@@ -4816,7 +4816,7 @@
           ],
           "hands_on": true,
           "project": "hydrometer",
-          "advanced": "Calibrate marks at 1.00, 1.05, 1.10 g/cm³: describe how you verified each.",
+          "advanced": "Calibrate marks at 1.00, 1.05, 1.10 g/cm\u00b3: describe how you verified each.",
           "n": 216,
           "unit_slug": "buoyancy-floating",
           "unit_title": "Buoyancy & Floating",
@@ -4839,7 +4839,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Compute the salt concentration needed for neutral buoyancy of an egg (ρ≈1.05 g/cm³) — method and caveats.",
+          "advanced": "Compute the salt concentration needed for neutral buoyancy of an egg (\u03c1\u22481.05 g/cm\u00b3) \u2014 method and caveats.",
           "n": 217,
           "unit_slug": "buoyancy-floating",
           "unit_title": "Buoyancy & Floating",
@@ -4903,7 +4903,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "A 70 kg person (body density ≈ 1.02) needs how much extra displaced volume to float face-up? Show working.",
+          "advanced": "A 70 kg person (body density \u2248 1.02) needs how much extra displaced volume to float face-up? Show working.",
           "n": 220,
           "unit_slug": "buoyancy-floating",
           "unit_title": "Buoyancy & Floating",
@@ -4947,7 +4947,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Hot air at 0.9 kg/m³ in a 1 m³ balloon, outside 1.2: net lift force in newtons; payload in grams.",
+          "advanced": "Hot air at 0.9 kg/m\u00b3 in a 1 m\u00b3 balloon, outside 1.2: net lift force in newtons; payload in grams.",
           "n": 222,
           "unit_slug": "buoyancy-floating",
           "unit_title": "Buoyancy & Floating",
@@ -4988,7 +4988,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Championship problem: design a boat to carry 500 g in salt water with minimal clay — show the displacement math.",
+          "advanced": "Championship problem: design a boat to carry 500 g in salt water with minimal clay \u2014 show the displacement math.",
           "n": 224,
           "unit_slug": "buoyancy-floating",
           "unit_title": "Buoyancy & Floating",
@@ -5041,7 +5041,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "A 0.5 kg ball at 3 m/s on a 1 m string: compute the centripetal force (F=mv²/r) and compare with its weight.",
+          "advanced": "A 0.5 kg ball at 3 m/s on a 1 m string: compute the centripetal force (F=mv\u00b2/r) and compare with its weight.",
           "n": 226,
           "unit_slug": "circular-rotational-motion",
           "unit_title": "Circular & Rotational Motion",
@@ -5082,7 +5082,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Minimum speed at the top: set centripetal acceleration ≥ g; compute v_min for a 1 m arm.",
+          "advanced": "Minimum speed at the top: set centripetal acceleration \u2265 g; compute v_min for a 1 m arm.",
           "n": 228,
           "unit_slug": "circular-rotational-motion",
           "unit_title": "Circular & Rotational Motion",
@@ -5091,7 +5091,7 @@
         },
         {
           "slug": "speed-in-circles",
-          "title": "Speed Around the Circle: v = 2πr/T",
+          "title": "Speed Around the Circle: v = 2\u03c0r/T",
           "focus": "Measure a merry-go-round or spinning wheel: count rotations, time them, compute rim speed.",
           "cbe": [
             "JS-FE"
@@ -5103,7 +5103,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Rim at 1.2 m radius turns once per 2.5 s: rim speed and centripetal acceleration (a=v²/r).",
+          "advanced": "Rim at 1.2 m radius turns once per 2.5 s: rim speed and centripetal acceleration (a=v\u00b2/r).",
           "n": 229,
           "unit_slug": "circular-rotational-motion",
           "unit_title": "Circular & Rotational Motion",
@@ -5144,7 +5144,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "tanθ = v²/(rg): compute the lean angle for 8 m/s on a 10 m radius corner.",
+          "advanced": "tan\u03b8 = v\u00b2/(rg): compute the lean angle for 8 m/s on a 10 m radius corner.",
           "n": 231,
           "unit_slug": "circular-rotational-motion",
           "unit_title": "Circular & Rotational Motion",
@@ -5227,7 +5227,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Explain why imbalance force grows with v² and what that means for a boda at speed.",
+          "advanced": "Explain why imbalance force grows with v\u00b2 and what that means for a boda at speed.",
           "n": 235,
           "unit_slug": "circular-rotational-motion",
           "unit_title": "Circular & Rotational Motion",
@@ -5293,7 +5293,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Estimate friction reduction sliding→rolling from hub temperatures felt before/after service; design a better test.",
+          "advanced": "Estimate friction reduction sliding\u2192rolling from hub temperatures felt before/after service; design a better test.",
           "n": 238,
           "unit_slug": "circular-rotational-motion",
           "unit_title": "Circular & Rotational Motion",
@@ -5303,7 +5303,7 @@
         {
           "slug": "axles-and-torque",
           "title": "Axles and Torque: The Long Spanner Rule",
-          "focus": "Long spanner loosens stubborn nuts; wheel radius vs axle radius; torque = F × r introduced.",
+          "focus": "Long spanner loosens stubborn nuts; wheel radius vs axle radius; torque = F \u00d7 r introduced.",
           "cbe": [
             "G10-PHY-1.5",
             "JS-FE"
@@ -5348,7 +5348,7 @@
         {
           "slug": "spinning-eggs",
           "title": "Spinning Eggs: Raw vs Boiled",
-          "focus": "Boiled spins long, raw wobbles out — liquid inside lags; moment-of-inertia teaser; stop-and-release trick.",
+          "focus": "Boiled spins long, raw wobbles out \u2014 liquid inside lags; moment-of-inertia teaser; stop-and-release trick.",
           "cbe": [
             "JS-FE"
           ],
@@ -5377,7 +5377,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Design a safe playground roundabout speed limit using a=v²/r and justify your numbers.",
+          "advanced": "Design a safe playground roundabout speed limit using a=v\u00b2/r and justify your numbers.",
           "n": 242,
           "unit_slug": "circular-rotational-motion",
           "unit_title": "Circular & Rotational Motion",
@@ -5421,7 +5421,7 @@
         {
           "slug": "pendulum-parts",
           "title": "Anatomy of a Pendulum",
-          "focus": "Bob, string, pivot; equilibrium position; restoring force grows with displacement; energy sloshes PE↔KE.",
+          "focus": "Bob, string, pivot; equilibrium position; restoring force grows with displacement; energy sloshes PE\u2194KE.",
           "cbe": [
             "JS-FE"
           ],
@@ -5475,7 +5475,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Explain mass-independence using both F=ma and the PE↔KE exchange.",
+          "advanced": "Explain mass-independence using both F=ma and the PE\u2194KE exchange.",
           "n": 246,
           "unit_slug": "oscillations-pendulums",
           "unit_title": "Oscillations & Pendulums",
@@ -5485,7 +5485,7 @@
         {
           "slug": "period-vs-amplitude",
           "title": "What Affects the Period? Test: Amplitude",
-          "focus": "Small vs large swings: nearly equal (small-angle magic); where it breaks down (>30°).",
+          "focus": "Small vs large swings: nearly equal (small-angle magic); where it breaks down (>30\u00b0).",
           "cbe": [
             "JS-FE"
           ],
@@ -5496,7 +5496,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Measure period at 10°, 30°, 60°: quantify the breakdown and explain the small-angle approximation.",
+          "advanced": "Measure period at 10\u00b0, 30\u00b0, 60\u00b0: quantify the breakdown and explain the small-angle approximation.",
           "n": 247,
           "unit_slug": "oscillations-pendulums",
           "unit_title": "Oscillations & Pendulums",
@@ -5505,8 +5505,8 @@
         },
         {
           "slug": "period-vs-length",
-          "title": "What Affects the Period? Test: Length — The One That Matters",
-          "focus": "Vary length 20–100 cm; period grows; collect the class dataset for the graph lesson.",
+          "title": "What Affects the Period? Test: Length \u2014 The One That Matters",
+          "focus": "Vary length 20\u2013100 cm; period grows; collect the class dataset for the graph lesson.",
           "cbe": [
             "JS-FE"
           ],
@@ -5518,7 +5518,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Predict the period at 25 cm given 1.0 s at 100 cm, using T∝√L.",
+          "advanced": "Predict the period at 25 cm given 1.0 s at 100 cm, using T\u221d\u221aL.",
           "n": 248,
           "unit_slug": "oscillations-pendulums",
           "unit_title": "Oscillations & Pendulums",
@@ -5527,8 +5527,8 @@
         },
         {
           "slug": "pendulum-graph",
-          "title": "The Pendulum Graph: T² Against L",
-          "focus": "Plot T² vs L: a straight line through origin; gradient = 4π²/g; compute g from your own graph.",
+          "title": "The Pendulum Graph: T\u00b2 Against L",
+          "focus": "Plot T\u00b2 vs L: a straight line through origin; gradient = 4\u03c0\u00b2/g; compute g from your own graph.",
           "cbe": [
             "G10-PHY-2.1",
             "JS-FE"
@@ -5539,7 +5539,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Full computation: gradient 0.040 s²/cm → g in m/s²; compare with your Unit 4 drop result.",
+          "advanced": "Full computation: gradient 0.040 s\u00b2/cm \u2192 g in m/s\u00b2; compare with your Unit 4 drop result.",
           "n": 249,
           "unit_slug": "oscillations-pendulums",
           "unit_title": "Oscillations & Pendulums",
@@ -5570,7 +5570,7 @@
         {
           "slug": "pendulum-clock-1",
           "title": "Build: The One-Second Pendulum Clock I",
-          "focus": "Build a stand and pendulum; target T=1.00 s; compute the needed length (≈25 cm) then approach it by tuning.",
+          "focus": "Build a stand and pendulum; target T=1.00 s; compute the needed length (\u224825 cm) then approach it by tuning.",
           "cbe": [
             "JS-FE",
             "G10-PHY-2.1"
@@ -5583,7 +5583,7 @@
           ],
           "hands_on": true,
           "project": "pendulum-clock",
-          "advanced": "Use T=2π√(L/g) to predict L for T=1.000 s at g=9.8; compare with your tuned result.",
+          "advanced": "Use T=2\u03c0\u221a(L/g) to predict L for T=1.000 s at g=9.8; compare with your tuned result.",
           "n": 251,
           "unit_slug": "oscillations-pendulums",
           "unit_title": "Oscillations & Pendulums",
@@ -5592,7 +5592,7 @@
         },
         {
           "slug": "pendulum-clock-2",
-          "title": "Build: The One-Second Pendulum Clock II — Calibrate",
+          "title": "Build: The One-Second Pendulum Clock II \u2014 Calibrate",
           "focus": "Adjust length against a clock over 5 minutes; temperature and wind effects; log drift; name your clock.",
           "cbe": [
             "JS-FE",
@@ -5678,7 +5678,7 @@
         {
           "slug": "spring-oscillations",
           "title": "Springs Oscillate Too: Mass on a Rubber Strip",
-          "focus": "Period vs hanging mass measured; heavier = slower here (unlike pendulum); T∝√m pattern.",
+          "focus": "Period vs hanging mass measured; heavier = slower here (unlike pendulum); T\u221d\u221am pattern.",
           "cbe": [
             "G10-PHY-1.3",
             "G10-PHY-2.1"
@@ -5690,7 +5690,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Plot T² vs m; use the gradient with T=2π√(m/k) to extract your strip's spring constant k.",
+          "advanced": "Plot T\u00b2 vs m; use the gradient with T=2\u03c0\u221a(m/k) to extract your strip's spring constant k.",
           "n": 256,
           "unit_slug": "oscillations-pendulums",
           "unit_title": "Oscillations & Pendulums",
@@ -5841,7 +5841,7 @@
         {
           "slug": "impulse",
           "title": "Impulse: The Egg-Catching Secret",
-          "focus": "Δp = F×t; soft hands extend time and reduce force; landing with bent knees; gym mats and sand pits.",
+          "focus": "\u0394p = F\u00d7t; soft hands extend time and reduce force; landing with bent knees; gym mats and sand pits.",
           "cbe": [
             "JS-FE"
           ],
@@ -5916,7 +5916,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "2 kg clay at 3 m/s hits stationary 1 kg and sticks: final speed and the KE lost — account for it.",
+          "advanced": "2 kg clay at 3 m/s hits stationary 1 kg and sticks: final speed and the KE lost \u2014 account for it.",
           "n": 266,
           "unit_slug": "momentum-collisions",
           "unit_title": "Momentum & Collisions",
@@ -6000,7 +6000,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Estimate thrust: 0.5 L expelled in 0.15 s at 20 m/s — average force and peak acceleration of a 0.3 kg rocket.",
+          "advanced": "Estimate thrust: 0.5 L expelled in 0.15 s at 20 m/s \u2014 average force and peak acceleration of a 0.3 kg rocket.",
           "n": 270,
           "unit_slug": "momentum-collisions",
           "unit_title": "Momentum & Collisions",
@@ -6023,7 +6023,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Design spec: keep head force under 300 N for a 3 m fall onto a helmet liner — estimate needed crush distance.",
+          "advanced": "Design spec: keep head force under 300 N for a 3 m fall onto a helmet liner \u2014 estimate needed crush distance.",
           "n": 271,
           "unit_slug": "momentum-collisions",
           "unit_title": "Momentum & Collisions",
@@ -6259,7 +6259,7 @@
         {
           "slug": "spring-scale-build",
           "title": "Build: A Calibrated Spring Scale I",
-          "focus": "Refine the Unit 2 force meter: better pointer, card scale, zero adjustment; calibrate 0–10 N with water.",
+          "focus": "Refine the Unit 2 force meter: better pointer, card scale, zero adjustment; calibrate 0\u201310 N with water.",
           "cbe": [
             "G10-PHY-1.3",
             "G10-PHY-1.1"
@@ -6281,7 +6281,7 @@
         },
         {
           "slug": "spring-scale-certify",
-          "title": "Build: A Calibrated Spring Scale II — Certification",
+          "title": "Build: A Calibrated Spring Scale II \u2014 Certification",
           "focus": "Blind-test five mystery masses against a reference scale; error table; issue 'inspection certificates'.",
           "cbe": [
             "G10-PHY-1.3"
@@ -6303,7 +6303,7 @@
         {
           "slug": "mechanical-properties",
           "title": "Mechanical Properties of Materials (CBE 1.3)",
-          "focus": "Ductility (drawn wire), malleability (hammered bottle top), brittleness (chalk snap), hardness (scratch order), stiffness, strength — demonstrated in sequence.",
+          "focus": "Ductility (drawn wire), malleability (hammered bottle top), brittleness (chalk snap), hardness (scratch order), stiffness, strength \u2014 demonstrated in sequence.",
           "cbe": [
             "G10-PHY-1.3"
           ],
@@ -6317,7 +6317,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Match each property to a product requirement: panga blade, bucket, window, spring, hammer face — justify.",
+          "advanced": "Match each property to a product requirement: panga blade, bucket, window, spring, hammer face \u2014 justify.",
           "n": 284,
           "unit_slug": "elasticity-materials-structures",
           "unit_title": "Elasticity, Materials & Structures",
@@ -6648,7 +6648,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Lifecycle analysis: thatch every 5 years vs mabati once — compare 30-year cost and comfort with numbers.",
+          "advanced": "Lifecycle analysis: thatch every 5 years vs mabati once \u2014 compare 30-year cost and comfort with numbers.",
           "n": 299,
           "unit_slug": "elasticity-materials-structures",
           "unit_title": "Elasticity, Materials & Structures",
@@ -6691,7 +6691,7 @@
         {
           "slug": "wind-is-moving-air",
           "title": "Wind Is Moving Air: Where It Comes From",
-          "focus": "Sun heats land unevenly → convection → wind; Kenyan winds: Lake Turkana jet, Ngong hills, coastal monsoons.",
+          "focus": "Sun heats land unevenly \u2192 convection \u2192 wind; Kenyan winds: Lake Turkana jet, Ngong hills, coastal monsoons.",
           "cbe": [
             "G10-PHY-4.1",
             "JS-FE"
@@ -6749,7 +6749,7 @@
           ],
           "hands_on": true,
           "project": "anemometer",
-          "advanced": "Calibrate: passenger counts turns at known vehicle speeds (safe, from inside!); produce a turns→km/h card.",
+          "advanced": "Calibrate: passenger counts turns at known vehicle speeds (safe, from inside!); produce a turns\u2192km/h card.",
           "n": 303,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -6771,7 +6771,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Use F≈½ρAv² to estimate force on a 1 m² signboard at 15 m/s; why do billboards fail in storms?",
+          "advanced": "Use F\u2248\u00bd\u03c1Av\u00b2 to estimate force on a 1 m\u00b2 signboard at 15 m/s; why do billboards fail in storms?",
           "n": 304,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -6802,7 +6802,7 @@
         {
           "slug": "how-wind-pumps-work",
           "title": "How a Wind Pump Works: Rotor to Piston",
-          "focus": "Blades catch wind → crank/cam turns rotation into up-down → pump rod lifts water; trace the energy chain.",
+          "focus": "Blades catch wind \u2192 crank/cam turns rotation into up-down \u2192 pump rod lifts water; trace the energy chain.",
           "cbe": [
             "G10-PHY-1.6"
           ],
@@ -6891,7 +6891,7 @@
         {
           "slug": "windmill-tower",
           "title": "Windmill Project II: Tower and Yaw",
-          "focus": "Triangulated tower (Unit 13!), tail vane keeps rotor facing wind; safe height for school (2–3 m).",
+          "focus": "Triangulated tower (Unit 13!), tail vane keeps rotor facing wind; safe height for school (2\u20133 m).",
           "cbe": [
             "G10-PHY-1.6",
             "G10-PHY-1.3"
@@ -6949,7 +6949,7 @@
           ],
           "hands_on": true,
           "project": "windmill",
-          "advanced": "Predict litres/minute from rotor rpm × stroke volume at your measured efficiency.",
+          "advanced": "Predict litres/minute from rotor rpm \u00d7 stroke volume at your measured efficiency.",
           "n": 312,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -6971,7 +6971,7 @@
           ],
           "hands_on": true,
           "project": "windmill",
-          "advanced": "Compute hydraulic power out (ρgQh) vs estimated wind power in (½ρAv³); the honest efficiency.",
+          "advanced": "Compute hydraulic power out (\u03c1gQh) vs estimated wind power in (\u00bd\u03c1Av\u00b3); the honest efficiency.",
           "n": 313,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -7014,7 +7014,7 @@
           ],
           "hands_on": true,
           "project": "windmill",
-          "advanced": "Fit output ∝ (v − v_cutin) approximately; justify the cubic-energy intuition behind the curve's shape.",
+          "advanced": "Fit output \u221d (v \u2212 v_cutin) approximately; justify the cubic-energy intuition behind the curve's shape.",
           "n": 315,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -7034,7 +7034,7 @@
           ],
           "hands_on": true,
           "project": "windmill",
-          "advanced": "Include a costing: materials, hours, water per day — compare with a jerrican-carried alternative.",
+          "advanced": "Include a costing: materials, hours, water per day \u2014 compare with a jerrican-carried alternative.",
           "n": 316,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -7100,7 +7100,7 @@
           ],
           "hands_on": true,
           "project": "water-turbine",
-          "advanced": "Predict lift rate from cup fill volume × rpm; identify the two main losses.",
+          "advanced": "Predict lift rate from cup fill volume \u00d7 rpm; identify the two main losses.",
           "n": 319,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -7109,7 +7109,7 @@
         },
         {
           "slug": "spoon-turbine-test",
-          "title": "Build: The Spoon Wheel Turbine II — Test Under the Tap",
+          "title": "Build: The Spoon Wheel Turbine II \u2014 Test Under the Tap",
           "focus": "Run under tap/stream; measure rpm vs flow and max weight lifted; graph; compare teams.",
           "cbe": [
             "G10-PHY-1.6",
@@ -7133,7 +7133,7 @@
         {
           "slug": "motion-to-electricity",
           "title": "From Motion to Electricity: The Dynamo Teaser",
-          "focus": "Bicycle dynamo demo: spin → bulb lights; generator is a motor backwards; bridge to CBE 3.2 next year.",
+          "focus": "Bicycle dynamo demo: spin \u2192 bulb lights; generator is a motor backwards; bridge to CBE 3.2 next year.",
           "cbe": [
             "G10-PHY-1.6",
             "JS-FE"
@@ -7143,7 +7143,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Estimate: your turbine spins a dynamo at 5 V/0.3 A — efficiency chain from stream to light.",
+          "advanced": "Estimate: your turbine spins a dynamo at 5 V/0.3 A \u2014 efficiency chain from stream to light.",
           "n": 321,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -7174,7 +7174,7 @@
         {
           "slug": "rainwater-harvesting",
           "title": "Rainwater Harvesting Physics",
-          "focus": "Roof catchment = rainfall × area; gutters and first-flush; tank sizing for the dry term; Kenyan rainfall patterns.",
+          "focus": "Roof catchment = rainfall \u00d7 area; gutters and first-flush; tank sizing for the dry term; Kenyan rainfall patterns.",
           "cbe": [
             "G10-PHY-4.1",
             "G10-PHY-1.1"
@@ -7186,7 +7186,7 @@
           ],
           "hands_on": true,
           "project": "tank-sizing",
-          "advanced": "Roof 60 m², rain 800 mm/year, dry spell 90 days at 200 L/day: size the tank in m³ with reasoning.",
+          "advanced": "Roof 60 m\u00b2, rain 800 mm/year, dry spell 90 days at 200 L/day: size the tank in m\u00b3 with reasoning.",
           "n": 323,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -7293,7 +7293,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Panel question: 'Is small wind worth it here?' — argue from your measured data, both sides.",
+          "advanced": "Panel question: 'Is small wind worth it here?' \u2014 argue from your measured data, both sides.",
           "n": 328,
           "unit_slug": "wind-water-power",
           "unit_title": "Wind & Water Power Projects",
@@ -7380,8 +7380,8 @@
         },
         {
           "slug": "wave-quantities",
-          "title": "Wavelength, Frequency, Amplitude and v = fλ",
-          "focus": "Count rope waves per second, measure wavelength with chalk; v = fλ for rope and sound.",
+          "title": "Wavelength, Frequency, Amplitude and v = f\u03bb",
+          "focus": "Count rope waves per second, measure wavelength with chalk; v = f\u03bb for rope and sound.",
           "cbe": [
             "G10-PHY-2.1"
           ],
@@ -7393,7 +7393,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "Sound: f=170 Hz, λ=2 m — compute wave speed; predict λ for a drum's 85 Hz.",
+          "advanced": "Sound: f=170 Hz, \u03bb=2 m \u2014 compute wave speed; predict \u03bb for a drum's 85 Hz.",
           "n": 332,
           "unit_slug": "sound-mechanical-waves",
           "unit_title": "Sound & Mechanical Waves",
@@ -7446,7 +7446,7 @@
         },
         {
           "slug": "bottle-xylophone-2",
-          "title": "Build: The Bottle Xylophone II — Tune and Play",
+          "title": "Build: The Bottle Xylophone II \u2014 Tune and Play",
           "focus": "Tune against a reference (phone app or teacher ear); play a known tune; record the water levels.",
           "cbe": [
             "G10-PHY-2.1"
@@ -7480,7 +7480,7 @@
           ],
           "hands_on": true,
           "project": "one-string",
-          "advanced": "Predict the half-length pitch using f∝1/L; verify against a tuner app.",
+          "advanced": "Predict the half-length pitch using f\u221d1/L; verify against a tuner app.",
           "n": 336,
           "unit_slug": "sound-mechanical-waves",
           "unit_title": "Sound & Mechanical Waves",
@@ -7489,7 +7489,7 @@
         },
         {
           "slug": "one-string-guitar-2",
-          "title": "Build: The One-String Guitar II — Ratios and Songs",
+          "title": "Build: The One-String Guitar II \u2014 Ratios and Songs",
           "focus": "Find octave (1/2), fifth (2/3), fourth (3/4) positions; mark frets; play with the bottle xylophone ensemble.",
           "cbe": [
             "G10-PHY-2.1"
@@ -7501,7 +7501,7 @@
           ],
           "hands_on": true,
           "project": "one-string",
-          "advanced": "Derive fret positions from f∝1/L for a pentatonic scale; mark them with measured distances.",
+          "advanced": "Derive fret positions from f\u221d1/L for a pentatonic scale; mark them with measured distances.",
           "n": 337,
           "unit_slug": "sound-mechanical-waves",
           "unit_title": "Sound & Mechanical Waves",
@@ -7543,7 +7543,7 @@
           ],
           "hands_on": true,
           "project": null,
-          "advanced": "For a tube closed at one end, λ≈4L: predict the note of a 25 cm tube and test it.",
+          "advanced": "For a tube closed at one end, \u03bb\u22484L: predict the note of a 25 cm tube and test it.",
           "n": 339,
           "unit_slug": "sound-mechanical-waves",
           "unit_title": "Sound & Mechanical Waves",
@@ -7565,7 +7565,7 @@
           ],
           "hands_on": true,
           "project": "pan-pipes",
-          "advanced": "Compute lengths for an 8-note scale from f∝1/L with your lowest note at 20 cm; list all eight.",
+          "advanced": "Compute lengths for an 8-note scale from f\u221d1/L with your lowest note at 20 cm; list all eight.",
           "n": 340,
           "unit_slug": "sound-mechanical-waves",
           "unit_title": "Sound & Mechanical Waves",
@@ -7597,7 +7597,7 @@
         {
           "slug": "loudness-decibels",
           "title": "Loudness: Amplitude and the Decibel Idea",
-          "focus": "Big vibration = loud; logarithmic teaser (10× energy = +10 dB); posho mill and ear safety; quiet and loud spots mapped.",
+          "focus": "Big vibration = loud; logarithmic teaser (10\u00d7 energy = +10 dB); posho mill and ear safety; quiet and loud spots mapped.",
           "cbe": [
             "G10-PHY-2.1",
             "UP-FE"
@@ -7674,7 +7674,7 @@
           ],
           "hands_on": true,
           "project": "noise-map",
-          "advanced": "Estimate distance doubling drop (≈ −6 dB in open air): how far must a 100 dB speaker be to reach 70 dB?",
+          "advanced": "Estimate distance doubling drop (\u2248 \u22126 dB in open air): how far must a 100 dB speaker be to reach 70 dB?",
           "n": 345,
           "unit_slug": "sound-mechanical-waves",
           "unit_title": "Sound & Mechanical Waves",
@@ -7757,7 +7757,7 @@
         {
           "slug": "year-in-physics",
           "title": "The Year in Physics: The Big Map",
-          "focus": "Whole-year concept map built by the class on the wall: forces → motion → energy → machines → fluids → waves.",
+          "focus": "Whole-year concept map built by the class on the wall: forces \u2192 motion \u2192 energy \u2192 machines \u2192 fluids \u2192 waves.",
           "cbe": [
             "JS-FE"
           ],
@@ -7768,7 +7768,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Add three cross-links nobody else found (e.g., resonance ↔ shock absorbers) and defend them.",
+          "advanced": "Add three cross-links nobody else found (e.g., resonance \u2194 shock absorbers) and defend them.",
           "n": 349,
           "unit_slug": "capstone-review",
           "unit_title": "Capstone, Review & Community Science",
@@ -7788,7 +7788,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Write the two hardest fair questions you can from Units 1–2, with schemes.",
+          "advanced": "Write the two hardest fair questions you can from Units 1\u20132, with schemes.",
           "n": 350,
           "unit_slug": "capstone-review",
           "unit_title": "Capstone, Review & Community Science",
@@ -7808,7 +7808,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Mixed problem: throw up at 12 m/s from 2 m — time to land and impact speed.",
+          "advanced": "Mixed problem: throw up at 12 m/s from 2 m \u2014 time to land and impact speed.",
           "n": 351,
           "unit_slug": "capstone-review",
           "unit_title": "Capstone, Review & Community Science",
@@ -7839,7 +7839,7 @@
         {
           "slug": "drill-pressure-fluids",
           "title": "Core Drill IV: Pressure, Fluids and Buoyancy",
-          "focus": "P=F/A, P=ρgh, siphon reasoning, Archimedes cases; lab-practical style stations.",
+          "focus": "P=F/A, P=\u03c1gh, siphon reasoning, Archimedes cases; lab-practical style stations.",
           "cbe": [
             "G10-PHY-1.2"
           ],
@@ -7848,7 +7848,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Design-question: lift 100 kg with a hydraulic jack — specify plunger areas and strokes.",
+          "advanced": "Design-question: lift 100 kg with a hydraulic jack \u2014 specify plunger areas and strokes.",
           "n": 353,
           "unit_slug": "capstone-review",
           "unit_title": "Capstone, Review & Community Science",
@@ -7858,7 +7858,7 @@
         {
           "slug": "drill-circles-oscillations-momentum",
           "title": "Core Drill V: Circles, Oscillations and Momentum",
-          "focus": "v=2πr/T, pendulum T=2π√(L/g), p=mv collisions; mini-whiteboard showdown.",
+          "focus": "v=2\u03c0r/T, pendulum T=2\u03c0\u221a(L/g), p=mv collisions; mini-whiteboard showdown.",
           "cbe": [
             "JS-FE",
             "G10-PHY-2.1"
@@ -7878,7 +7878,7 @@
         {
           "slug": "drill-materials-wind-sound",
           "title": "Core Drill VI: Materials, Wind/Water and Sound",
-          "focus": "Hooke's law, structures, windmill data, v=fλ; practical data questions from the year's own logs.",
+          "focus": "Hooke's law, structures, windmill data, v=f\u03bb; practical data questions from the year's own logs.",
           "cbe": [
             "G10-PHY-1.3",
             "G10-PHY-2.1"
@@ -8092,7 +8092,7 @@
           ],
           "hands_on": false,
           "project": null,
-          "advanced": "Preview problem: the windmill spins a dynamo — sketch the full energy chain to a lit bulb with efficiencies.",
+          "advanced": "Preview problem: the windmill spins a dynamo \u2014 sketch the full energy chain to a lit bulb with efficiencies.",
           "n": 365,
           "unit_slug": "capstone-review",
           "unit_title": "Capstone, Review & Community Science",

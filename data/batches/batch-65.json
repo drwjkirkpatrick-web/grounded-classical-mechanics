@@ -1,0 +1,29 @@
+BATCH 65 — Unit 14: Wind & Water Power Projects
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-14-wind-water-power/lesson-301-wind-is-moving-air.md | 301 | Wind Is Moving Air: Where It Comes From | G10-PHY-4.1;JS-FE | no | - | map; candle+box convection demo (teacher) | Sun heats land unevenly → convection → wind; Kenyan winds: Lake Turkana jet, Ngong hills, coastal monsoons. | Explain the sea-breeze cycle at the coast with land/water heating rates; when does it reverse?
+lessons/unit-14-wind-water-power/lesson-302-wind-sock.md | 302 | Build: A Wind Sock and the Beaufort Scale | G10-PHY-4.1;JS-FE | yes | wind-sock | plastic bag; wire ring; pole; tape | Sew/tape a sock from a plastic bag on a pole; read direction and estimate strength with a picture scale. | Keep a week log of direction/strength; compute the prevailing direction and justify with a simple vector tally.
+lessons/unit-14-wind-water-power/lesson-303-anemometer-build.md | 303 | Build: A Cup Anemometer | G10-PHY-4.1;G10-PHY-1.1 | yes | anemometer | bottle tops; sticks; pencil; pin axle; stopwatch | Bottle-top cups on crossed sticks around a pencil axle; count turns in 30 s against a reference chart (or phone slow-motion). | Calibrate: passenger counts turns at known vehicle speeds (safe, from inside!); produce a turns→km/h card.
+lessons/unit-14-wind-water-power/lesson-304-wind-force-surfaces.md | 304 | Wind Force on Surfaces | G10-PHY-1.6;JS-FE | yes | - | cards; fan or windy day; spring balance | Feel push on card at angles; sail and blade angle intro; force grows with area and with speed squared. | Use F≈½ρAv² to estimate force on a 1 m² signboard at 15 m/s; why do billboards fail in storms?

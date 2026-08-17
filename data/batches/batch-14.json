@@ -1,229 +1,29 @@
-{
- "batch": 14,
- "unit": 7,
- "unit_title": "Pressure & Fluids at Rest",
- "unit_slug": "pressure-fluids-at-rest",
- "n_lessons": 10,
- "lessons": [
-  {
-   "slug": "what-is-pressure",
-   "title": "What Is Pressure? Force Spread Over Area",
-   "focus": "P = F/A; sharp nail pierces, blunt one doesn't; sitting on one stone vs a flat board; units N/m² (pascal).",
-   "cbe": [
-    "G10-PHY-1.2",
-    "JS-FE"
-   ],
-   "materials": [
-    "nails (sharp/blunt)",
-    "board",
-    "stones"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Compute the pressure under a 50 N nail tip of 0.1 mm²; compare with a 500 N student on two feet (300 cm²).",
-   "n": 157,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-157-what-is-pressure.md"
-  },
-  {
-   "slug": "pressure-daily-life",
-   "title": "Pressure in Daily Life: Sharp, Wide, Deep",
-   "focus": "Panga edge vs spine, high heels in mud, wide tractor tyres, heavy lorries vs murram roads; hooves comparison.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "UP-FE"
-   ],
-   "materials": [
-    "photos/cards",
-    "mud patch (after rain)"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Explain why wide tyres 'float' a tractor on soft soil using numbers: double area, halve pressure.",
-   "n": 158,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-158-pressure-daily-life.md"
-  },
-  {
-   "slug": "calculating-pressure",
-   "title": "Calculating Pressure: Feet, Hooves and Jerricans",
-   "focus": "Measure your foot area on squared paper; compute standing pressures; full jerrican on its base.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "squared paper",
-    "scale",
-    "jerrican"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "One foot vs two vs tiptoe: compute all three pressures and relate to sinking in mud.",
-   "n": 159,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-159-calculating-pressure.md"
-  },
-  {
-   "slug": "liquid-pressure-1",
-   "title": "Pressure in Liquids I: The Jerrican with Three Holes",
-   "focus": "Holes at three heights jet different distances; deeper = more pressure; pressure acts in all directions.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "JS-FE"
-   ],
-   "materials": [
-    "jerrican with 3 holes",
-    "water",
-    "basin"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Measure jet ranges vs depth; explain the shape of the relationship qualitatively.",
-   "n": 160,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-160-liquid-pressure-1.md"
-  },
-  {
-   "slug": "liquid-pressure-2",
-   "title": "Pressure in Liquids II: P = ρgh and Dam Walls",
-   "focus": "Build P=ρgh from a water column's weight; dam walls thicker at the base (Masinga, Thwake); units check.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "clear tube",
-    "ruler",
-    "dam photos"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Compute pressure at 10 m depth (ρ=1000, g=10); what force on a 1 m² sluice gate at that depth?",
-   "n": 161,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-161-liquid-pressure-2.md"
-  },
-  {
-   "slug": "communicating-vessels",
-   "title": "Water Finds Its Level: Communicating Vessels",
-   "focus": "Connected tubes settle level regardless of shape; teapot spout physics; spirit-level alternative.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "JS-FE"
-   ],
-   "materials": [
-    "clear tubing",
-    "funnel shapes/bottles",
-    "stand"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Explain with P=ρgh why the levels must match, including for two different-width arms.",
-   "n": 162,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-162-communicating-vessels.md"
-  },
-  {
-   "slug": "water-level-tool",
-   "title": "Build: The Hose Water Level (Fundi's Tool)",
-   "focus": "Clear tube + water makes a long-distance level; mark two posts at identical height across a slope; test against a spirit level.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "JS-FE"
-   ],
-   "materials": [
-    "clear tube 5-10 m",
-    "water",
-    "two posts",
-    "markers"
-   ],
-   "hands_on": true,
-   "project": "water-level",
-   "advanced": "Why must there be no air bubble in the tube? Quantify the error a 5 cm bubble could cause.",
-   "n": 163,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-163-water-level-tool.md"
-  },
-  {
-   "slug": "manometer",
-   "title": "Build: The U-Tube Manometer",
-   "focus": "Bend tubing into a U; water levels measure small pressures; measure lung pressure by gentle blowing; read mm of water.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "clear tube",
-    "board",
-    "ruler",
-    "water",
-    "mouthpiece"
-   ],
-   "hands_on": true,
-   "project": "manometer",
-   "advanced": "Convert a 300 mm water difference into pascals using P=ρgh.",
-   "n": 164,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-164-manometer.md"
-  },
-  {
-   "slug": "atmospheric-pressure-exists",
-   "title": "Air Has Weight: Atmospheric Pressure Exists",
-   "focus": "Teacher demo: crush a tin with steam + cold water; rubber suckers stick; air presses ~100 kPa at sea level.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "tin with cap",
-    "heat source",
-    "cold water",
-    "rubber sucker"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Atmospheric pressure ≈ 101 kPa: force on a 10 cm² tin lid? Why aren't we crushed?",
-   "n": 165,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-165-atmospheric-pressure-exists.md"
-  },
-  {
-   "slug": "atmospheric-pressure-effects",
-   "title": "Using Air Pressure: Straws, Syringes and Suckers",
-   "focus": "Drinking through a straw is the atmosphere pushing; syringe filling; hook suckers; 'suction' is a myth — pressure difference is real.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "JS-FE"
-   ],
-   "materials": [
-    "straws",
-    "syringe",
-    "sucker hooks",
-    "bottles"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Explain the maximum straw-lift height from P=ρgh with atmospheric pressure (≈10 m of water).",
-   "n": 166,
-   "unit_slug": "pressure-fluids-at-rest",
-   "unit_title": "Pressure & Fluids at Rest",
-   "unit": 7,
-   "filename": "lessons/unit-07-pressure-fluids-at-rest/lesson-166-atmospheric-pressure-effects.md"
-  }
- ]
-}
+BATCH 14 — Unit 5: Work, Energy & Power
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-05-work-energy-power/lesson-107-energy-transformations-2.md | 107 | Energy Transformations II: The Jiko and the Body | G10-PHY-1.6;G10-PHY-4.1 | no | - | jiko (unlit, for anatomy); charcoal; food examples | Charcoal chemical→heat→cooking; body food→motion+heat; efficiency preview (some energy always 'escapes'). | A jiko uses 2 kg charcoal (≈30 MJ/kg) to deliver 6 MJ of cooking heat: compute efficiency.
+lessons/unit-05-work-energy-power/lesson-108-conservation-energy.md | 108 | Conservation of Energy: Nothing Lost, Everything Moved | G10-PHY-1.6 | no | - | pendulum; chalk marks | Pendulum returns to same height (minus a little); energy bookkeeping; where the 'lost' bit goes (heat, sound). | A 2 kg ball falls 5 m into a sand pit: account for all 100 J of energy at the end.
+lessons/unit-05-work-energy-power/lesson-109-where-energy-goes.md | 109 | Where Does the Energy 'Go'? Friction and Heat | G10-PHY-1.6;JS-FE | no | - | wire for bending; bicycle brake | Rub palms, feel brake blocks, bent wire heats; friction converts ordered motion to heat; lubrication saves energy. | A 60 kg student climbs 4 m of stairs (2400 J) but burns ~8000 J of food: explain the gap.
+lessons/unit-05-work-energy-power/lesson-110-measuring-your-power.md | 110 | Measuring Your Own Power | G10-PHY-1.6;JS-FE | yes | - | stairs; tape; scale; stopwatch | Timed stair climb with known mass and height: P = mgh/t in watts; compare classmates; compare to a 60 W bulb. | 50 kg student, 3 m stairs, 6 s: compute power; how long could a human power a 100 W TV?

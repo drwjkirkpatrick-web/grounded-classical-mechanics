@@ -1,192 +1,29 @@
-{
- "batch": 35,
- "unit": 16,
- "unit_title": "Capstone, Review & Community Science",
- "unit_slug": "capstone-review",
- "n_lessons": 9,
- "lessons": [
-  {
-   "slug": "practical-skills-review",
-   "title": "Practical Skills Review: Plan a Fair Test in 20 Minutes",
-   "focus": "Given a mystery question ('does blade angle matter?'), plan: variables, method, table, safety, expected graph.",
-   "cbe": [
-    "G10-PHY-1.1",
-    "JS-FE"
-   ],
-   "materials": [
-    "planning templates"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Add the analysis plan: graph choice, gradient meaning, uncertainty statement.",
-   "n": 357,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-357-practical-skills-review.md"
-  },
-  {
-   "slug": "capstone-brief",
-   "title": "Capstone I: Choose the Challenge",
-   "focus": "Teams pick: windmill upgrade, pump/siphon system, bridge-plus, instrument ensemble, or an approved new idea; write the brief and roles.",
-   "cbe": [
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "brief templates",
-    "project menu"
-   ],
-   "hands_on": true,
-   "project": "capstone",
-   "advanced": "Include measurable success criteria and a test plan in the brief.",
-   "n": 358,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-358-capstone-brief.md"
-  },
-  {
-   "slug": "capstone-build-1",
-   "title": "Capstone II: Prototype",
-   "focus": "Gather materials, prototype the risky part first; teacher check-ins against the brief.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.3"
-   ],
-   "materials": [
-    "per team"
-   ],
-   "hands_on": true,
-   "project": "capstone",
-   "advanced": "Log the riskiest assumption and the prototype result that retired it.",
-   "n": 359,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-359-capstone-build-1.md"
-  },
-  {
-   "slug": "capstone-build-2",
-   "title": "Capstone III: Build and Test",
-   "focus": "Full build; data collection plan executed; first failures documented honestly.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "per team"
-   ],
-   "hands_on": true,
-   "project": "capstone",
-   "advanced": "Mid-build report: what the data says vs the brief; the pivot you made and why.",
-   "n": 360,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-360-capstone-build-2.md"
-  },
-  {
-   "slug": "capstone-build-3",
-   "title": "Capstone IV: Iterate and Document",
-   "focus": "One measured improvement cycle; finish documentation with diagrams and data tables.",
-   "cbe": [
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "per team",
-    "cameras/notebooks"
-   ],
-   "hands_on": true,
-   "project": "capstone",
-   "advanced": "Final numbers: performance, efficiency, cost, and a realistic maintenance plan.",
-   "n": 361,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-361-capstone-build-3.md"
-  },
-  {
-   "slug": "capstone-polish",
-   "title": "Capstone V: Poster and Rehearsal",
-   "focus": "Poster with problem, physics, data, result; rehearse the 3-minute demo; peer feedback round.",
-   "cbe": [
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "poster paper",
-    "markers"
-   ],
-   "hands_on": true,
-   "project": "capstone",
-   "advanced": "Prepare the two hardest audience questions for your project and the answers.",
-   "n": 362,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-362-capstone-polish.md"
-  },
-  {
-   "slug": "community-science-day",
-   "title": "Community Science Day",
-   "focus": "Parents, fundis and leaders invited; teams run stations of the year's builds; capstones premiered; guest feedback cards.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-4.1"
-   ],
-   "materials": [
-    "all year builds",
-    "feedback cards"
-   ],
-   "hands_on": true,
-   "project": "science-day",
-   "advanced": "Collect and summarize guest feedback quantitatively (ratings tally) for the class report.",
-   "n": 363,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-363-community-science-day.md"
-  },
-  {
-   "slug": "reflection-portfolio",
-   "title": "Reflection and Portfolio",
-   "focus": "Each learner compiles best pre/post tests, graphs and build photos; writes 'what I can now do' against CBE outcomes.",
-   "cbe": [
-    "G10-PHY-1.1",
-    "JS-FE"
-   ],
-   "materials": [
-    "portfolios",
-    "year files"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Self-assess against ten key outcomes with evidence citations from your portfolio.",
-   "n": 364,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-364-reflection-portfolio.md"
-  },
-  {
-   "slug": "celebration-next-year",
-   "title": "Celebration and Next Year's Teaser",
-   "focus": "Certificates; dynamo and solar teasers for Electricity & Magnetism next year; the class physics pledge.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-3.1"
-   ],
-   "materials": [
-    "dynamo demo",
-    "certificates"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Preview problem: the windmill spins a dynamo — sketch the full energy chain to a lit bulb with efficiencies.",
-   "n": 365,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-365-celebration-next-year.md"
-  }
- ]
-}
+BATCH 35 — Unit 8: Fluids in Motion, Siphons & Pumps
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-08-fluids-in-motion-pumps/lesson-189-spinning-balls.md | 189 | Curve Balls: The Magnus Effect | G10-PHY-1.2;JS-FE | yes | - | football; empty bottle; open ground | Football free kicks bend; throw a bottle with spin and watch it drift; spin drags air and makes a pressure difference. | Explain top-spin vs back-spin effects on flight using pressure differences.
+lessons/unit-08-fluids-in-motion-pumps/lesson-190-pumps-overview.md | 190 | Pumps: Moving Water Against Gravity | G10-PHY-1.2;G10-PHY-1.6 | no | - | pump photos/cards; map | Survey: hand pumps, diesel pumps, electric pumps, solar pumps across Kenya; what all pumps share (a moving seal). | Rank hand, diesel and solar pumps for a 20-family village by lifetime cost and reliability; defend with assumptions.
+lessons/unit-08-fluids-in-motion-pumps/lesson-191-lift-pumps.md | 191 | Lift Pumps: The Afridev and the 10-Metre Limit | G10-PHY-1.2 | yes | - | pump diagram; syringe; tube; water | Hand pump anatomy: piston, valves, the atmosphere does the lifting; why suction fails beyond ~10 m. | Derive the max suction lift from P=ρgh with atmospheric pressure; why is practical lift only ~7 m?
+lessons/unit-08-fluids-in-motion-pumps/lesson-192-force-pumps.md | 192 | Force Pumps: Pushing Water Upward | G10-PHY-1.2 | no | - | bicycle pump; valve demo; diagrams | Force pump pushes water above the pump itself; bicycle pump as air force-pump; pressure washer idea. | Compare lift vs force pump for raising water 25 m from a deep well: which and why?

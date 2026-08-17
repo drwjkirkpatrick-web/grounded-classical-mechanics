@@ -1,0 +1,29 @@
+BATCH 38 — Unit 8: Fluids in Motion, Siphons & Pumps
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-08-fluids-in-motion-pumps/lesson-201-ram-pump-intro.md | 201 | The Hydraulic Ram: Water That Pumps Itself | G10-PHY-1.2;G10-PHY-1.6 | yes | - | hose; quick-closing valve or hand; basin | Water hammer: stop a flowing column suddenly and pressure spikes; ram pumps lift a fraction high using only falling water; Kenyan hillside sites. | Explain the ram cycle (waste valve, delivery valve, air chamber) as momentum becoming pressure.
+lessons/unit-08-fluids-in-motion-pumps/lesson-202-ram-pump-model-1.md | 202 | Teacher-Led Build: A Mini Ram Pump I | G10-PHY-1.2 | yes | ram-pump | bottles; valves from earlier builds; tube; stand | Bottle air-chamber + two flap valves + drive pipe; teacher-led assembly of a demonstration ram. | Compute the drive head and delivery head of your rig; estimate the efficiency fraction Q·H/(q·h).
+lessons/unit-08-fluids-in-motion-pumps/lesson-203-ram-pump-model-2.md | 203 | Teacher-Led Build: A Mini Ram Pump II — Tuning | G10-PHY-1.2 | yes | ram-pump | ram rig; weights; measuring jar | Tune waste-valve weight and air chamber; measure delivery per minute; discuss real installations (AidFoundation/ram pump groups). | Why does the air chamber smooth the delivery flow? Quantify with your pulsation count before/after.
+lessons/unit-08-fluids-in-motion-pumps/lesson-204-irrigation-physics.md | 204 | Irrigation Physics: Drip, Furrow and Sprinkler | G10-PHY-1.2;G10-PHY-4.1 | yes | - | jerrican; drip line or pin-holed tube; garden bed | Drip needs little pressure, sprinkler lots; gravity drip kits from a raised jerrican; water budgeting for dry seasons. | A bed needs 5 mm of water on 4 m² daily: compute litres/day and the drip-line hours at your measured rate.

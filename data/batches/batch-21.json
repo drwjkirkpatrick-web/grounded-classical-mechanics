@@ -1,195 +1,29 @@
-{
- "batch": 21,
- "unit": 10,
- "unit_title": "Circular & Rotational Motion",
- "unit_slug": "circular-rotational-motion",
- "n_lessons": 9,
- "lessons": [
-  {
-   "slug": "motion-in-circles",
-   "title": "Motion in Circles: Everywhere You Look",
-   "focus": "Wheels, mills, merry-go-rounds, fans, steering; distinguish rotation (spinning) from revolution (orbiting).",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "bicycle wheel",
-    "fidget spinner or top"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Give three Kenyan machines using each: rotation about a fixed axle vs revolution around an external centre.",
-   "n": 225,
-   "unit_slug": "circular-rotational-motion",
-   "unit_title": "Circular & Rotational Motion",
-   "unit": 10,
-   "filename": "lessons/unit-10-circular-rotational-motion/lesson-225-motion-in-circles.md"
-  },
-  {
-   "slug": "what-keeps-circling",
-   "title": "What Keeps It Circling? The Inward Pull",
-   "focus": "Swing a soft ball on a string; cut the string mentally: ball flies off tangent; centripetal force is a requirement, not a new force.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "string",
-    "soft ball",
-    "open space"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "A 0.5 kg ball at 3 m/s on a 1 m string: compute the centripetal force (F=mv²/r) and compare with its weight.",
-   "n": 226,
-   "unit_slug": "circular-rotational-motion",
-   "unit_title": "Circular & Rotational Motion",
-   "unit": 10,
-   "filename": "lessons/unit-10-circular-rotational-motion/lesson-226-what-keeps-circling.md"
-  },
-  {
-   "slug": "centripetal-sources",
-   "title": "Sources of Centripetal Force",
-   "focus": "String tension, tyre friction in cornering, gravity for the Moon, banked-track normal force; identify the provider in five cases.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "case cards"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Boda cornering at 10 m/s on radius 15 m: required friction force for 150 kg total; what happens on wet murram?",
-   "n": 227,
-   "unit_slug": "circular-rotational-motion",
-   "unit_title": "Circular & Rotational Motion",
-   "unit": 10,
-   "filename": "lessons/unit-10-circular-rotational-motion/lesson-227-centripetal-sources.md"
-  },
-  {
-   "slug": "bucket-of-water",
-   "title": "The Bucket of Water Overhead",
-   "focus": "Teacher-led swing of a small water bucket overhead; why the water stays in; speed threshold felt at the shoulder.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "small bucket",
-    "rope",
-    "water",
-    "outdoors"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Minimum speed at the top: set centripetal acceleration ≥ g; compute v_min for a 1 m arm.",
-   "n": 228,
-   "unit_slug": "circular-rotational-motion",
-   "unit_title": "Circular & Rotational Motion",
-   "unit": 10,
-   "filename": "lessons/unit-10-circular-rotational-motion/lesson-228-bucket-of-water.md"
-  },
-  {
-   "slug": "speed-in-circles",
-   "title": "Speed Around the Circle: v = 2πr/T",
-   "focus": "Measure a merry-go-round or spinning wheel: count rotations, time them, compute rim speed.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "playground roundabout or wheel",
-    "stopwatch",
-    "tape"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Rim at 1.2 m radius turns once per 2.5 s: rim speed and centripetal acceleration (a=v²/r).",
-   "n": 229,
-   "unit_slug": "circular-rotational-motion",
-   "unit_title": "Circular & Rotational Motion",
-   "unit": 10,
-   "filename": "lessons/unit-10-circular-rotational-motion/lesson-229-speed-in-circles.md"
-  },
-  {
-   "slug": "sliding-outward-myth",
-   "title": "Why You Feel Flung Outward",
-   "focus": "Inertia carries you straight while the vehicle turns; 'centrifugal force' as a felt effect; soap in the spinning basin demo.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "basin",
-    "water",
-    "rag"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Explain the sliding-passenger sensation from the ground frame without inventing a new force.",
-   "n": 230,
-   "unit_slug": "circular-rotational-motion",
-   "unit_title": "Circular & Rotational Motion",
-   "unit": 10,
-   "filename": "lessons/unit-10-circular-rotational-motion/lesson-230-sliding-outward-myth.md"
-  },
-  {
-   "slug": "leaning-and-banking",
-   "title": "Leaning Bodas and Banked Corners",
-   "focus": "Riders lean into corners; banked velodromes and railway curves; lean angle relates speed and radius.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "bicycle (slow, safe demo)",
-    "photos of banked tracks"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "tanθ = v²/(rg): compute the lean angle for 8 m/s on a 10 m radius corner.",
-   "n": 231,
-   "unit_slug": "circular-rotational-motion",
-   "unit_title": "Circular & Rotational Motion",
-   "unit": 10,
-   "filename": "lessons/unit-10-circular-rotational-motion/lesson-231-leaning-and-banking.md"
-  },
-  {
-   "slug": "the-sling",
-   "title": "The Herder's Sling: Release at the Right Moment",
-   "focus": "Whirl a sling with a soft clay ball; release timing controls direction; safety protocols in an open field.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "sling (cloth + cords)",
-    "clay balls",
-    "open field"
-   ],
-   "hands_on": true,
-   "project": "sling-range",
-   "advanced": "Release at height 1.5 m, speed 15 m/s horizontal: compute range and explain the best release point in the circle.",
-   "n": 232,
-   "unit_slug": "circular-rotational-motion",
-   "unit_title": "Circular & Rotational Motion",
-   "unit": 10,
-   "filename": "lessons/unit-10-circular-rotational-motion/lesson-232-the-sling.md"
-  },
-  {
-   "slug": "grinding-and-milling",
-   "title": "Grinding and Milling: Rotation at Work",
-   "focus": "Kinu grinding stone, posho mill burrs; big slow wheels grind with torque; visit or diagram a posho mill's drivetrain.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "JS-FE"
-   ],
-   "materials": [
-    "grinding stone",
-    "posho mill diagrams"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Mill burr at 20 cm radius, 600 rpm: compute rim speed; why is high rim speed good for grinding?",
-   "n": 233,
-   "unit_slug": "circular-rotational-motion",
-   "unit_title": "Circular & Rotational Motion",
-   "unit": 10,
-   "filename": "lessons/unit-10-circular-rotational-motion/lesson-233-grinding-and-milling.md"
-  }
- ]
-}
+BATCH 21 — Unit 6: Simple Machines
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-06-simple-machines/lesson-133-body-levers.md | 133 | Levers in the Human Body | G10-PHY-1.5;JS-FE | no | - | diagram cards; backpack | Neck (class 1), calf raise (class 2), biceps (class 3); posture and load; why lifting with bent back hurts. | Head mass 5 kg tilted 30° shifts its line of action: explain the extra neck moment and 'text neck' fatigue.
+lessons/unit-06-simple-machines/lesson-134-head-portering.md | 134 | Carrying Loads: The Physics of Head Portering | G10-PHY-1.5;G10-PHY-1.6 | yes | - | kiondo or bag; strap; water load | Head carrying aligns load over spine; tump lines on foreheads; kiondo straps; energy studies show head loads are efficient. | Compare carrying 20 kg on head vs one shoulder: draw force lines and predict muscle effort differences.
+lessons/unit-06-simple-machines/lesson-135-build-weighing-beam.md | 135 | Build: A Graduated Weighing Beam I | G10-PHY-1.5;G10-PHY-1.1 | yes | beam-balance | straight stick; string; pan; sliding stone; jerrican; marker | Make a steelyard-style beam: fixed pan, sliding stone weight, notches calibrated with water (100 g = 100 mL). | Explain the sliding-weight principle with moments; why are the notches evenly spaced?
+lessons/unit-06-simple-machines/lesson-136-test-weighing-beam.md | 136 | Build: A Graduated Weighing Beam II — Test and Certify | G10-PHY-1.5;G10-PHY-1.1 | yes | beam-balance | beam; known masses (sugar packet, water); chart | Weigh five known items, plot error, adjust notches; 'certify' the beam with a class stamp. | Beam reads 5% high at 1 kg but exact at 500 g: diagnose a systematic cause and fix it.

@@ -1,0 +1,29 @@
+BATCH 78 — Unit 16: Capstone, Review & Community Science
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-16-capstone-review/lesson-353-drill-pressure-fluids.md | 353 | Core Drill IV: Pressure, Fluids and Buoyancy | G10-PHY-1.2 | no | - | station kit | P=F/A, P=ρgh, siphon reasoning, Archimedes cases; lab-practical style stations. | Design-question: lift 100 kg with a hydraulic jack — specify plunger areas and strokes.
+lessons/unit-16-capstone-review/lesson-354-drill-circles-oscillations-momentum.md | 354 | Core Drill V: Circles, Oscillations and Momentum | JS-FE;G10-PHY-2.1 | no | - | mini boards | v=2πr/T, pendulum T=2π√(L/g), p=mv collisions; mini-whiteboard showdown. | Cart 2 kg at 3 m/s catches a 1 kg cart at rest (sticky): final speed and KE accounting.
+lessons/unit-16-capstone-review/lesson-355-drill-materials-wind-sound.md | 355 | Core Drill VI: Materials, Wind/Water and Sound | G10-PHY-1.3;G10-PHY-2.1 | no | - | year data logs; problem sets | Hooke's law, structures, windmill data, v=fλ; practical data questions from the year's own logs. | From the windmill log, estimate annual water delivered; state assumptions and uncertainty.
+lessons/unit-16-capstone-review/lesson-356-exam-skills.md | 356 | Exam Skills: Reading CBE-Style Questions | G10-PHY-1.1 | no | - | sample papers; marking schemes | Command words (state, explain, calculate, justify); structured answers; time budgeting; common traps. | Mark two sample answers with the official-style scheme; write the feedback.

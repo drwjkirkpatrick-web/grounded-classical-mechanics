@@ -1,179 +1,29 @@
-{
- "batch": 25,
- "unit": 12,
- "unit_title": "Momentum & Collisions",
- "unit_slug": "momentum-collisions",
- "n_lessons": 8,
- "lessons": [
-  {
-   "slug": "mass-in-motion",
-   "title": "Mass in Motion: Introducing Momentum",
-   "focus": "p = mv; which is harder to stop: fast football or slow rolling debe? Stopping stories build the idea.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "football",
-    "debe",
-    "open ground"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Compare p for a 0.45 kg ball at 25 m/s vs a 15 kg debe at 1 m/s; stopping distance implications.",
-   "n": 261,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-261-mass-in-motion.md"
-  },
-  {
-   "slug": "why-momentum-matters",
-   "title": "Why Momentum Matters on the Road",
-   "focus": "Boda braking distance grows with load and speed; overloaded pickups; momentum as 'quantity of motion'.",
-   "cbe": [
-    "JS-FE",
-    "UP-FE"
-   ],
-   "materials": [
-    "photos/cards",
-    "toy car"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Doubling speed doubles p but quadruples KE: which governs braking distance and which crash violence? Discuss.",
-   "n": 262,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-262-why-momentum-matters.md"
-  },
-  {
-   "slug": "impulse",
-   "title": "Impulse: The Egg-Catching Secret",
-   "focus": "Δp = F×t; soft hands extend time and reduce force; landing with bent knees; gym mats and sand pits.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "eggs (or clay eggs)",
-    "cloth",
-    "hard surface"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "60 g egg at 6 m/s stopped in 0.5 s (cloth) vs 0.02 s (floor): compute both forces and the verdict.",
-   "n": 263,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-263-impulse.md"
-  },
-  {
-   "slug": "follow-through-sport",
-   "title": "Follow-Through: Impulse in Sport",
-   "focus": "Long contact adds impulse: javelin run-up, football kick follow-through, jembe swing; analyze slow-motion descriptions.",
-   "cbe": [
-    "JS-FE",
-    "UP-FE"
-   ],
-   "materials": [
-    "ball",
-    "javelin/stick",
-    "space"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Estimate: javelin 0.8 kg accelerated over 1.2 s of contact to 25 m/s: average force?",
-   "n": 264,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-264-follow-through-sport.md"
-  },
-  {
-   "slug": "elastic-collisions",
-   "title": "Collisions That Bounce",
-   "focus": "Marbles and bottle tops on a smooth board; equal masses 'swap speeds'; line-of-centres idea.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "marbles/bottle tops",
-    "smooth board",
-    "rulers as rails"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Equal-mass head-on collision: prove speed-swap from conservation of p and KE together.",
-   "n": 265,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-265-elastic-collisions.md"
-  },
-  {
-   "slug": "inelastic-collisions",
-   "title": "Collisions That Stick",
-   "focus": "Clay lumps collide and move on together; momentum conserved, KE not; where the KE went (deformation heat).",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "clay",
-    "board",
-    "toy cars with clay"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "2 kg clay at 3 m/s hits stationary 1 kg and sticks: final speed and the KE lost — account for it.",
-   "n": 266,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-266-inelastic-collisions.md"
-  },
-  {
-   "slug": "conservation-momentum",
-   "title": "Conservation of Momentum",
-   "focus": "Two trolleys spring apart: equal and opposite momenta from rest; measure masses and speeds to check.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "two trolleys/toy cars",
-    "spring or rubber",
-    "masses",
-    "stopwatch"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "3 kg cart moves off at 0.5 m/s as a 2 kg cart recoils at 0.75 m/s: verify conservation numerically.",
-   "n": 267,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-267-conservation-momentum.md"
-  },
-  {
-   "slug": "safe-explosions",
-   "title": "Safe 'Explosions': Springs and Balloons",
-   "focus": "Balloon release propels a bottle boat; spring-apart carts; internal forces only redistribute momentum.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "balloons",
-    "bottle boat",
-    "carts"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Balloon 50 g ejects air backward: explain the boat's forward p with momentum bookkeeping.",
-   "n": 268,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-268-safe-explosions.md"
-  }
- ]
-}
+BATCH 25 — Unit 6: Simple Machines
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-06-simple-machines/lesson-149-bicycle-machines-1.md | 149 | The Bicycle: A Machine Made of Machines I | G10-PHY-1.6;JS-FE | yes | bicycle-study | bicycle; label tags; notebook | Identify lever (pedals, brakes), wheel-axle, gears, chain drive, bearings, screws on a real boda bicycle. | Trace the force path from foot to road, naming every machine and its MA contribution.
+lessons/unit-06-simple-machines/lesson-150-bicycle-machines-2.md | 150 | The Bicycle II: Measuring Its Advantages | G10-PHY-1.6;G10-PHY-1.5 | yes | bicycle-study | bicycle; tape; chalk; calculator | Count gear teeth, measure pedal-arm and wheel radii, compute real ratios; brake lever MA; present findings. | Combine pedal lever (0.17 m), chainring/cog ratio and wheel radius into one force multiplication number.
+lessons/unit-06-simple-machines/lesson-151-treadle-sewing-machine.md | 151 | The Treadle Sewing Machine: Foot to Needle | G10-PHY-1.6;JS-FE | no | - | treadle machine (or detailed diagram); thread | Treadle (lever) → crank → flywheel (rotation smoothed) → belt → needle; energy storage in the flywheel. | Explain how the flywheel's stored energy carries the mechanism past the 'dead spots' of each stitch cycle.
+lessons/unit-06-simple-machines/lesson-152-compound-machine-design.md | 152 | Design Challenge: A Machine for Our Village I | G10-PHY-1.6;G10-PHY-1.5 | yes | machine-design | design sheets; pencils; rulers | Teams choose a real task (lifting water, shelling maize, pressing tiles); sketch using ≥3 simple machines; peer review. | Estimate the combined MA and efficiency of your design from component values.

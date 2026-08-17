@@ -1,0 +1,29 @@
+BATCH 43 — Unit 9: Buoyancy & Floating
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-09-buoyancy-floating/lesson-219-rafts-ferries.md | 219 | Rafts, Canoes and Ferries of Kenya | G10-PHY-1.2;UP-FE | no | - | photos/cards; raft model sticks | Banana-stem and ambatch rafts, dugout canoes on Lake Victoria, ferries at Likoni; buoyancy calculations for safe loading. | Raft of 10 logs, each 40 L displacement, total mass 150 kg: safe passenger load in kg?
+lessons/unit-09-buoyancy-floating/lesson-220-life-jackets-safety.md | 220 | Life Jackets and Water Safety | G10-PHY-1.2;UP-FE | no | - | life jacket or foam; basin | How a life jacket adds buoyancy without adding weight; cold water and panic; community water-safety campaign design. | A 70 kg person (body density ≈ 1.02) needs how much extra displaced volume to float face-up? Show working.
+lessons/unit-09-buoyancy-floating/lesson-221-plimsoll-lines.md | 221 | Plimsoll Lines: Loading Marks on Ships | G10-PHY-1.2 | yes | - | clay boat; marker; salt; basin | Load lines for fresh vs salt water; mark your clay boat's Plimsoll line; overloading tragedies discussion. | A ship moves from sea (1.025) to fresh water (1.000): by what percentage does displaced volume change?
+lessons/unit-09-buoyancy-floating/lesson-222-hot-air-teaser.md | 222 | Hot Air Rises: Buoyancy in Gases | G10-PHY-1.2;G10-PHY-1.4 | no | - | tissue balloon (teacher); candle (teacher); smoke source | Smoke rises; teacher demo tissue hot-air balloon; air has density too; bridge to thermal physics (Unit on temperature in CBE 1.4). | Hot air at 0.9 kg/m³ in a 1 m³ balloon, outside 1.2: net lift force in newtons; payload in grams.

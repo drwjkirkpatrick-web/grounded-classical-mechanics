@@ -1,178 +1,29 @@
-{
- "batch": 26,
- "unit": 12,
- "unit_title": "Momentum & Collisions",
- "unit_slug": "momentum-collisions",
- "n_lessons": 8,
- "lessons": [
-  {
-   "slug": "recoil",
-   "title": "Recoil: Stepping Off the Dugout",
-   "focus": "Step off a low-friction plank on rollers and it slides back; canoe push-offs; firefighter hose kickback stories.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "plank",
-    "round-stick rollers",
-    "open floor"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "60 kg student steps off at 2 m/s from a 20 kg plank: plank recoil speed?",
-   "n": 269,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-269-recoil.md"
-  },
-  {
-   "slug": "rockets-momentum",
-   "title": "Rockets Are Momentum Machines",
-   "focus": "Revisit the Unit 4 water rocket: mass out the back, rocket forward; why staged pumps beat single blasts.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "water rocket (from unit 4)",
-    "launcher"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Estimate thrust: 0.5 L expelled in 0.15 s at 20 m/s — average force and peak acceleration of a 0.3 kg rocket.",
-   "n": 270,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-270-rockets-momentum.md"
-  },
-  {
-   "slug": "crumple-cushion",
-   "title": "Crumple Zones and Cushions",
-   "focus": "Egg on foam vs floor revisited with numbers; crumple zones extend collision time; helmet foam anatomy.",
-   "cbe": [
-    "JS-FE",
-    "UP-FE"
-   ],
-   "materials": [
-    "eggs/clay",
-    "foam/grass",
-    "hard floor",
-    "helmet (if available)"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Design spec: keep head force under 300 N for a 3 m fall onto a helmet liner — estimate needed crush distance.",
-   "n": 271,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-271-crumple-cushion.md"
-  },
-  {
-   "slug": "boda-safety-campaign",
-   "title": "Project: Boda Safety Physics Campaign",
-   "focus": "Turn impulse, braking and momentum data into posters for the local boda stage; peer-test the messages.",
-   "cbe": [
-    "JS-FE",
-    "UP-FE"
-   ],
-   "materials": [
-    "poster paper",
-    "markers",
-    "collected class data"
-   ],
-   "hands_on": true,
-   "project": "safety-poster",
-   "advanced": "Include one quantitative panel: compute a braking distance at 40 vs 60 km/h with realistic deceleration.",
-   "n": 272,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-272-boda-safety-campaign.md"
-  },
-  {
-   "slug": "carrom-marbles",
-   "title": "Momentum Games: Carrom and Marbles Tourney",
-   "focus": "Angles and speed transfer in carrom breaks and marbles; predict rebounds; run a scored mini-tournament.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "carrom board or chalk court",
-    "marbles/tops"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Analyze a glancing collision: momentum as vectors; why does the striker deflect rather than stop?",
-   "n": 273,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-273-carrom-marbles.md"
-  },
-  {
-   "slug": "newtons-cradle-build",
-   "title": "Build: A Bottle-Top Newton's Cradle",
-   "focus": "Five nuts/tops on V-strings in a frame; tune contact for clean transfers; one swings in, one swings out.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "nuts/tops",
-    "string",
-    "wooden frame",
-    "glue/knots"
-   ],
-   "hands_on": true,
-   "project": "newtons-cradle",
-   "advanced": "Explain why two-in produces two-out using both conservation laws, not momentum alone.",
-   "n": 274,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-274-newtons-cradle-build.md"
-  },
-  {
-   "slug": "momentum-in-water",
-   "title": "Momentum in Water and Air",
-   "focus": "Hose jet pushes back; river bends erode the outside bank; fanning air moves paper; fluid momentum in daily life.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "hose",
-    "paper",
-    "basin"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Hose delivers 0.5 kg/s at 4 m/s: compute the reaction force on the holder's hands.",
-   "n": 275,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-275-momentum-in-water.md"
-  },
-  {
-   "slug": "collision-lab-review",
-   "title": "Unit Review: Collision Lab Day",
-   "focus": "Stations: marble swaps, clay sticks, cradle demo, impulse egg test; unit quiz.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "all unit 12 kit"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Open-ended: design an experiment to verify conservation of momentum with only a ruler, stopwatch and two carts.",
-   "n": 276,
-   "unit_slug": "momentum-collisions",
-   "unit_title": "Momentum & Collisions",
-   "unit": 12,
-   "filename": "lessons/unit-12-momentum-collisions/lesson-276-collision-lab-review.md"
-  }
- ]
-}
+BATCH 26 — Unit 6: Simple Machines
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-06-simple-machines/lesson-153-compound-machine-build.md | 153 | Design Challenge II: Build and Demonstrate | G10-PHY-1.6 | yes | machine-design | scrap wood; wire; spools; rope; tools | Build the chosen machine from jua kali scrap and school materials; demonstrate lifting/moving a real load. | Measure actual MA with a spring balance; compare with design prediction and explain the gap.
+lessons/unit-06-simple-machines/lesson-154-friction-efficiency-machines.md | 154 | Why Machines Waste Energy | G10-PHY-1.6 | no | - | unit's built machines; oil; spring balance | Friction in axles and ropes; efficiency measured across the unit's builds; lubrication and alignment as cures. | Rank the class builds by efficiency and propose one modification each that raises η by ≥10%.
+lessons/unit-06-simple-machines/lesson-155-machine-maintenance.md | 155 | Maintenance Matters: Oiling, Tightening, Aligning | G10-PHY-1.6;UP-FE | yes | - | bicycle; oil; spanners | Boda service schedule as physics: chain lube, brake pads, bearing play; write a maintenance card for a class build. | Quantify: a dry chain wastes ~5% of pedal energy — how many extra food kJ per 10 km ride?
+lessons/unit-06-simple-machines/lesson-156-machine-fair-review.md | 156 | Unit Review: Machine Fair | G10-PHY-1.6;G10-PHY-1.5 | no | - | all builds; sign cards | Every build on show with student explainers; visitors operate each; unit quiz. | Prepare a 2-minute explainer for one machine: include MA, VR, efficiency and one safety rule.

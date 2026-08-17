@@ -1,0 +1,29 @@
+BATCH 40 — Unit 9: Buoyancy & Floating
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-09-buoyancy-floating/lesson-207-sink-or-float-game.md | 207 | Sink or Float? The Prediction Game | UP-FE;JS-FE | yes | - | basin; object set; prediction sheets | Predict then test twenty local objects (nail, coin, maize cob, charcoal, bottle top, mango seed, stone, leaf, wax, wire); tabulate surprises. | From the class table, state the rule that beats 'heavy things sink' with three counter-examples.
+lessons/unit-09-buoyancy-floating/lesson-208-density-rules-floating.md | 208 | Density Decides: Wood, Stone and Steel | G10-PHY-1.2;JS-FE | yes | - | nail; sufuria; wood; stone; basin | Average density vs water (1000 kg/m³) predicts floating; the steel nail sinks but the steel sufuria floats — shape matters. | A hollow steel ball's average density is 600 kg/m³: what fraction of its volume is air?
+lessons/unit-09-buoyancy-floating/lesson-209-upthrust.md | 209 | Upthrust: Water Pushes Back | G10-PHY-1.2 | yes | - | spring balance; stone; string; basin | Weigh a stone in air, then in water: apparent weight drops; upthrust measured with a spring balance. | Stone: 2.5 N in air, 1.5 N in water: upthrust, displaced water weight, and the stone's volume.
+lessons/unit-09-buoyancy-floating/lesson-210-archimedes-principle.md | 210 | Archimedes' Principle | G10-PHY-1.2 | yes | - | eureka can (unit 1 build); balance; stone; water | Upthrust equals weight of displaced fluid; verify by collecting overflow from the eureka can and weighing it. | Show a floating object's displaced weight equals its own weight — derive the floating condition.

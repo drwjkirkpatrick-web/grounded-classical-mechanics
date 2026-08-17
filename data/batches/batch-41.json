@@ -1,0 +1,29 @@
+BATCH 41 — Unit 9: Buoyancy & Floating
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-09-buoyancy-floating/lesson-211-eureka-can-lab.md | 211 | The Eureka Can Lab: Volume by Overflow | G10-PHY-1.2;G10-PHY-1.1 | yes | - | eureka can; measuring jar; objects | Measure irregular volumes precisely by overflow; link displacement to Unit 1 density measurements. | An object displaces 120 mL and weighs 3.0 N in air: density, and will it float?
+lessons/unit-09-buoyancy-floating/lesson-212-why-ships-float.md | 212 | Why Ships Float: Shape Beats Material | G10-PHY-1.2;JS-FE | yes | - | clay; basin; photos of dhows/ferries | Same clay ball sinks, same clay as a bowl floats; average density includes the hollow; dhow and ferry examples. | Compute the minimum hollow fraction for a steel hull (ρ=7800) to float; why do ships sink when swamped?
+lessons/unit-09-buoyancy-floating/lesson-213-clay-boat-1.md | 213 | Clay Boat Challenge I: Design for Cargo | G10-PHY-1.2;JS-FE | yes | clay-boat | clay; basin; bottle tops | Design a clay hull to carry bottle-top cargo; predict capacity from displaced volume. | Boat clay mass 200 g; hull displaces 800 cm³ at gunwale: maximum safe cargo in grams?
+lessons/unit-09-buoyancy-floating/lesson-214-clay-boat-2.md | 214 | Clay Boat Challenge II: Load Test and Stability | G10-PHY-1.2 | yes | clay-boat | boats; cargo tops; basin | Load to sinking; record capacity; stability: wide beams vs tall cargo; freeboard concept. | Explain via centre of gravity vs centre of buoyancy why top-heavy boats capsize.

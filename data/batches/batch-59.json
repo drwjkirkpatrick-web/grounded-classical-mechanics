@@ -1,0 +1,29 @@
+BATCH 59 — Unit 13: Elasticity, Materials & Structures
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-13-elasticity-materials-structures/lesson-277-materials-around-us.md | 277 | The Materials Around Us | G10-PHY-1.3;UP-FE | yes | - | material samples box | Survey: wood, steel, wire, sisal, mabati, clay, bamboo, PET bottles; match properties to uses in the school compound. | Build a properties matrix (strength, stiffness, weight, cost, rot) for five materials and one chosen use each.
+lessons/unit-13-elasticity-materials-structures/lesson-278-stretch-it.md | 278 | Stretch It: Elastic vs Plastic | G10-PHY-1.3;JS-FE | yes | - | rubber strip; plasticine; soft wire | Rubber returns, plasticine stays, wire does both in sequence; define elastic/plastic deformation with bends. | Sketch the force-extension curve for wire: label elastic region, yield point, plastic region, break.
+lessons/unit-13-elasticity-materials-structures/lesson-279-hookes-law.md | 279 | Hooke's Law: F = kx | G10-PHY-1.3 | yes | - | rubber strip/spring; bottles; water; ruler | Hang water-bottle weights on a rubber strip/spring; extension grows proportionally while in the elastic region; find k. | From your graph gradient, compute k in N/m; predict the extension for a 2.5 kg load and test it.
+lessons/unit-13-elasticity-materials-structures/lesson-280-spring-constant-lab.md | 280 | Spring Constant Lab: Calibrating Rubber | G10-PHY-1.3;G10-PHY-1.1 | yes | - | rubber strips; masses; rulers; graph paper | Measure k for three rubber strips; rubber stiffens at high stretch (non-Hookean tail); report honest ranges. | Quote k as a range with the valid force window; explain the tail using polymer chain alignment.

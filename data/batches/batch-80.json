@@ -1,0 +1,29 @@
+BATCH 80 — Unit 16: Capstone, Review & Community Science
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-16-capstone-review/lesson-361-capstone-build-3.md | 361 | Capstone IV: Iterate and Document | G10-PHY-1.6 | yes | capstone | per team; cameras/notebooks | One measured improvement cycle; finish documentation with diagrams and data tables. | Final numbers: performance, efficiency, cost, and a realistic maintenance plan.
+lessons/unit-16-capstone-review/lesson-362-capstone-polish.md | 362 | Capstone V: Poster and Rehearsal | G10-PHY-1.1 | yes | capstone | poster paper; markers | Poster with problem, physics, data, result; rehearse the 3-minute demo; peer feedback round. | Prepare the two hardest audience questions for your project and the answers.
+lessons/unit-16-capstone-review/lesson-363-community-science-day.md | 363 | Community Science Day | G10-PHY-1.6;G10-PHY-4.1 | yes | science-day | all year builds; feedback cards | Parents, fundis and leaders invited; teams run stations of the year's builds; capstones premiered; guest feedback cards. | Collect and summarize guest feedback quantitatively (ratings tally) for the class report.
+lessons/unit-16-capstone-review/lesson-364-reflection-portfolio.md | 364 | Reflection and Portfolio | G10-PHY-1.1;JS-FE | no | - | portfolios; year files | Each learner compiles best pre/post tests, graphs and build photos; writes 'what I can now do' against CBE outcomes. | Self-assess against ten key outcomes with evidence citations from your portfolio.

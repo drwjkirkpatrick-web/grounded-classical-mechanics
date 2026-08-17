@@ -1,0 +1,29 @@
+BATCH 45 — Unit 10: Circular & Rotational Motion
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-10-circular-rotational-motion/lesson-225-motion-in-circles.md | 225 | Motion in Circles: Everywhere You Look | JS-FE | no | - | bicycle wheel; fidget spinner or top | Wheels, mills, merry-go-rounds, fans, steering; distinguish rotation (spinning) from revolution (orbiting). | Give three Kenyan machines using each: rotation about a fixed axle vs revolution around an external centre.
+lessons/unit-10-circular-rotational-motion/lesson-226-what-keeps-circling.md | 226 | What Keeps It Circling? The Inward Pull | JS-FE | yes | - | string; soft ball; open space | Swing a soft ball on a string; cut the string mentally: ball flies off tangent; centripetal force is a requirement, not a new force. | A 0.5 kg ball at 3 m/s on a 1 m string: compute the centripetal force (F=mv²/r) and compare with its weight.
+lessons/unit-10-circular-rotational-motion/lesson-227-centripetal-sources.md | 227 | Sources of Centripetal Force | JS-FE | no | - | case cards | String tension, tyre friction in cornering, gravity for the Moon, banked-track normal force; identify the provider in five cases. | Boda cornering at 10 m/s on radius 15 m: required friction force for 150 kg total; what happens on wet murram?
+lessons/unit-10-circular-rotational-motion/lesson-228-bucket-of-water.md | 228 | The Bucket of Water Overhead | JS-FE | yes | - | small bucket; rope; water; outdoors | Teacher-led swing of a small water bucket overhead; why the water stays in; speed threshold felt at the shoulder. | Minimum speed at the top: set centripetal acceleration ≥ g; compute v_min for a 1 m arm.

@@ -1,228 +1,29 @@
-{
- "batch": 30,
- "unit": 14,
- "unit_title": "Wind & Water Power Projects",
- "unit_slug": "wind-water-power",
- "n_lessons": 10,
- "lessons": [
-  {
-   "slug": "windmill-drivetrain",
-   "title": "Windmill Project III: The Drive Train",
-   "focus": "Crank or cam converts rotation to reciprocation; connecting rod to the pump; friction points oiled.",
-   "cbe": [
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "crank wire",
-    "rod",
-    "guides",
-    "oil"
-   ],
-   "hands_on": true,
-   "project": "windmill",
-   "advanced": "Measure stroke length vs crank radius; relate strokes/minute to rotor rpm and gear options.",
-   "n": 311,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-311-windmill-drivetrain.md"
-  },
-  {
-   "slug": "windmill-pump-link",
-   "title": "Windmill Project IV: Linking the Pump",
-   "focus": "Connect the Unit 8 diaphragm pump; suction line to a water container; check valve orientation verified.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "diaphragm pump",
-    "tube",
-    "jerrican",
-    "clamps"
-   ],
-   "hands_on": true,
-   "project": "windmill",
-   "advanced": "Predict litres/minute from rotor rpm × stroke volume at your measured efficiency.",
-   "n": 312,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-312-windmill-pump-link.md"
-  },
-  {
-   "slug": "windmill-test-day",
-   "title": "Windmill Project V: Test Day",
-   "focus": "Run in wind: measure water lifted per minute at 1 m head; photograph, log, celebrate; safety perimeter for spinning blades.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "windmill",
-    "measuring jar",
-    "stopwatch"
-   ],
-   "hands_on": true,
-   "project": "windmill",
-   "advanced": "Compute hydraulic power out (ρgQh) vs estimated wind power in (½ρAv³); the honest efficiency.",
-   "n": 313,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-313-windmill-test-day.md"
-  },
-  {
-   "slug": "windmill-improve",
-   "title": "Windmill Project VI: Iteration",
-   "focus": "One improvement each team: blade pitch, tail size, bearing friction, stroke length; A/B test against the log.",
-   "cbe": [
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "spare blades",
-    "tools",
-    "log sheets"
-   ],
-   "hands_on": true,
-   "project": "windmill",
-   "advanced": "Design the A/B test so wind variation doesn't fool you (interleave trials); report with error bars.",
-   "n": 314,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-314-windmill-improve.md"
-  },
-  {
-   "slug": "windmill-data",
-   "title": "Windmill Project VII: Data and Graphs",
-   "focus": "Compile output vs wind speed; find the cut-in speed; present the performance curve.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "anemometer card",
-    "logs",
-    "graph paper"
-   ],
-   "hands_on": true,
-   "project": "windmill",
-   "advanced": "Fit output ∝ (v − v_cutin) approximately; justify the cubic-energy intuition behind the curve's shape.",
-   "n": 315,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-315-windmill-data.md"
-  },
-  {
-   "slug": "windmill-present",
-   "title": "Windmill Project VIII: Engineering Report",
-   "focus": "Teams present: design, data, failures, fixes, costs; audience of teachers and a jua kali guest if possible.",
-   "cbe": [
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "posters",
-    "windmill"
-   ],
-   "hands_on": true,
-   "project": "windmill",
-   "advanced": "Include a costing: materials, hours, water per day — compare with a jerrican-carried alternative.",
-   "n": 316,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-316-windmill-present.md"
-  },
-  {
-   "slug": "water-power-intro",
-   "title": "Water Power: Head and Flow",
-   "focus": "Energy = mgh of falling water; micro-hydro reality in Kenya's highlands; head vs flow trade for power.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-4.1"
-   ],
-   "materials": [
-    "map",
-    "jerrican+tape demo"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Stream: 2 L/s falling 5 m: compute available power; what could it run?",
-   "n": 317,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-317-water-power-intro.md"
-  },
-  {
-   "slug": "water-wheels",
-   "title": "Water Wheels: Undershot and Overshot",
-   "focus": "History of mills; undershot uses stream speed, overshot uses weight; efficiency intuition; model both.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "JS-FE"
-   ],
-   "materials": [
-    "two model wheels",
-    "tray + pour",
-    "stream (optional)"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Explain why overshot beats undershot on the same water: which energy form each harvests.",
-   "n": 318,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-318-water-wheels.md"
-  },
-  {
-   "slug": "spoon-turbine-build",
-   "title": "Build: The Spoon Wheel Turbine I",
-   "focus": "Spoons/bottle scoops on a bottle wheel; mount on wire axle; rig a string-and-bobbin to lift weights.",
-   "cbe": [
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "bottle",
-    "spoons/scoops",
-    "wire axle",
-    "string",
-    "small weights"
-   ],
-   "hands_on": true,
-   "project": "water-turbine",
-   "advanced": "Predict lift rate from cup fill volume × rpm; identify the two main losses.",
-   "n": 319,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-319-spoon-turbine-build.md"
-  },
-  {
-   "slug": "spoon-turbine-test",
-   "title": "Build: The Spoon Wheel Turbine II — Test Under the Tap",
-   "focus": "Run under tap/stream; measure rpm vs flow and max weight lifted; graph; compare teams.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "turbine",
-    "tap/hose",
-    "stopwatch",
-    "weights"
-   ],
-   "hands_on": true,
-   "project": "water-turbine",
-   "advanced": "Compute mechanical power from lift rate; compare with water power in; where's the loss?",
-   "n": 320,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-320-spoon-turbine-test.md"
-  }
- ]
-}
+BATCH 30 — Unit 7: Pressure & Fluids at Rest
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-07-pressure-fluids-at-rest/lesson-169-transmission-pressure.md | 169 | Pascal's Principle: Pressure Travels Through Fluids | G10-PHY-1.2 | yes | - | bottle with holes + cap; water | Squeeze a sealed bottle, water jets from all holes equally; pressure applied to enclosed fluid transmits undiminished. | State Pascal's principle and use it to derive the hydraulic force multiplication F2=F1·A2/A1.
+lessons/unit-07-pressure-fluids-at-rest/lesson-170-hydraulic-machines-1.md | 170 | Hydraulic Machines I: The Syringe Lift | G10-PHY-1.2;G10-PHY-1.6 | yes | - | two syringes (different sizes); IV/aquarium tube; water; weights | Two syringes + tube of water: small plunger lifts heavy load on big plunger; measure the multiplication. | Plungers 1 cm² and 10 cm²: ideal MA, and the distance trade when small plunger moves 10 cm.
+lessons/unit-07-pressure-fluids-at-rest/lesson-171-hydraulic-machines-2.md | 171 | Hydraulic Machines II: Brakes, Presses and Excavators | G10-PHY-1.2 | no | - | photos/cards; syringe rig | Car brake circuits, jua kali press, excavator arms; why fluid not air (incompressibility); bleeding brakes story. | Explain why an air bubble in a brake line makes the pedal 'spongy' and dangerous.
+lessons/unit-07-pressure-fluids-at-rest/lesson-172-hydraulic-lift-build.md | 172 | Build: The Hydraulic Lift Challenge I | G10-PHY-1.2;G10-PHY-1.6 | yes | hydraulic-lift | syringes; tube; wood platform; wire; stones | Team build: syringe-and-tube lift raising a stone platform; document design choices. | Predict the maximum load from plunger areas and your measured push force.

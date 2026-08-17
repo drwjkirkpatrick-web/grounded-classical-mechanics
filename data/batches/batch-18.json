@@ -1,250 +1,27 @@
-{
- "batch": 18,
- "unit": 8,
- "unit_title": "Fluids in Motion, Siphons & Pumps",
- "unit_slug": "fluids-in-motion-pumps",
- "n_lessons": 11,
- "lessons": [
-  {
-   "slug": "siphon-garden-2",
-   "title": "Project: The Siphon Garden System II — Build and Test",
-   "focus": "Install tubes, start siphons safely, measure flow at each outlet; map flow vs head difference.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "tubes",
-    "jerrican header tank",
-    "bottles",
-    "stopwatch"
-   ],
-   "hands_on": true,
-   "project": "siphon-garden",
-   "advanced": "Plot flow vs head; why does real flow fall below the √2gh ideal? (Friction in the tube.)",
-   "n": 196,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-196-siphon-garden-2.md"
-  },
-  {
-   "slug": "siphon-garden-3",
-   "title": "Project: The Siphon Garden System III — Troubleshoot and Maintain",
-   "focus": "Air leaks, blockages, algae; priming ritual; seasonal checklist; handover document for next year's class.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "system",
-    "cleaning wire",
-    "spare tube"
-   ],
-   "hands_on": true,
-   "project": "siphon-garden",
-   "advanced": "Write the fault tree: no flow → (air in crest? inlet uncovered? outlet above inlet?) with a test for each branch.",
-   "n": 197,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-197-siphon-garden-3.md"
-  },
-  {
-   "slug": "valves-one-way",
-   "title": "Valves: The Heart of Every Pump",
-   "focus": "One-way flap valves from inner-tube rubber; watch one work on a clear tube; heart valves analogy; check valves in pumps.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "bottle cut-down",
-    "rubber flap",
-    "clear tube",
-    "water"
-   ],
-   "hands_on": true,
-   "project": "flap-valve",
-   "advanced": "Explain the pumping cycle as two valves opening alternately; what failure does a leaking inlet valve cause?",
-   "n": 198,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-198-valves-one-way.md"
-  },
-  {
-   "slug": "diaphragm-pump-1",
-   "title": "Build: A Hand Diaphragm Pump I",
-   "focus": "Bottle + rubber diaphragm + two flap valves = working lift pump; assemble the pump head.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "stout bottle",
-    "inner-tube rubber",
-    "flap valves",
-    "tube",
-    "clamps/wire"
-   ],
-   "hands_on": true,
-   "project": "diaphragm-pump",
-   "advanced": "Estimate litres per stroke from diaphragm displacement; predict strokes per jerrican.",
-   "n": 199,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-199-diaphragm-pump-1.md"
-  },
-  {
-   "slug": "diaphragm-pump-2",
-   "title": "Build: A Hand Diaphragm Pump II — Performance Test",
-   "focus": "Measure L/min at lift heights 0.5/1.0/1.5 m; graph performance; compare against a commercial pump spec.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "pump",
-    "jerricans",
-    "tape",
-    "stopwatch",
-    "graph paper"
-   ],
-   "hands_on": true,
-   "project": "diaphragm-pump",
-   "advanced": "Fit flow vs height trend; compute the pump's useful power at 1 m lift (P=ρgQh).",
-   "n": 200,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-200-diaphragm-pump-2.md"
-  },
-  {
-   "slug": "ram-pump-intro",
-   "title": "The Hydraulic Ram: Water That Pumps Itself",
-   "focus": "Water hammer: stop a flowing column suddenly and pressure spikes; ram pumps lift a fraction high using only falling water; Kenyan hillside sites.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "hose",
-    "quick-closing valve or hand",
-    "basin"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Explain the ram cycle (waste valve, delivery valve, air chamber) as momentum becoming pressure.",
-   "n": 201,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-201-ram-pump-intro.md"
-  },
-  {
-   "slug": "ram-pump-model-1",
-   "title": "Teacher-Led Build: A Mini Ram Pump I",
-   "focus": "Bottle air-chamber + two flap valves + drive pipe; teacher-led assembly of a demonstration ram.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "bottles",
-    "valves from earlier builds",
-    "tube",
-    "stand"
-   ],
-   "hands_on": true,
-   "project": "ram-pump",
-   "advanced": "Compute the drive head and delivery head of your rig; estimate the efficiency fraction Q·H/(q·h).",
-   "n": 202,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-202-ram-pump-model-1.md"
-  },
-  {
-   "slug": "ram-pump-model-2",
-   "title": "Teacher-Led Build: A Mini Ram Pump II — Tuning",
-   "focus": "Tune waste-valve weight and air chamber; measure delivery per minute; discuss real installations (AidFoundation/ram pump groups).",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "ram rig",
-    "weights",
-    "measuring jar"
-   ],
-   "hands_on": true,
-   "project": "ram-pump",
-   "advanced": "Why does the air chamber smooth the delivery flow? Quantify with your pulsation count before/after.",
-   "n": 203,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-203-ram-pump-model-2.md"
-  },
-  {
-   "slug": "irrigation-physics",
-   "title": "Irrigation Physics: Drip, Furrow and Sprinkler",
-   "focus": "Drip needs little pressure, sprinkler lots; gravity drip kits from a raised jerrican; water budgeting for dry seasons.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "G10-PHY-4.1"
-   ],
-   "materials": [
-    "jerrican",
-    "drip line or pin-holed tube",
-    "garden bed"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "A bed needs 5 mm of water on 4 m² daily: compute litres/day and the drip-line hours at your measured rate.",
-   "n": 204,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-204-irrigation-physics.md"
-  },
-  {
-   "slug": "rivers-floods",
-   "title": "Rivers, Bridges and Floods: Motion at Large Scale",
-   "focus": "Fast water undermines bridge piers (scour); flood energy; gabions and check dams slow water; Kenyan flood examples.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "G10-PHY-4.1"
-   ],
-   "materials": [
-    "sand tray",
-    "water",
-    "stick 'piers'"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Explain with KE∝v² why doubling flood speed quadruples its destructive energy per unit mass.",
-   "n": 205,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-205-rivers-floods.md"
-  },
-  {
-   "slug": "water-works-expo",
-   "title": "Unit Review: Water Works Expo",
-   "focus": "All pumps and the siphon garden running; student engineers explain; unit quiz.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "all unit 8 builds"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Write the expo quiz's hard question: a two-valve pump fault diagnosis with full reasoning.",
-   "n": 206,
-   "unit_slug": "fluids-in-motion-pumps",
-   "unit_title": "Fluids in Motion, Siphons & Pumps",
-   "unit": 8,
-   "filename": "lessons/unit-08-fluids-in-motion-pumps/lesson-206-water-works-expo.md"
-  }
- ]
-}
+BATCH 18 — Unit 5: Work, Energy & Power
+Write 2 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-05-work-energy-power/lesson-123-units-mastery-day.md | 123 | Units Mastery Day: Joules, Watts, Newtons | G10-PHY-1.6;JS-FE | no | - | unit cards; quiz sheets | Games and drills converting between N, J, W, m, kg, s; common confusions (W for work vs watt). | Derive the joule in base units (kg·m²/s²) and use it to check the units of KE = ½mv².
+lessons/unit-05-work-energy-power/lesson-124-energy-expo-review.md | 124 | Unit Review: Energy Expo | G10-PHY-1.6;JS-FE | no | - | all unit 5 kit | Teams run demo stations (power stairs, chains, jiko efficiency posters); unit quiz. | Write the expo 'energy balance sheet' for one station showing inputs, useful outputs and losses.

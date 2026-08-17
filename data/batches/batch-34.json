@@ -1,171 +1,29 @@
-{
- "batch": 34,
- "unit": 16,
- "unit_title": "Capstone, Review & Community Science",
- "unit_slug": "capstone-review",
- "n_lessons": 8,
- "lessons": [
-  {
-   "slug": "year-in-physics",
-   "title": "The Year in Physics: The Big Map",
-   "focus": "Whole-year concept map built by the class on the wall: forces → motion → energy → machines → fluids → waves.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "wall space",
-    "cards",
-    "string connectors"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Add three cross-links nobody else found (e.g., resonance ↔ shock absorbers) and defend them.",
-   "n": 349,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-349-year-in-physics.md"
-  },
-  {
-   "slug": "drill-measurement-forces",
-   "title": "Core Drill I: Measurement and Forces",
-   "focus": "Speed-round problems: units, conversions, force diagrams, friction cases; peer marking with schemes.",
-   "cbe": [
-    "G10-PHY-1.1",
-    "JS-FE"
-   ],
-   "materials": [
-    "problem cards"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Write the two hardest fair questions you can from Units 1–2, with schemes.",
-   "n": 350,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-350-drill-measurement-forces.md"
-  },
-  {
-   "slug": "drill-motion-gravity",
-   "title": "Core Drill II: Motion and Gravity",
-   "focus": "Graph reading, speed/velocity/acceleration, fall and projectile computations; game-show format.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "graph cards",
-    "buzzer rules"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Mixed problem: throw up at 12 m/s from 2 m — time to land and impact speed.",
-   "n": 351,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-351-drill-motion-gravity.md"
-  },
-  {
-   "slug": "drill-energy-machines",
-   "title": "Core Drill III: Energy and Machines",
-   "focus": "Work/power/efficiency chains; MA/VR on levers and pulleys; identify machines in photos.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.5"
-   ],
-   "materials": [
-    "machine photo cards",
-    "problem sets"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "A tackle lifts 600 N with 200 N effort over 4 strands: MA, VR, efficiency, and the diagnosis.",
-   "n": 352,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-352-drill-energy-machines.md"
-  },
-  {
-   "slug": "drill-pressure-fluids",
-   "title": "Core Drill IV: Pressure, Fluids and Buoyancy",
-   "focus": "P=F/A, P=ρgh, siphon reasoning, Archimedes cases; lab-practical style stations.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "station kit"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Design-question: lift 100 kg with a hydraulic jack — specify plunger areas and strokes.",
-   "n": 353,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-353-drill-pressure-fluids.md"
-  },
-  {
-   "slug": "drill-circles-oscillations-momentum",
-   "title": "Core Drill V: Circles, Oscillations and Momentum",
-   "focus": "v=2πr/T, pendulum T=2π√(L/g), p=mv collisions; mini-whiteboard showdown.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-2.1"
-   ],
-   "materials": [
-    "mini boards"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Cart 2 kg at 3 m/s catches a 1 kg cart at rest (sticky): final speed and KE accounting.",
-   "n": 354,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-354-drill-circles-oscillations-momentum.md"
-  },
-  {
-   "slug": "drill-materials-wind-sound",
-   "title": "Core Drill VI: Materials, Wind/Water and Sound",
-   "focus": "Hooke's law, structures, windmill data, v=fλ; practical data questions from the year's own logs.",
-   "cbe": [
-    "G10-PHY-1.3",
-    "G10-PHY-2.1"
-   ],
-   "materials": [
-    "year data logs",
-    "problem sets"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "From the windmill log, estimate annual water delivered; state assumptions and uncertainty.",
-   "n": 355,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-355-drill-materials-wind-sound.md"
-  },
-  {
-   "slug": "exam-skills",
-   "title": "Exam Skills: Reading CBE-Style Questions",
-   "focus": "Command words (state, explain, calculate, justify); structured answers; time budgeting; common traps.",
-   "cbe": [
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "sample papers",
-    "marking schemes"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Mark two sample answers with the official-style scheme; write the feedback.",
-   "n": 356,
-   "unit_slug": "capstone-review",
-   "unit_title": "Capstone, Review & Community Science",
-   "unit": 16,
-   "filename": "lessons/unit-16-capstone-review/lesson-356-exam-skills.md"
-  }
- ]
-}
+BATCH 34 — Unit 8: Fluids in Motion, Siphons & Pumps
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-08-fluids-in-motion-pumps/lesson-185-flow-rate.md | 185 | Measuring Flow: Litres per Second | G10-PHY-1.2;JS-FE | yes | - | jerrican; stopwatch; tap | Time a jerrican filling at the tap; flow rate = volume/time; compare taps, trickles and the river (float method teaser). | A 20 L jerrican fills in 45 s: flow rate in L/s and L/hour; how long to fill a 1000 L tank?
+lessons/unit-08-fluids-in-motion-pumps/lesson-186-continuity.md | 186 | Narrow Pipe, Faster Flow: Continuity | G10-PHY-1.2 | yes | - | hosepipe; nozzles; stream visit (optional) | Thumb over the hose speeds the jet; rivers quicken at narrows; A₁v₁ = A₂v₂ for incompressible flow. | Pipe narrows from 5 cm to 2 cm diameter: compute the speed-up factor from areas.
+lessons/unit-08-fluids-in-motion-pumps/lesson-187-bernoulli-1.md | 187 | The Bernoulli Surprise I: Papers That Kiss | G10-PHY-1.2;JS-FE | yes | - | paper strips; straw; light ball | Blow between two hanging papers — they come together; fast air = lower pressure; ball levitating in a jet. | Use Bernoulli's equation qualitatively to rank pressures at three points in a narrowing pipe.
+lessons/unit-08-fluids-in-motion-pumps/lesson-188-bernoulli-2.md | 188 | The Bernoulli Surprise II: Roofs, Sprays and Dust Devils | G10-PHY-1.2;G10-PHY-4.1 | yes | - | atomizer or spray bottle; paper roof model; fan or wind | Why mabati roofs lift in storms; perfume/pesticide atomizers; wind over a chimney draws smoke; safe-roof discussion. | Estimate uplift force: wind 20 m/s over a 40 m² roof using ΔP≈½ρv² (ρ=1.2).

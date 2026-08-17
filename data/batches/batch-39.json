@@ -1,0 +1,27 @@
+BATCH 39 — Unit 8: Fluids in Motion, Siphons & Pumps
+Write 2 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-08-fluids-in-motion-pumps/lesson-205-rivers-floods.md | 205 | Rivers, Bridges and Floods: Motion at Large Scale | G10-PHY-1.2;G10-PHY-4.1 | yes | - | sand tray; water; stick 'piers' | Fast water undermines bridge piers (scour); flood energy; gabions and check dams slow water; Kenyan flood examples. | Explain with KE∝v² why doubling flood speed quadruples its destructive energy per unit mass.
+lessons/unit-08-fluids-in-motion-pumps/lesson-206-water-works-expo.md | 206 | Unit Review: Water Works Expo | G10-PHY-1.2 | no | - | all unit 8 builds | All pumps and the siphon garden running; student engineers explain; unit quiz. | Write the expo quiz's hard question: a two-valve pump fault diagnosis with full reasoning.

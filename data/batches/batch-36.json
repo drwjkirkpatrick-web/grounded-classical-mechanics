@@ -1,0 +1,29 @@
+BATCH 36 — Unit 8: Fluids in Motion, Siphons & Pumps
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-08-fluids-in-motion-pumps/lesson-193-centrifugal-pumps.md | 193 | Centrifugal Pumps: Spinning Water Outward | G10-PHY-1.2;JS-FE | yes | - | small bucket; string; water (outdoors) | Bucket on a string swung = water thrown outward; impeller idea; most electric borehole pumps are centrifugal. | Explain why a centrifugal pump must be primed but a positive-displacement pump self-primes.
+lessons/unit-08-fluids-in-motion-pumps/lesson-194-sump-pump.md | 194 | The Sump Pump: Draining the Pit | G10-PHY-1.2 | yes | - | basin 'sump'; cup float; tube; small pump (or hand siphon model) | Flooded basements and pit latrines in Nairobi rains; float switch rises with water; check valve stops backflow; submersible vs pedestal. | Design the float-switch geometry: at what water level should the pump cut in and out, and why a gap between them?
+lessons/unit-08-fluids-in-motion-pumps/lesson-195-siphon-garden-1.md | 195 | Project: The Siphon Garden System I — Design | G10-PHY-1.2;G10-PHY-1.6 | yes | siphon-garden | site sketch; tape; string levels | Overhead tank → tube over the bund → furrows below; plan heights, tube routing, distribution points for a school garden. | Compute available head and predict flow for a 15 mm tube using Torricelli reasoning.
+lessons/unit-08-fluids-in-motion-pumps/lesson-196-siphon-garden-2.md | 196 | Project: The Siphon Garden System II — Build and Test | G10-PHY-1.2 | yes | siphon-garden | tubes; jerrican header tank; bottles; stopwatch | Install tubes, start siphons safely, measure flow at each outlet; map flow vs head difference. | Plot flow vs head; why does real flow fall below the √2gh ideal? (Friction in the tube.)

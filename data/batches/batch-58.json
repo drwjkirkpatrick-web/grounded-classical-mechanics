@@ -1,0 +1,29 @@
+BATCH 58 — Unit 12: Momentum & Collisions
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-12-momentum-collisions/lesson-273-carrom-marbles.md | 273 | Momentum Games: Carrom and Marbles Tourney | JS-FE | yes | - | carrom board or chalk court; marbles/tops | Angles and speed transfer in carrom breaks and marbles; predict rebounds; run a scored mini-tournament. | Analyze a glancing collision: momentum as vectors; why does the striker deflect rather than stop?
+lessons/unit-12-momentum-collisions/lesson-274-newtons-cradle-build.md | 274 | Build: A Bottle-Top Newton's Cradle | JS-FE | yes | newtons-cradle | nuts/tops; string; wooden frame; glue/knots | Five nuts/tops on V-strings in a frame; tune contact for clean transfers; one swings in, one swings out. | Explain why two-in produces two-out using both conservation laws, not momentum alone.
+lessons/unit-12-momentum-collisions/lesson-275-momentum-in-water.md | 275 | Momentum in Water and Air | JS-FE;G10-PHY-1.2 | yes | - | hose; paper; basin | Hose jet pushes back; river bends erode the outside bank; fanning air moves paper; fluid momentum in daily life. | Hose delivers 0.5 kg/s at 4 m/s: compute the reaction force on the holder's hands.
+lessons/unit-12-momentum-collisions/lesson-276-collision-lab-review.md | 276 | Unit Review: Collision Lab Day | JS-FE | no | - | all unit 12 kit | Stations: marble swaps, clay sticks, cradle demo, impulse egg test; unit quiz. | Open-ended: design an experiment to verify conservation of momentum with only a ruler, stopwatch and two carts.

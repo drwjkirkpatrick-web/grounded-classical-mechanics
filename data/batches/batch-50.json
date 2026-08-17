@@ -1,0 +1,29 @@
+BATCH 50 — Unit 11: Oscillations & Pendulums
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-11-oscillations-pendulums/lesson-243-back-and-forth.md | 243 | Back and Forth: The World Oscillates | JS-FE;G10-PHY-2.1 | no | - | pendulum; spring/rubber; string instrument (optional) | Swings, pendulums, springs, branches, guitar strings; define cycle, period, frequency, amplitude. | A pendulum makes 20 cycles in 25 s: compute period and frequency with units.
+lessons/unit-11-oscillations-pendulums/lesson-244-pendulum-parts.md | 244 | Anatomy of a Pendulum | JS-FE | yes | - | string; bobs; stand | Bob, string, pivot; equilibrium position; restoring force grows with displacement; energy sloshes PE↔KE. | Sketch force arrows at both extremes and at the bottom; where is speed greatest and why?
+lessons/unit-11-oscillations-pendulums/lesson-245-timing-pendulum.md | 245 | Timing a Pendulum Properly | JS-FE;G10-PHY-1.1 | yes | - | pendulum; stopwatch | Time 10 swings and divide; start at 'zero' at the fastest point; why single-swing timing lies. | Ten swings: 19.8, 20.2, 20.0 s. Give period with uncertainty and explain the 10-swing gain.
+lessons/unit-11-oscillations-pendulums/lesson-246-period-vs-mass.md | 246 | What Affects the Period? Test: Mass | JS-FE | yes | - | two bobs; string; stand; stopwatch | Same length, stone vs wooden bob: no change; fair-test discipline; Galileo's cathedral story. | Explain mass-independence using both F=ma and the PE↔KE exchange.

@@ -1,204 +1,29 @@
-{
- "batch": 20,
- "unit": 9,
- "unit_title": "Buoyancy & Floating",
- "unit_slug": "buoyancy-floating",
- "n_lessons": 9,
- "lessons": [
-  {
-   "slug": "build-hydrometer",
-   "title": "Build: A Pencil Hydrometer",
-   "focus": "Weight a pencil with clay, float it, mark fresh-water line, calibrate with salt solutions; test unknowns.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "pencil",
-    "clay",
-    "jars",
-    "salt",
-    "marker"
-   ],
-   "hands_on": true,
-   "project": "hydrometer",
-   "advanced": "Calibrate marks at 1.00, 1.05, 1.10 g/cm³: describe how you verified each.",
-   "n": 216,
-   "unit_slug": "buoyancy-floating",
-   "unit_title": "Buoyancy & Floating",
-   "unit": 9,
-   "filename": "lessons/unit-09-buoyancy-floating/lesson-216-build-hydrometer.md"
-  },
-  {
-   "slug": "floating-layers",
-   "title": "Layers of Liquid: The Egg in Salt Water",
-   "focus": "Egg sinks in fresh, floats in strong salt solution; density columns (salty below fresh, carefully poured).",
-   "cbe": [
-    "G10-PHY-1.2",
-    "JS-FE"
-   ],
-   "materials": [
-    "eggs",
-    "salt",
-    "jars",
-    "stirrer"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Compute the salt concentration needed for neutral buoyancy of an egg (ρ≈1.05 g/cm³) — method and caveats.",
-   "n": 217,
-   "unit_slug": "buoyancy-floating",
-   "unit_title": "Buoyancy & Floating",
-   "unit": 9,
-   "filename": "lessons/unit-09-buoyancy-floating/lesson-217-floating-layers.md"
-  },
-  {
-   "slug": "submarines-fish",
-   "title": "Submarines and Swim Bladders",
-   "focus": "Fish adjust a gas bladder; submarines flood and blow ballast tanks; Cartesian diver (Unit 7) as the working model.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "JS-FE"
-   ],
-   "materials": [
-    "cartesian diver",
-    "balloon",
-    "bottle"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "A submarine at constant depth takes on water: what must happen to its ballast and why?",
-   "n": 218,
-   "unit_slug": "buoyancy-floating",
-   "unit_title": "Buoyancy & Floating",
-   "unit": 9,
-   "filename": "lessons/unit-09-buoyancy-floating/lesson-218-submarines-fish.md"
-  },
-  {
-   "slug": "rafts-ferries",
-   "title": "Rafts, Canoes and Ferries of Kenya",
-   "focus": "Banana-stem and ambatch rafts, dugout canoes on Lake Victoria, ferries at Likoni; buoyancy calculations for safe loading.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "UP-FE"
-   ],
-   "materials": [
-    "photos/cards",
-    "raft model sticks"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Raft of 10 logs, each 40 L displacement, total mass 150 kg: safe passenger load in kg?",
-   "n": 219,
-   "unit_slug": "buoyancy-floating",
-   "unit_title": "Buoyancy & Floating",
-   "unit": 9,
-   "filename": "lessons/unit-09-buoyancy-floating/lesson-219-rafts-ferries.md"
-  },
-  {
-   "slug": "life-jackets-safety",
-   "title": "Life Jackets and Water Safety",
-   "focus": "How a life jacket adds buoyancy without adding weight; cold water and panic; community water-safety campaign design.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "UP-FE"
-   ],
-   "materials": [
-    "life jacket or foam",
-    "basin"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "A 70 kg person (body density ≈ 1.02) needs how much extra displaced volume to float face-up? Show working.",
-   "n": 220,
-   "unit_slug": "buoyancy-floating",
-   "unit_title": "Buoyancy & Floating",
-   "unit": 9,
-   "filename": "lessons/unit-09-buoyancy-floating/lesson-220-life-jackets-safety.md"
-  },
-  {
-   "slug": "plimsoll-lines",
-   "title": "Plimsoll Lines: Loading Marks on Ships",
-   "focus": "Load lines for fresh vs salt water; mark your clay boat's Plimsoll line; overloading tragedies discussion.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "clay boat",
-    "marker",
-    "salt",
-    "basin"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "A ship moves from sea (1.025) to fresh water (1.000): by what percentage does displaced volume change?",
-   "n": 221,
-   "unit_slug": "buoyancy-floating",
-   "unit_title": "Buoyancy & Floating",
-   "unit": 9,
-   "filename": "lessons/unit-09-buoyancy-floating/lesson-221-plimsoll-lines.md"
-  },
-  {
-   "slug": "hot-air-teaser",
-   "title": "Hot Air Rises: Buoyancy in Gases",
-   "focus": "Smoke rises; teacher demo tissue hot-air balloon; air has density too; bridge to thermal physics (Unit on temperature in CBE 1.4).",
-   "cbe": [
-    "G10-PHY-1.2",
-    "G10-PHY-1.4"
-   ],
-   "materials": [
-    "tissue balloon (teacher)",
-    "candle (teacher)",
-    "smoke source"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Hot air at 0.9 kg/m³ in a 1 m³ balloon, outside 1.2: net lift force in newtons; payload in grams.",
-   "n": 222,
-   "unit_slug": "buoyancy-floating",
-   "unit_title": "Buoyancy & Floating",
-   "unit": 9,
-   "filename": "lessons/unit-09-buoyancy-floating/lesson-222-hot-air-teaser.md"
-  },
-  {
-   "slug": "floating-garden-design",
-   "title": "Design Project: A Floating Garden or Fish Cage",
-   "focus": "Design a buoyant platform for vegetables (jerricans under bamboo); compute buoyancy budget; present.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "design sheets",
-    "jerricans",
-    "bamboo/sticks"
-   ],
-   "hands_on": true,
-   "project": "float-design",
-   "advanced": "Full buoyancy budget: platform + soil + water + crop vs total displacement, with 30% safety margin.",
-   "n": 223,
-   "unit_slug": "buoyancy-floating",
-   "unit_title": "Buoyancy & Floating",
-   "unit": 9,
-   "filename": "lessons/unit-09-buoyancy-floating/lesson-223-floating-garden-design.md"
-  },
-  {
-   "slug": "regatta-review",
-   "title": "Unit Review: Regatta Day",
-   "focus": "Clay-boat races, hydrometer readings, buoyancy puzzle stations; unit quiz.",
-   "cbe": [
-    "G10-PHY-1.2"
-   ],
-   "materials": [
-    "all unit 9 kit"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Championship problem: design a boat to carry 500 g in salt water with minimal clay — show the displacement math.",
-   "n": 224,
-   "unit_slug": "buoyancy-floating",
-   "unit_title": "Buoyancy & Floating",
-   "unit": 9,
-   "filename": "lessons/unit-09-buoyancy-floating/lesson-224-regatta-review.md"
-  }
- ]
-}
+BATCH 20 — Unit 6: Simple Machines
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-06-simple-machines/lesson-129-levers-class-3.md | 129 | Levers Class 3: The Mwiko and the Human Arm | G10-PHY-1.5;JS-FE | no | - | mwiko; fishing rod or long stick; tweezers | Effort between fulcrum and load; mwiko stirring, fishing rod, tweezers; trading force for speed and reach. | Why did evolution pick class-3 arms? Discuss speed/force trade with biceps-at-4 cm numbers.
+lessons/unit-06-simple-machines/lesson-130-moments.md | 130 | Moments: The Turning Force | G10-PHY-1.5 | yes | - | ruler; pencil pivot; bottle tops | Moment = F × d from pivot; balance a ruler with unequal bottle-top piles by sliding positions. | 5 tops at 20 cm balance 8 tops at what distance? Then generalize: write the balance rule.
+lessons/unit-06-simple-machines/lesson-131-law-of-moments-lab.md | 131 | Law of Moments Lab: Weighing Without a Scale | G10-PHY-1.5;G10-PHY-1.1 | yes | - | ruler; pivot; bottle-cap pans; water; stone | Balance an unknown stone against known water volumes on a ruler; compute the stone's mass. | Known 300 g at 18 cm balances unknown at 12 cm: compute unknown mass; list error sources.
+lessons/unit-06-simple-machines/lesson-132-centre-of-gravity-intro.md | 132 | Centre of Gravity: The Balance Point | G10-PHY-1.5 | yes | - | jembe; broom; cardboard shapes; string; nut | Balance a jembe and a broom on a finger; CG of regular vs irregular shapes; plumb line method with string+nut. | Use the plumb-line intersection method on a cut-out of Kenya: describe where the CG lands and why.

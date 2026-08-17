@@ -1,179 +1,29 @@
-{
- "batch": 31,
- "unit": 14,
- "unit_title": "Wind & Water Power Projects",
- "unit_slug": "wind-water-power",
- "n_lessons": 8,
- "lessons": [
-  {
-   "slug": "motion-to-electricity",
-   "title": "From Motion to Electricity: The Dynamo Teaser",
-   "focus": "Bicycle dynamo demo: spin → bulb lights; generator is a motor backwards; bridge to CBE 3.2 next year.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "JS-FE"
-   ],
-   "materials": [
-    "bicycle dynamo + bulb (or demo unit)"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Estimate: your turbine spins a dynamo at 5 V/0.3 A — efficiency chain from stream to light.",
-   "n": 321,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-321-motion-to-electricity.md"
-  },
-  {
-   "slug": "ram-siphon-return",
-   "title": "The Ram and the Siphon Return",
-   "focus": "Review: both move water with no engine; ram needs fall, siphon needs outlet lower than inlet; pick per site.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "site cards",
-    "unit 8 builds"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Site: spring 3 m above field, 100 m away, stream crossing between: siphon, ram or pipe? Defend with head math.",
-   "n": 322,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-322-ram-siphon-return.md"
-  },
-  {
-   "slug": "rainwater-harvesting",
-   "title": "Rainwater Harvesting Physics",
-   "focus": "Roof catchment = rainfall × area; gutters and first-flush; tank sizing for the dry term; Kenyan rainfall patterns.",
-   "cbe": [
-    "G10-PHY-4.1",
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "roof plan",
-    "rainfall data card",
-    "calculator"
-   ],
-   "hands_on": true,
-   "project": "tank-sizing",
-   "advanced": "Roof 60 m², rain 800 mm/year, dry spell 90 days at 200 L/day: size the tank in m³ with reasoning.",
-   "n": 323,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-323-rainwater-harvesting.md"
-  },
-  {
-   "slug": "gravity-schemes",
-   "title": "Gravity Water Schemes: From Spring to Village",
-   "focus": "Survey head with the Unit 7 water level; pipe sizing to limit friction; break-pressure tanks on long drops.",
-   "cbe": [
-    "G10-PHY-1.2",
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "water level",
-    "tape",
-    "map sketch"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "A 3 km pipe drops 120 m: why insert break-pressure tanks? Compute static pressure at the bottom without them.",
-   "n": 324,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-324-gravity-schemes.md"
-  },
-  {
-   "slug": "energy-storage",
-   "title": "Storing Energy: Two Tanks and a Pump",
-   "focus": "Pumped storage idea: pump up when sunny/windy, flow down when needed; compare with batteries and flywheels.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-4.1"
-   ],
-   "materials": [
-    "two jerricans",
-    "pump",
-    "tube"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "1000 L raised 5 m stores how many kJ? What bulb wattage for how long at 50% round-trip efficiency?",
-   "n": 325,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-325-energy-storage.md"
-  },
-  {
-   "slug": "community-survey",
-   "title": "Community Wind & Water Survey",
-   "focus": "Walk the area: note streams, slopes, windy ridges, existing pumps; interview a fundi; map resources.",
-   "cbe": [
-    "G10-PHY-4.1",
-    "JS-FE"
-   ],
-   "materials": [
-    "maps",
-    "notebooks",
-    "anemometer"
-   ],
-   "hands_on": true,
-   "project": "resource-survey",
-   "advanced": "Score three sites with a weighted matrix (head, flow, distance, demand); defend the weights.",
-   "n": 326,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-326-community-survey.md"
-  },
-  {
-   "slug": "design-brief-school",
-   "title": "Design Brief: Power for Our School",
-   "focus": "Teams design one wind or water solution for a real school need (garden watering, handwash station); drawings and budget.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-4.1"
-   ],
-   "materials": [
-    "design sheets",
-    "survey data"
-   ],
-   "hands_on": true,
-   "project": "school-power",
-   "advanced": "Include energy budget: demand L/day, source power curve, storage, and the worst-month shortfall plan.",
-   "n": 327,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-327-design-brief-school.md"
-  },
-  {
-   "slug": "energy-showcase-review",
-   "title": "Unit Review: Energy Projects Showcase",
-   "focus": "Windmill, turbines and surveys on show; visitors try the anemometer; unit quiz.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-4.1"
-   ],
-   "materials": [
-    "all unit 14 builds"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Panel question: 'Is small wind worth it here?' — argue from your measured data, both sides.",
-   "n": 328,
-   "unit_slug": "wind-water-power",
-   "unit_title": "Wind & Water Power Projects",
-   "unit": 14,
-   "filename": "lessons/unit-14-wind-water-power/lesson-328-energy-showcase-review.md"
-  }
- ]
-}
+BATCH 31 — Unit 7: Pressure & Fluids at Rest
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-07-pressure-fluids-at-rest/lesson-173-hydraulic-lift-test.md | 173 | Build: The Hydraulic Lift Challenge II — Test and Measure | G10-PHY-1.2 | yes | hydraulic-lift | rigs; stone set; spring balance; tape | Competition: heaviest load lifted 2 cm; compute MA and efficiency; leak post-mortems. | Your lift achieved MA 6 vs ideal 10: name two loss mechanisms and one fix each.
+lessons/unit-07-pressure-fluids-at-rest/lesson-174-gas-pressure.md | 174 | Pressure in Gases: Particles on the Attack | G10-PHY-1.2;JS-FE | no | - | ball; bicycle pump; balloon | Pump a ball/tyre and feel it firm up; particles bombarding walls; pressure rises when volume shrinks (qualitative). | Use particle collisions to explain why a sealed balloon shrinks in cold water.
+lessons/unit-07-pressure-fluids-at-rest/lesson-175-boyles-law-teaser.md | 175 | Squeezing Air: A Qualitative Boyle's Law | G10-PHY-1.2 | yes | - | syringes with caps; weights | Seal a syringe and push: volume halves, push-back roughly doubles; graphs for the older students. | Take volume vs pressure readings with stacked weights; test P·V ≈ constant from your data.
+lessons/unit-07-pressure-fluids-at-rest/lesson-176-force-multipliers-review.md | 176 | Levers vs Hydraulics: Choosing a Force Multiplier | G10-PHY-1.2;G10-PHY-1.6 | no | - | unit builds; comparison chart | Compare builds from Units 6 and 7: which multiplier for which job (precision, distance, dirt, maintenance). | Write a selection guide: lifting 1 tonne 0.5 m in a muddy garage — lever, tackle or hydraulic? Justify.

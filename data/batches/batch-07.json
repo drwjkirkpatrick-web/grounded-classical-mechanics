@@ -1,228 +1,29 @@
-{
- "batch": 7,
- "unit": 4,
- "unit_title": "Gravity, Falling Bodies & Projectiles",
- "unit_slug": "gravity-falling-projectiles",
- "n_lessons": 10,
- "lessons": [
-  {
-   "slug": "story-of-gravity",
-   "title": "The Story of Gravity: Aristotle, Galileo, Newton",
-   "focus": "Ideas through history; Leaning Tower thought experiment; hammer-and-feather on the Moon (video or story).",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "story cards",
-    "two stones (big/small)"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Explain Galileo's chained-balls argument against 'heavier falls faster'.",
-   "n": 79,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-079-story-of-gravity.md"
-  },
-  {
-   "slug": "do-heavy-things-fall-faster",
-   "title": "Do Heavy Things Fall Faster? A Fair Test",
-   "focus": "Drop stone vs flat paper, then crumpled paper; air resistance confound revealed; same-height release method.",
-   "cbe": [
-    "JS-FE",
-    "UP-FE"
-   ],
-   "materials": [
-    "stones",
-    "paper",
-    "coin"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Design the test so mass differs but shape does not (bottle + water levels); predict the outcome.",
-   "n": 80,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-080-do-heavy-things-fall-faster.md"
-  },
-  {
-   "slug": "free-fall-g",
-   "title": "Free Fall and the Acceleration g",
-   "focus": "g ≈ 10 m/s² meaning: speed grows 10 m/s each second; velocity table for 0-4 s of fall.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "chalkboard",
-    "ball"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Compute speed and distance fallen at t=1,2,3 s using v=gt and d=½gt²; tabulate.",
-   "n": 81,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-081-free-fall-g.md"
-  },
-  {
-   "slug": "measuring-g-pendulum-preview",
-   "title": "Measuring g: The Pendulum Promise",
-   "focus": "Swing period depends on length not mass; preview T=2π√(L/g); plan the experiment (full method in Unit 11).",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "string",
-    "stone",
-    "stopwatch"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Rearrange T=2π√(L/g) to make g the subject; state what you'll plot.",
-   "n": 82,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-082-measuring-g-pendulum-preview.md"
-  },
-  {
-   "slug": "measuring-g-drop",
-   "title": "Measuring g: The Two-Metre Drop",
-   "focus": "Drop ball from measured 2 m; three timers average; compute g from d=½gt²; discuss error honestly.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "ball",
-    "tape",
-    "stopwatches",
-    "ladder or veranda"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Measured time 0.70 s for 2.0 m: compute g, percentage error vs 9.8, and list three error sources ranked.",
-   "n": 83,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-083-measuring-g-drop.md"
-  },
-  {
-   "slug": "terminal-velocity",
-   "title": "Terminal Velocity: When Falling Stops Speeding Up",
-   "focus": "Drag grows with speed until it balances weight; seeds, raindrops, parachutes; why an ant survives any fall.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "paper",
-    "seeds (e.g., jacaranda)",
-    "feather"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Use surface-area-to-weight scaling to explain why big animals can't survive falls that insects shrug off.",
-   "n": 84,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-084-terminal-velocity.md"
-  },
-  {
-   "slug": "air-shapes-falling",
-   "title": "Designing for Air: Parachute Science",
-   "focus": "Canopy area vs fall speed; drop plastic-bag parachutes with stone payload; measure fall time vs area.",
-   "cbe": [
-    "JS-FE",
-    "UP-FE"
-   ],
-   "materials": [
-    "plastic bags",
-    "string",
-    "stones",
-    "tape",
-    "stopwatch"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Plot fall time vs canopy area; fit a trend and extrapolate the area for a 60 kg person (order-of-magnitude).",
-   "n": 85,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-085-air-shapes-falling.md"
-  },
-  {
-   "slug": "egg-drop-design",
-   "title": "Egg Drop Challenge I: Design and Build",
-   "focus": "Protect a raw egg dropped 3 m using grass, paper, maize cobs, bags; impulse and crumple reasoning before building.",
-   "cbe": [
-    "JS-FE",
-    "UP-FE"
-   ],
-   "materials": [
-    "raw eggs",
-    "dry grass",
-    "paper",
-    "maize cobs",
-    "plastic bags",
-    "string",
-    "tape"
-   ],
-   "hands_on": true,
-   "project": "egg-drop",
-   "advanced": "Justify your design with impulse: longer stopping time → smaller force (F=Δp/Δt preview).",
-   "n": 86,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-086-egg-drop-design.md"
-  },
-  {
-   "slug": "egg-drop-test",
-   "title": "Egg Drop Challenge II: Test and Autopsy",
-   "focus": "Drop from ladder/veranda; inspect damage; correlate failure with design; improve and retest.",
-   "cbe": [
-    "JS-FE",
-    "UP-FE"
-   ],
-   "materials": [
-    "egg-drop rigs",
-    "ladder",
-    "eggs",
-    "cleanup kit"
-   ],
-   "hands_on": true,
-   "project": "egg-drop",
-   "advanced": "Estimate impact speed from 3 m (v=√(2gh)); then force for a 0.05 s stop on a 60 g egg.",
-   "n": 87,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-087-egg-drop-test.md"
-  },
-  {
-   "slug": "vertical-throws",
-   "title": "Throwing Straight Up",
-   "focus": "Ball up: slows at g, stops, returns at same speed (no air); time up = time down; catch height symmetry.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "ball",
-    "stopwatch"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Total flight 2.4 s: compute launch speed and peak height using symmetry.",
-   "n": 88,
-   "unit_slug": "gravity-falling-projectiles",
-   "unit_title": "Gravity, Falling Bodies & Projectiles",
-   "unit": 4,
-   "filename": "lessons/unit-04-gravity-falling-projectiles/lesson-088-vertical-throws.md"
-  }
- ]
-}
+BATCH 07 — Unit 4: Gravity, Falling Bodies & Projectiles
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-04-gravity-falling-projectiles/lesson-079-story-of-gravity.md | 79 | The Story of Gravity: Aristotle, Galileo, Newton | JS-FE | no | - | story cards; two stones (big/small) | Ideas through history; Leaning Tower thought experiment; hammer-and-feather on the Moon (video or story). | Explain Galileo's chained-balls argument against 'heavier falls faster'.
+lessons/unit-04-gravity-falling-projectiles/lesson-080-do-heavy-things-fall-faster.md | 80 | Do Heavy Things Fall Faster? A Fair Test | JS-FE;UP-FE | no | - | stones; paper; coin | Drop stone vs flat paper, then crumpled paper; air resistance confound revealed; same-height release method. | Design the test so mass differs but shape does not (bottle + water levels); predict the outcome.
+lessons/unit-04-gravity-falling-projectiles/lesson-081-free-fall-g.md | 81 | Free Fall and the Acceleration g | JS-FE | no | - | chalkboard; ball | g ≈ 10 m/s² meaning: speed grows 10 m/s each second; velocity table for 0-4 s of fall. | Compute speed and distance fallen at t=1,2,3 s using v=gt and d=½gt²; tabulate.
+lessons/unit-04-gravity-falling-projectiles/lesson-082-measuring-g-pendulum-preview.md | 82 | Measuring g: The Pendulum Promise | JS-FE | no | - | string; stone; stopwatch | Swing period depends on length not mass; preview T=2π√(L/g); plan the experiment (full method in Unit 11). | Rearrange T=2π√(L/g) to make g the subject; state what you'll plot.

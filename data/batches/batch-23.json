@@ -1,203 +1,29 @@
-{
- "batch": 23,
- "unit": 11,
- "unit_title": "Oscillations & Pendulums",
- "unit_slug": "oscillations-pendulums",
- "n_lessons": 9,
- "lessons": [
-  {
-   "slug": "back-and-forth",
-   "title": "Back and Forth: The World Oscillates",
-   "focus": "Swings, pendulums, springs, branches, guitar strings; define cycle, period, frequency, amplitude.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-2.1"
-   ],
-   "materials": [
-    "pendulum",
-    "spring/rubber",
-    "string instrument (optional)"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "A pendulum makes 20 cycles in 25 s: compute period and frequency with units.",
-   "n": 243,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-243-back-and-forth.md"
-  },
-  {
-   "slug": "pendulum-parts",
-   "title": "Anatomy of a Pendulum",
-   "focus": "Bob, string, pivot; equilibrium position; restoring force grows with displacement; energy sloshes PE↔KE.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "string",
-    "bobs",
-    "stand"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Sketch force arrows at both extremes and at the bottom; where is speed greatest and why?",
-   "n": 244,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-244-pendulum-parts.md"
-  },
-  {
-   "slug": "timing-pendulum",
-   "title": "Timing a Pendulum Properly",
-   "focus": "Time 10 swings and divide; start at 'zero' at the fastest point; why single-swing timing lies.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "pendulum",
-    "stopwatch"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Ten swings: 19.8, 20.2, 20.0 s. Give period with uncertainty and explain the 10-swing gain.",
-   "n": 245,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-245-timing-pendulum.md"
-  },
-  {
-   "slug": "period-vs-mass",
-   "title": "What Affects the Period? Test: Mass",
-   "focus": "Same length, stone vs wooden bob: no change; fair-test discipline; Galileo's cathedral story.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "two bobs",
-    "string",
-    "stand",
-    "stopwatch"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Explain mass-independence using both F=ma and the PE↔KE exchange.",
-   "n": 246,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-246-period-vs-mass.md"
-  },
-  {
-   "slug": "period-vs-amplitude",
-   "title": "What Affects the Period? Test: Amplitude",
-   "focus": "Small vs large swings: nearly equal (small-angle magic); where it breaks down (>30°).",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "pendulum",
-    "protractor card",
-    "stopwatch"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Measure period at 10°, 30°, 60°: quantify the breakdown and explain the small-angle approximation.",
-   "n": 247,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-247-period-vs-amplitude.md"
-  },
-  {
-   "slug": "period-vs-length",
-   "title": "What Affects the Period? Test: Length — The One That Matters",
-   "focus": "Vary length 20–100 cm; period grows; collect the class dataset for the graph lesson.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "string",
-    "bob",
-    "tape",
-    "stopwatch"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Predict the period at 25 cm given 1.0 s at 100 cm, using T∝√L.",
-   "n": 248,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-248-period-vs-length.md"
-  },
-  {
-   "slug": "pendulum-graph",
-   "title": "The Pendulum Graph: T² Against L",
-   "focus": "Plot T² vs L: a straight line through origin; gradient = 4π²/g; compute g from your own graph.",
-   "cbe": [
-    "G10-PHY-2.1",
-    "JS-FE"
-   ],
-   "materials": [
-    "graph paper",
-    "class dataset"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Full computation: gradient 0.040 s²/cm → g in m/s²; compare with your Unit 4 drop result.",
-   "n": 249,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-249-pendulum-graph.md"
-  },
-  {
-   "slug": "measuring-g-pendulum",
-   "title": "Measuring g Precisely: Pendulum vs Drop",
-   "focus": "Compare pendulum and drop methods side by side; which is more accurate and why; repeatability.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "pendulum kit",
-    "drop kit"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Write an error budget for both methods; recommend the school-standard procedure.",
-   "n": 250,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-250-measuring-g-pendulum.md"
-  },
-  {
-   "slug": "pendulum-clock-1",
-   "title": "Build: The One-Second Pendulum Clock I",
-   "focus": "Build a stand and pendulum; target T=1.00 s; compute the needed length (≈25 cm) then approach it by tuning.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-2.1"
-   ],
-   "materials": [
-    "stand",
-    "string",
-    "bob",
-    "tape"
-   ],
-   "hands_on": true,
-   "project": "pendulum-clock",
-   "advanced": "Use T=2π√(L/g) to predict L for T=1.000 s at g=9.8; compare with your tuned result.",
-   "n": 251,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-251-pendulum-clock-1.md"
-  }
- ]
-}
+BATCH 23 — Unit 6: Simple Machines
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-06-simple-machines/lesson-141-the-wedge.md | 141 | The Wedge: Pangas, Axes and Jembe Tips | G10-PHY-1.6;UP-FE | no | - | panga (teacher-handled); wood for splitting; wedge samples | Two inclined planes back to back; splitting firewood; why thin sharp wedges need less force; sharpening as physics. | A wedge 10 cm long, 2 cm thick driven by 200 N: ideal splitting force? (VR = length/thickness.)
+lessons/unit-06-simple-machines/lesson-142-the-screw.md | 142 | The Screw: A Spiral Inclined Plane | G10-PHY-1.6;JS-FE | yes | - | bottle with threads; paper triangle; screw jack (or photo); screws | Unwrap a paper triangle from a bottle thread; car screw jack lifting a vehicle; G-clamp force; wood screws vs nails. | Jack pitch 3 mm, handle 30 cm: compute VR per turn and ideal load for 200 N effort.
+lessons/unit-06-simple-machines/lesson-143-pulleys-fixed.md | 143 | Pulleys I: The Fixed Pulley | G10-PHY-1.6;JS-FE | yes | - | spool or hanger pulley; string; load | Flagpole and well pulley change direction only; build fixed pulley from a spool/wire hanger; MA = 1, comfort = high. | If a fixed pulley gives no force advantage, why do wells still use them? Three physical reasons.
+lessons/unit-06-simple-machines/lesson-144-pulleys-movable.md | 144 | Pulleys II: The Movable Pulley Halves the Effort | G10-PHY-1.6;JS-FE | yes | - | two pulleys; string; load; spring balance | One fixed + one movable; count supporting strands = ideal MA; measure real effort vs prediction. | Two-strand system lifts 100 N with measured 60 N: ideal effort, efficiency, and where 10 N went.

@@ -1,0 +1,29 @@
+BATCH 46 — Unit 10: Circular & Rotational Motion
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-10-circular-rotational-motion/lesson-229-speed-in-circles.md | 229 | Speed Around the Circle: v = 2πr/T | JS-FE | yes | - | playground roundabout or wheel; stopwatch; tape | Measure a merry-go-round or spinning wheel: count rotations, time them, compute rim speed. | Rim at 1.2 m radius turns once per 2.5 s: rim speed and centripetal acceleration (a=v²/r).
+lessons/unit-10-circular-rotational-motion/lesson-230-sliding-outward-myth.md | 230 | Why You Feel Flung Outward | JS-FE | no | - | basin; water; rag | Inertia carries you straight while the vehicle turns; 'centrifugal force' as a felt effect; soap in the spinning basin demo. | Explain the sliding-passenger sensation from the ground frame without inventing a new force.
+lessons/unit-10-circular-rotational-motion/lesson-231-leaning-and-banking.md | 231 | Leaning Bodas and Banked Corners | JS-FE | no | - | bicycle (slow, safe demo); photos of banked tracks | Riders lean into corners; banked velodromes and railway curves; lean angle relates speed and radius. | tanθ = v²/(rg): compute the lean angle for 8 m/s on a 10 m radius corner.
+lessons/unit-10-circular-rotational-motion/lesson-232-the-sling.md | 232 | The Herder's Sling: Release at the Right Moment | JS-FE | yes | sling-range | sling (cloth + cords); clay balls; open field | Whirl a sling with a soft clay ball; release timing controls direction; safety protocols in an open field. | Release at height 1.5 m, speed 15 m/s horizontal: compute range and explain the best release point in the circle.

@@ -1,0 +1,29 @@
+BATCH 37 — Unit 8: Fluids in Motion, Siphons & Pumps
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-08-fluids-in-motion-pumps/lesson-197-siphon-garden-3.md | 197 | Project: The Siphon Garden System III — Troubleshoot and Maintain | G10-PHY-1.2 | yes | siphon-garden | system; cleaning wire; spare tube | Air leaks, blockages, algae; priming ritual; seasonal checklist; handover document for next year's class. | Write the fault tree: no flow → (air in crest? inlet uncovered? outlet above inlet?) with a test for each branch.
+lessons/unit-08-fluids-in-motion-pumps/lesson-198-valves-one-way.md | 198 | Valves: The Heart of Every Pump | G10-PHY-1.2 | yes | flap-valve | bottle cut-down; rubber flap; clear tube; water | One-way flap valves from inner-tube rubber; watch one work on a clear tube; heart valves analogy; check valves in pumps. | Explain the pumping cycle as two valves opening alternately; what failure does a leaking inlet valve cause?
+lessons/unit-08-fluids-in-motion-pumps/lesson-199-diaphragm-pump-1.md | 199 | Build: A Hand Diaphragm Pump I | G10-PHY-1.2;G10-PHY-1.6 | yes | diaphragm-pump | stout bottle; inner-tube rubber; flap valves; tube; clamps/wire | Bottle + rubber diaphragm + two flap valves = working lift pump; assemble the pump head. | Estimate litres per stroke from diaphragm displacement; predict strokes per jerrican.
+lessons/unit-08-fluids-in-motion-pumps/lesson-200-diaphragm-pump-2.md | 200 | Build: A Hand Diaphragm Pump II — Performance Test | G10-PHY-1.2;G10-PHY-1.1 | yes | diaphragm-pump | pump; jerricans; tape; stopwatch; graph paper | Measure L/min at lift heights 0.5/1.0/1.5 m; graph performance; compare against a commercial pump spec. | Fit flow vs height trend; compute the pump's useful power at 1 m lift (P=ρgQh).

@@ -1,227 +1,29 @@
-{
- "batch": 13,
- "unit": 6,
- "unit_title": "Simple Machines",
- "unit_slug": "simple-machines",
- "n_lessons": 10,
- "lessons": [
-  {
-   "slug": "gears",
-   "title": "Gears: Trading Speed for Force",
-   "focus": "Bicycle gears; big cog slow-strong, small cog fast-weak; count teeth, compute ratios; drawgear on posho mill teaser.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "JS-FE"
-   ],
-   "materials": [
-    "bicycle (flipped)",
-    "chalk",
-    "toothpick pointer"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Front 44 teeth, rear 11 vs 28: compute wheel turns per pedal turn and the climbing advantage ratio.",
-   "n": 147,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-147-gears.md"
-  },
-  {
-   "slug": "belt-drives",
-   "title": "Belt Drives: Posho Mills and Sewing Machines",
-   "focus": "Belt connects pulleys; crossed vs open belt direction; slipping as a safety feature; tension adjustment.",
-   "cbe": [
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "two spools",
-    "rubber belt",
-    "board mount"
-   ],
-   "hands_on": true,
-   "project": "belt-drive",
-   "advanced": "Driver 10 cm, driven 30 cm: compute speed ratio and torque ratio for the posho mill.",
-   "n": 148,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-148-belt-drives.md"
-  },
-  {
-   "slug": "bicycle-machines-1",
-   "title": "The Bicycle: A Machine Made of Machines I",
-   "focus": "Identify lever (pedals, brakes), wheel-axle, gears, chain drive, bearings, screws on a real boda bicycle.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "JS-FE"
-   ],
-   "materials": [
-    "bicycle",
-    "label tags",
-    "notebook"
-   ],
-   "hands_on": true,
-   "project": "bicycle-study",
-   "advanced": "Trace the force path from foot to road, naming every machine and its MA contribution.",
-   "n": 149,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-149-bicycle-machines-1.md"
-  },
-  {
-   "slug": "bicycle-machines-2",
-   "title": "The Bicycle II: Measuring Its Advantages",
-   "focus": "Count gear teeth, measure pedal-arm and wheel radii, compute real ratios; brake lever MA; present findings.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.5"
-   ],
-   "materials": [
-    "bicycle",
-    "tape",
-    "chalk",
-    "calculator"
-   ],
-   "hands_on": true,
-   "project": "bicycle-study",
-   "advanced": "Combine pedal lever (0.17 m), chainring/cog ratio and wheel radius into one force multiplication number.",
-   "n": 150,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-150-bicycle-machines-2.md"
-  },
-  {
-   "slug": "treadle-sewing-machine",
-   "title": "The Treadle Sewing Machine: Foot to Needle",
-   "focus": "Treadle (lever) → crank → flywheel (rotation smoothed) → belt → needle; energy storage in the flywheel.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "JS-FE"
-   ],
-   "materials": [
-    "treadle machine (or detailed diagram)",
-    "thread"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Explain how the flywheel's stored energy carries the mechanism past the 'dead spots' of each stitch cycle.",
-   "n": 151,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-151-treadle-sewing-machine.md"
-  },
-  {
-   "slug": "compound-machine-design",
-   "title": "Design Challenge: A Machine for Our Village I",
-   "focus": "Teams choose a real task (lifting water, shelling maize, pressing tiles); sketch using ≥3 simple machines; peer review.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.5"
-   ],
-   "materials": [
-    "design sheets",
-    "pencils",
-    "rulers"
-   ],
-   "hands_on": true,
-   "project": "machine-design",
-   "advanced": "Estimate the combined MA and efficiency of your design from component values.",
-   "n": 152,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-152-compound-machine-design.md"
-  },
-  {
-   "slug": "compound-machine-build",
-   "title": "Design Challenge II: Build and Demonstrate",
-   "focus": "Build the chosen machine from jua kali scrap and school materials; demonstrate lifting/moving a real load.",
-   "cbe": [
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "scrap wood",
-    "wire",
-    "spools",
-    "rope",
-    "tools"
-   ],
-   "hands_on": true,
-   "project": "machine-design",
-   "advanced": "Measure actual MA with a spring balance; compare with design prediction and explain the gap.",
-   "n": 153,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-153-compound-machine-build.md"
-  },
-  {
-   "slug": "friction-efficiency-machines",
-   "title": "Why Machines Waste Energy",
-   "focus": "Friction in axles and ropes; efficiency measured across the unit's builds; lubrication and alignment as cures.",
-   "cbe": [
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "unit's built machines",
-    "oil",
-    "spring balance"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Rank the class builds by efficiency and propose one modification each that raises η by ≥10%.",
-   "n": 154,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-154-friction-efficiency-machines.md"
-  },
-  {
-   "slug": "machine-maintenance",
-   "title": "Maintenance Matters: Oiling, Tightening, Aligning",
-   "focus": "Boda service schedule as physics: chain lube, brake pads, bearing play; write a maintenance card for a class build.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "UP-FE"
-   ],
-   "materials": [
-    "bicycle",
-    "oil",
-    "spanners"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Quantify: a dry chain wastes ~5% of pedal energy — how many extra food kJ per 10 km ride?",
-   "n": 155,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-155-machine-maintenance.md"
-  },
-  {
-   "slug": "machine-fair-review",
-   "title": "Unit Review: Machine Fair",
-   "focus": "Every build on show with student explainers; visitors operate each; unit quiz.",
-   "cbe": [
-    "G10-PHY-1.6",
-    "G10-PHY-1.5"
-   ],
-   "materials": [
-    "all builds",
-    "sign cards"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Prepare a 2-minute explainer for one machine: include MA, VR, efficiency and one safety rule.",
-   "n": 156,
-   "unit_slug": "simple-machines",
-   "unit_title": "Simple Machines",
-   "unit": 6,
-   "filename": "lessons/unit-06-simple-machines/lesson-156-machine-fair-review.md"
-  }
- ]
-}
+BATCH 13 — Unit 5: Work, Energy & Power
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-05-work-energy-power/lesson-103-kinetic-energy.md | 103 | Kinetic Energy: Energy of Motion | G10-PHY-1.6;JS-FE | yes | - | bottle; stone; clay target | KE depends on mass and (especially) speed; rolling bottle vs rolling stone damage test on clay target. | Compute KE for a 1 kg bottle at 2 m/s vs 4 m/s: why does doubling speed quadruple the dent?
+lessons/unit-05-work-energy-power/lesson-104-gravitational-pe.md | 104 | Gravitational Potential Energy: Tanks on Stands | G10-PHY-1.6 | no | - | jerrican; stand or table; tape | PE = mgh; water tank on a stand is an energy store; calculate PE of a 1000 L tank 3 m up. | A 1000 L tank (1000 kg) raised 3 m: compute stored PE and the fall energy per litre — why tanks stand high.
+lessons/unit-05-work-energy-power/lesson-105-elastic-stored-energy.md | 105 | Elastic and Stored Energy | G10-PHY-1.6;G10-PHY-1.3 | no | - | rubber strips; green stick; string | Stretched rubber, drawn bow, bent stick, wound clock spring; store now, release later. | Estimate bow energy: average 30 N over 0.5 m draw — how fast could it launch a 30 g arrow ideally?
+lessons/unit-05-work-energy-power/lesson-106-energy-transformations-1.md | 106 | Energy Transformations I: Falling, Swinging, Shining | G10-PHY-1.6;JS-FE | no | - | ball; swing; torch | Falling mango PE→KE; swing cycle; torch chemical→electrical→light; chain diagrams drawn for each. | Draw the full chain for a boda ride from food eaten at breakfast to kinetic energy, naming each store.

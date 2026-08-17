@@ -1,0 +1,29 @@
+BATCH 70 — Unit 14: Wind & Water Power Projects
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-14-wind-water-power/lesson-321-motion-to-electricity.md | 321 | From Motion to Electricity: The Dynamo Teaser | G10-PHY-1.6;JS-FE | yes | - | bicycle dynamo + bulb (or demo unit) | Bicycle dynamo demo: spin → bulb lights; generator is a motor backwards; bridge to CBE 3.2 next year. | Estimate: your turbine spins a dynamo at 5 V/0.3 A — efficiency chain from stream to light.
+lessons/unit-14-wind-water-power/lesson-322-ram-siphon-return.md | 322 | The Ram and the Siphon Return | G10-PHY-1.2;G10-PHY-1.6 | no | - | site cards; unit 8 builds | Review: both move water with no engine; ram needs fall, siphon needs outlet lower than inlet; pick per site. | Site: spring 3 m above field, 100 m away, stream crossing between: siphon, ram or pipe? Defend with head math.
+lessons/unit-14-wind-water-power/lesson-323-rainwater-harvesting.md | 323 | Rainwater Harvesting Physics | G10-PHY-4.1;G10-PHY-1.1 | yes | tank-sizing | roof plan; rainfall data card; calculator | Roof catchment = rainfall × area; gutters and first-flush; tank sizing for the dry term; Kenyan rainfall patterns. | Roof 60 m², rain 800 mm/year, dry spell 90 days at 200 L/day: size the tank in m³ with reasoning.
+lessons/unit-14-wind-water-power/lesson-324-gravity-schemes.md | 324 | Gravity Water Schemes: From Spring to Village | G10-PHY-1.2;G10-PHY-1.6 | yes | - | water level; tape; map sketch | Survey head with the Unit 7 water level; pipe sizing to limit friction; break-pressure tanks on long drops. | A 3 km pipe drops 120 m: why insert break-pressure tanks? Compute static pressure at the bottom without them.

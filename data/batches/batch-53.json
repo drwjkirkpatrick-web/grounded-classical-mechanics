@@ -1,0 +1,29 @@
+BATCH 53 — Unit 11: Oscillations & Pendulums
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-11-oscillations-pendulums/lesson-255-damping.md | 255 | Damping: The Shock Absorber's Job | JS-FE;G10-PHY-1.6 | yes | - | rubber strip; mass; card damper; bicycle/boda observation | Swings stop by air + friction; test a mass on rubber with and without a card damper; boda shocks bounce-test. | A bounce-test corner settles in 1.5 vs 4 cycles after shock service: explain what changed energetically.
+lessons/unit-11-oscillations-pendulums/lesson-256-spring-oscillations.md | 256 | Springs Oscillate Too: Mass on a Rubber Strip | G10-PHY-1.3;G10-PHY-2.1 | yes | - | rubber strip/spring; masses; stopwatch | Period vs hanging mass measured; heavier = slower here (unlike pendulum); T∝√m pattern. | Plot T² vs m; use the gradient with T=2π√(m/k) to extract your strip's spring constant k.
+lessons/unit-11-oscillations-pendulums/lesson-257-metronome-build.md | 257 | Build: A Stick Metronome | G10-PHY-2.1;JS-FE | yes | metronome | ruler/stick; pivot; sliding clay weight; protractor card | Inverted pendulum with sliding weight: slide up for slow, down for fast; calibrate beats per minute for music. | Explain with the physical-pendulum idea why moving mass up slows the beat.
+lessons/unit-11-oscillations-pendulums/lesson-258-water-oscillations.md | 258 | Sloshing Water: Basins, Tanks and Bores | JS-FE;G10-PHY-2.1 | yes | - | basin; water; divider cards | Slosh a basin; natural slosh period vs basin size; why tankers have baffles; seiche on a lake teaser. | Explain why baffles raise damping and shift frequency; design a baffle layout for a pickup water tank.

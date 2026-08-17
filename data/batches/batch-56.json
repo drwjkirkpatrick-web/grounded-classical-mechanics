@@ -1,0 +1,29 @@
+BATCH 56 — Unit 12: Momentum & Collisions
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-12-momentum-collisions/lesson-265-elastic-collisions.md | 265 | Collisions That Bounce | JS-FE | yes | - | marbles/bottle tops; smooth board; rulers as rails | Marbles and bottle tops on a smooth board; equal masses 'swap speeds'; line-of-centres idea. | Equal-mass head-on collision: prove speed-swap from conservation of p and KE together.
+lessons/unit-12-momentum-collisions/lesson-266-inelastic-collisions.md | 266 | Collisions That Stick | JS-FE | yes | - | clay; board; toy cars with clay | Clay lumps collide and move on together; momentum conserved, KE not; where the KE went (deformation heat). | 2 kg clay at 3 m/s hits stationary 1 kg and sticks: final speed and the KE lost — account for it.
+lessons/unit-12-momentum-collisions/lesson-267-conservation-momentum.md | 267 | Conservation of Momentum | JS-FE | yes | - | two trolleys/toy cars; spring or rubber; masses; stopwatch | Two trolleys spring apart: equal and opposite momenta from rest; measure masses and speeds to check. | 3 kg cart moves off at 0.5 m/s as a 2 kg cart recoils at 0.75 m/s: verify conservation numerically.
+lessons/unit-12-momentum-collisions/lesson-268-safe-explosions.md | 268 | Safe 'Explosions': Springs and Balloons | JS-FE | yes | - | balloons; bottle boat; carts | Balloon release propels a bottle boat; spring-apart carts; internal forces only redistribute momentum. | Balloon 50 g ejects air backward: explain the boat's forward p with momentum bookkeeping.

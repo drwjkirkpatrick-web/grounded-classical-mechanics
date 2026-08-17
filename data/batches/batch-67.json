@@ -1,0 +1,29 @@
+BATCH 67 — Unit 14: Wind & Water Power Projects
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-14-wind-water-power/lesson-309-windmill-mk1.md | 309 | Windmill Project I: Rotor and Hub | G10-PHY-1.6 | yes | windmill | blade material; hub (old bicycle front hub ideal); nails/wire; tools | Build the working rotor: blades from mabati offcuts or stiff plastic on a bicycle hub/nail bearing; balance it. | Balance the rotor dynamically: explain wobble sources and fix via counterweights.
+lessons/unit-14-wind-water-power/lesson-310-windmill-tower.md | 310 | Windmill Project II: Tower and Yaw | G10-PHY-1.6;G10-PHY-1.3 | yes | windmill | poles; wire; tail sheet; pegs | Triangulated tower (Unit 13!), tail vane keeps rotor facing wind; safe height for school (2–3 m). | Compute the overturning moment at full wind on the rotor disc; specify pegging to resist it.
+lessons/unit-14-wind-water-power/lesson-311-windmill-drivetrain.md | 311 | Windmill Project III: The Drive Train | G10-PHY-1.6 | yes | windmill | crank wire; rod; guides; oil | Crank or cam converts rotation to reciprocation; connecting rod to the pump; friction points oiled. | Measure stroke length vs crank radius; relate strokes/minute to rotor rpm and gear options.
+lessons/unit-14-wind-water-power/lesson-312-windmill-pump-link.md | 312 | Windmill Project IV: Linking the Pump | G10-PHY-1.6;G10-PHY-1.2 | yes | windmill | diaphragm pump; tube; jerrican; clamps | Connect the Unit 8 diaphragm pump; suction line to a water container; check valve orientation verified. | Predict litres/minute from rotor rpm × stroke volume at your measured efficiency.

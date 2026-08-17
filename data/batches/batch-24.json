@@ -1,203 +1,29 @@
-{
- "batch": 24,
- "unit": 11,
- "unit_title": "Oscillations & Pendulums",
- "unit_slug": "oscillations-pendulums",
- "n_lessons": 9,
- "lessons": [
-  {
-   "slug": "pendulum-clock-2",
-   "title": "Build: The One-Second Pendulum Clock II — Calibrate",
-   "focus": "Adjust length against a clock over 5 minutes; temperature and wind effects; log drift; name your clock.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-1.1"
-   ],
-   "materials": [
-    "clock build",
-    "stopwatch",
-    "log sheet"
-   ],
-   "hands_on": true,
-   "project": "pendulum-clock",
-   "advanced": "Clock gains 2 s per 10 min: compute the length correction needed, with direction.",
-   "n": 252,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-252-pendulum-clock-2.md"
-  },
-  {
-   "slug": "swing-pumping",
-   "title": "How to Pump a Swing Higher",
-   "focus": "Standing-squatting timing pumps energy in; parametric pumping felt on a playground swing; timing is everything.",
-   "cbe": [
-    "JS-FE"
-   ],
-   "materials": [
-    "playground swing"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Explain pumping as changing effective length twice per cycle; where does the added energy come from?",
-   "n": 253,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-253-swing-pumping.md"
-  },
-  {
-   "slug": "resonance",
-   "title": "Resonance: Small Pushes, Big Swings",
-   "focus": "Push at the natural frequency; shaky bridge stories, wine-glass legend, boda bouncing on corrugations; damping as the cure.",
-   "cbe": [
-    "G10-PHY-2.1",
-    "JS-FE"
-   ],
-   "materials": [
-    "two pendulums on a shared string",
-    "spring"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Two coupled pendulums: explain energy transfer when lengths match, and detuning when they don't.",
-   "n": 254,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-254-resonance.md"
-  },
-  {
-   "slug": "damping",
-   "title": "Damping: The Shock Absorber's Job",
-   "focus": "Swings stop by air + friction; test a mass on rubber with and without a card damper; boda shocks bounce-test.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-1.6"
-   ],
-   "materials": [
-    "rubber strip",
-    "mass",
-    "card damper",
-    "bicycle/boda observation"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "A bounce-test corner settles in 1.5 vs 4 cycles after shock service: explain what changed energetically.",
-   "n": 255,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-255-damping.md"
-  },
-  {
-   "slug": "spring-oscillations",
-   "title": "Springs Oscillate Too: Mass on a Rubber Strip",
-   "focus": "Period vs hanging mass measured; heavier = slower here (unlike pendulum); T∝√m pattern.",
-   "cbe": [
-    "G10-PHY-1.3",
-    "G10-PHY-2.1"
-   ],
-   "materials": [
-    "rubber strip/spring",
-    "masses",
-    "stopwatch"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Plot T² vs m; use the gradient with T=2π√(m/k) to extract your strip's spring constant k.",
-   "n": 256,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-256-spring-oscillations.md"
-  },
-  {
-   "slug": "metronome-build",
-   "title": "Build: A Stick Metronome",
-   "focus": "Inverted pendulum with sliding weight: slide up for slow, down for fast; calibrate beats per minute for music.",
-   "cbe": [
-    "G10-PHY-2.1",
-    "JS-FE"
-   ],
-   "materials": [
-    "ruler/stick",
-    "pivot",
-    "sliding clay weight",
-    "protractor card"
-   ],
-   "hands_on": true,
-   "project": "metronome",
-   "advanced": "Explain with the physical-pendulum idea why moving mass up slows the beat.",
-   "n": 257,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-257-metronome-build.md"
-  },
-  {
-   "slug": "water-oscillations",
-   "title": "Sloshing Water: Basins, Tanks and Bores",
-   "focus": "Slosh a basin; natural slosh period vs basin size; why tankers have baffles; seiche on a lake teaser.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-2.1"
-   ],
-   "materials": [
-    "basin",
-    "water",
-    "divider cards"
-   ],
-   "hands_on": true,
-   "project": null,
-   "advanced": "Explain why baffles raise damping and shift frequency; design a baffle layout for a pickup water tank.",
-   "n": 258,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-258-water-oscillations.md"
-  },
-  {
-   "slug": "building-oscillations",
-   "title": "Buildings That Sway",
-   "focus": "Flexible vs stiff; Rift Valley earthquake awareness; water tanks on towers act like pendulums; model with sticks and clay.",
-   "cbe": [
-    "G10-PHY-2.1",
-    "G10-PHY-1.3"
-   ],
-   "materials": [
-    "sticks",
-    "clay",
-    "shake table (board on rollers)"
-   ],
-   "hands_on": true,
-   "project": "shake-table",
-   "advanced": "Tall flexible vs short stiff model on the shake table: relate survival to natural frequency mismatch.",
-   "n": 259,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-259-building-oscillations.md"
-  },
-  {
-   "slug": "pendulum-olympics",
-   "title": "Unit Review: Pendulum Olympics",
-   "focus": "Stations: predict the period, tune to a target, coupled-pendulum demo, damping race; unit quiz.",
-   "cbe": [
-    "JS-FE",
-    "G10-PHY-2.1"
-   ],
-   "materials": [
-    "all unit 11 kit"
-   ],
-   "hands_on": false,
-   "project": null,
-   "advanced": "Championship: specify a pendulum to keep Nairobi time within 30 s/day; show the design math.",
-   "n": 260,
-   "unit_slug": "oscillations-pendulums",
-   "unit_title": "Oscillations & Pendulums",
-   "unit": 11,
-   "filename": "lessons/unit-11-oscillations-pendulums/lesson-260-pendulum-olympics.md"
-  }
- ]
-}
+BATCH 24 — Unit 6: Simple Machines
+Write 4 lesson files at the exact paths below.
+
+EMBEDDED TEMPLATE — use these section headers in this exact order (replace {placeholders}):
+# Lesson {NNN}: {exact title}
+**Unit:** {unit line}  |  **Duration:** 45 minutes  |  **Ages:** 10-17 (differentiated)
+**CBE Alignment:** {codes}  |  **Hands-On:** {Yes/No}  |  **Project:** {slug or —}
+## Learning Outcomes         (3-4 numbered, action verbs)
+## Materials                 (bulleted, local objects + substitutes)
+## Vocabulary                (4-7 terms: **term** (Kiswahili) — meaning)
+## Pre-Test                  (3-4 numbered Qs; then line '**Answer Key (Pre-Test):**' + numbered answers)
+## Lesson Flow (45 Minutes)  (numbered steps with (N min) markers summing to EXACTLY 45:
+                             5 settle+pre-test, 5 engage, 15 explore, 8 explain, 10 post-test, 2 wrap)
+## Hands-On Build: {name}    (ONLY if hands_on=yes) with:
+### Parts                    (part — qty — source/substitute)
+### Workflow                 (numbered steps; include a **Checkpoint:** step)
+### Common Mistakes          (mistake + fix bullets)
+## Post-Test                 (4-5 numbered Qs, Q1-2 marked as mirroring pre-test; then '**Answer Key (Post-Test):**' + answers with working)
+## Advanced Questions (Ages 14–17)   (2-3 items, each '**Q:** ...' then '   **Worked Answer:** ...' with full working and units)
+## Safety Notes              (specific hazards of THIS activity)
+## Teacher Notes             (prior knowledge, differentiation 10-13 vs 14-17, local sourcing tips, CBE assessment note)
+Body ~450-700 words. Physics: g=10 N/kg, water 1000 kg/m3, 1 L water = 1 kg, sound ~340 m/s.
+Ground everything in Kenyan objects: boda, matatu, mkokoteni, jerrican, debe, sufuria, sisal, mabati, jembe, jiko, posho mill, jua kali.
+
+filename | n | title | cbe | hands_on | project | materials | focus | advanced
+lessons/unit-06-simple-machines/lesson-145-block-and-tackle.md | 145 | Block and Tackle: The Jua Kali Engine Hoist | G10-PHY-1.6 | yes | block-tackle | two double-pulley blocks (or looped spools); rope; heavy load | Chain blocks lifting engines; rig a 4-strand system; the long pull for a big lift; safety under suspended loads. | 4-strand tackle, load 800 N, efficiency 70%: effort required and rope pulled for a 0.5 m lift.
+lessons/unit-06-simple-machines/lesson-146-pulley-lab.md | 146 | Pulley Lab: Effort vs Strand Count | G10-PHY-1.6;G10-PHY-1.1 | yes | - | pulley set; spring balance; loads; graph paper | Systematically measure effort for 1,2,3,4 strands; plot effort vs 1/strands; discuss friction's growing share. | Fit your data to effort = W/(n·η): estimate η per strand and explain the downward trend.
+lessons/unit-06-simple-machines/lesson-147-gears.md | 147 | Gears: Trading Speed for Force | G10-PHY-1.6;JS-FE | yes | - | bicycle (flipped); chalk; toothpick pointer | Bicycle gears; big cog slow-strong, small cog fast-weak; count teeth, compute ratios; drawgear on posho mill teaser. | Front 44 teeth, rear 11 vs 28: compute wheel turns per pedal turn and the climbing advantage ratio.
+lessons/unit-06-simple-machines/lesson-148-belt-drives.md | 148 | Belt Drives: Posho Mills and Sewing Machines | G10-PHY-1.6 | yes | belt-drive | two spools; rubber belt; board mount | Belt connects pulleys; crossed vs open belt direction; slipping as a safety feature; tension adjustment. | Driver 10 cm, driven 30 cm: compute speed ratio and torque ratio for the posho mill.
